@@ -1,0 +1,788 @@
+SIGCSE
+MOSEK
+Conference on Automated Deduction
+Instrumentation (computer programming)
+OPL Development Studio
+Canterbury Corpus
+European Society for Fuzzy Logic and Technology
+Bidirectionalization
+History of theory of computation
+Kernel debugger
+Gödel Prize
+European and Mediterranean Conference on Information Systems
+Paris Kanellakis Award
+Graph state
+European Association for Theoretical Computer Science
+Ken Kennedy Award
+ECSE (Academic Degree)
+Elliott Cresson Medal
+Data truncation
+Eckert–Mauchly Award
+Discriminative model
+SIGGRAPH
+Doubly chained tree
+Acceptable programming system
+Computable isomorphism
+Dagstuhl
+CETpD
+Hazard pointer
+Knowledge Collection from Volunteer Contributors
+In-database processing
+Seymour Cray Computer Engineering Award
+MindModeling@Home
+International Symposium on Mixed and Augmented Reality
+Experimental software engineering
+Symposium on Theory of Computing
+Computer Society of Sri Lanka
+Identification scheme
+ASCIIMathML
+Epigrams on Programming
+Conference on Innovative Data Systems Research
+Alasdair Turner
+Technical informatics
+CUBIT
+PSPACE
+Bachelor of Computer Science
+Gerard Salton Award
+Decimal data type
+Pirelli Internetional Award
+Classification scheme
+SIGMOD Edgar F. Codd Innovations Award
+FINO
+Computational semiotics
+ACCU (organisation)
+XML UK
+Biba Model
+Layer (object-oriented design)
+Kim Cameron (computer scientist)
+Fundamenta Informaticae
+Brodal queue
+Database-as-IPC
+Dynamic data
+Ipke Wachsmuth
+British Colloquium for Theoretical Computer Science
+Association for Automated Reasoning
+International Conference on Logic Programming
+Commit (data management)
+William C. Carter Award
+International Conference on Architectural Support for Programming Languages and Operating Systems
+International Conference on Language Resources and Evaluation
+Memory organisation
+Association for the Advancement of Artificial Intelligence
+International Conference on Automated Reasoning with Analytic Tableaux and Related Methods
+Digital Preservation Award
+Barry Smith (academic and ontologist)
+Constraint (information theory)
+Open Architecture Computing Environment
+Interconnect bottleneck
+Jonathan B. Postel Service Award
+IEEE Circuits and Systems Society
+European Summer School in Logic, Language and Information
+Text, speech and dialogue
+International Conference on Parallel and Distributed Systems
+Empirical modelling
+Maximal pair
+Harlan Mills
+Abstract syntax tree
+John von Neumann Theory Prize
+Feature space
+Java APIs for Bluetooth
+Genetic memory (computer science)
+Log-space transducer
+Master of Computer Applications
+Carnegie Mellon Institute for Software Research International
+Decentralized object location and routing
+IEEE John von Neumann Medal
+Analog image processing
+Proof of O(log*n) time complexity of Union Find
+Internet Technical Committee
+Left corner
+Programming Language Design and Implementation
+Center for Computational Mass Spectrometry
+Continuous automaton
+Action language
+HABU equivalent
+Hierarchical visitor pattern
+Logistic model tree
+Bootstrapping (compilers)
+Knowledge Systems Laboratory
+European Conference on Object-Oriented Programming
+Multilevel queue
+EPAM
+Turing Award
+Robert Tomasulo
+Build verification test
+Information Systems Research in Scandinavia
+New Zealand Computer Society
+Sidney Fernbach Award
+Double compare-and-swap
+Fundamental pattern
+In-target probe
+List of books in computational geometry
+Computer-Aided Design Technical Committee
+Fundamental Concepts in Programming Languages
+Game Description Language
+Deadline-monotonic scheduling
+Counter automaton
+Tsutomu Kanai Award
+Bunched logic
+Magic pushbutton
+Alan Turing Centenary Conference
+Bus contention
+B-staging
+Focus-plus-context screen
+North American Chapter of the Association for Computational Linguistics
+Hit-or-miss transform
+Institute for Personal Robots in Education
+Information Systems Professional
+TOOLS conference series
+ACM Multimedia
+Multiprocessor scheduling
+Association for Logic, Language and Information
+Alewife (multiprocessor)
+Hybrid automaton
+Channel code
+Association for Information Systems
+Macintosh Manager
+C. K. Raut
+Longest repeated substring problem
+European Research Center for Information Systems
+Microsoft Visual C Sharp
+On the Cruelty of Really Teaching Computer Science
+Don't-care term
+IEEE Richard W. Hamming Medal
+Is-a
+Fxgrep
+Error floor
+Key distribution
+Dynamic program analysis
+Operating Systems Design and Implementation
+Barrier (computer science)
+Iterative refinement
+International Conference on Computer and Information Technology
+Knowledge Interchange Format
+History of programming languages
+ACM/IEEE Supercomputing Conference
+Ge Wang
+Online algorithm
+Multi-task learning
+POPLmark challenge
+Newman's lemma
+Computer Pioneer Award
+Opaque data type
+Information Retrieval Facility
+Middle-square method
+COSYSMO
+Peyman Faratin
+Allen B. Downey
+VLDB
+SIC/XE
+Gabbay's separation theorem
+Computer Aided Verification
+International Conference on VLSI Design
+Association list
+Large Installation System Administration Conference
+Circuit minimization
+History of computer science
+Ephemeron
+IEEE Transactions on Evolutionary Computation
+Kentaro Toyama
+3SUM
+Computational thinking
+Accidental complexity
+Metacomputing
+ABC@Home
+MPT8080
+HEXQ
+Code on demand
+International Symposium on Microarchitecture
+Image-based modeling and rendering
+K-medians clustering
+Symposium on Principles and Practice of Parallel Programming
+Grace Murray Hopper Award
+SIGCOMM Award
+Nevanlinna Prize
+Offset (computer science)
+Harry H. Goode
+Memory-disk synchronization
+Laboratory for Foundations of Computer Science
+Cellular multiprocessing
+Object-oriented modeling
+Computer game bot Turing Test
+Computational Advertising
+Affective design
+MCOP
+ACM Software System Award
+Dahl-Nygaard Prize
+Computational complexity of mathematical operations
+Fanya Montalvo
+International Conference on Remote Engineering and Virtual Instrumentation
+Mean-shift
+International Conference on Acoustics, Speech, and Signal Processing
+Dijkstra Prize
+Association for Computational Linguistics
+List of computer scientists
+IBM Centers for Advanced Studies
+Lapis (text editor)
+Kernel (programming language)
+Coreset
+Michael S. Montalbano
+Defining length
+Hole punching
+Cache stampede
+Novell S-Net
+Algebraic specification
+Geomorphing
+IBM Research
+Lin–Kernighan heuristic
+Gelato Federation
+Pranav Mistry
+Defense in depth (computing)
+Software Engineering Body of Knowledge
+Michael P. Barnett
+Computing with words and perceptions
+Ateji PX
+Turing Lecture
+Symposium on Applied Computing
+Alternating finite automaton
+Context-adaptive variable-length coding
+Hutter Prize
+Unique games conjecture
+Computer Russification
+Innovations in Systems and Software Engineering
+Holland's schema theorem
+Model of computation
+J sort
+Connection string
+CoSy (computer conferencing system)
+Modality (human–computer interaction)
+Contract Net Protocol
+National Centre for Text Mining
+Instruction prefetch
+Identity map pattern
+J.W. Graham Medal
+AQUA@home
+International Joint Conference on Automated Reasoning
+Egomotion
+Edit distance
+Minger Email Address Verification Protocol
+Viktor Ivannikov
+OOPSLA
+Distributed design patterns
+Improbability factor
+Raspberry Pi Foundation
+Object model
+Stevens Award
+Cluster-aware application
+Church–Rosser theorem
+Factorette
+Flag (computing)
+Requirements Engineering Specialist Group
+Information and Computer Science
+CHREST
+IEEE Symposium on Logic in Computer Science
+Compressed pattern matching
+Bruce Maggs
+IJCAI Award for Research Excellence
+Filter object
+Ontology library (information science)
+Computability in Europe
+John von Neumann Computer Society
+MailSlot
+Multiphysics Methods Group
+CMN-GOMS
+Epitome (image processing)
+Implicit invocation
+Australian Committee on Computation and Automatic Control
+HyTime Users' Group
+Hash consing
+Occam-π
+Evolutionary programming
+Agent systems reference model
+Decision rules
+Idle (CPU)
+History of the Scheme programming language
+Join selection factor
+SPLASH conference
+Bird-Meertens Formalism
+Higher Computing
+Constrained clustering
+LaserLock
+IEEE Transactions on Computers
+Principles of Programming Languages
+Lost in hyperspace
+Fulkerson Prize
+Certified Forensic Computer Examiner
+Presburger Award
+Mexican International Conference on Artificial Intelligence
+ALF (proof assistant)
+Adriaan van Wijngaarden
+Eurographics
+International Conference on Functional Programming
+Symposium on Operating Systems Principles
+Workshop on Information Technologies and Systems
+K-ary tree
+Memory map
+Object detection
+Alan Turing Year
+Digital Humanities conference
+Irish Computer Society
+Bebugging
+ISBL
+Conference on Human Factors in Computing Systems
+Knowledge Acquisition and Documentation Structuring
+Algebraic Reconstruction Technique
+National Center for Data Mining
+God object
+Left child-right sibling binary tree
+Shriram Krishnamurthi
+Australasian Language Technology Association
+DUAL (cognitive architecture)
+Graph isomorphism problem
+Church–Turing thesis
+Odd–even sort
+Coding by exception
+ProgramByDesign
+Blind faith (computer programming)
+One-hot
+Roger Sisson
+World Multiconference on Systemics, Cybernetics and Informatics
+Operability
+Multilevel feedback queue
+Adaptive optimization
+Object-based
+C-slowing
+SIGDOC
+Left corner parser
+Higher-Order and Symbolic Computation
+Engineering and Physical Sciences Research Council
+Include vulnerability
+Hofstadter's law
+CPM-GOMS
+USENIX
+Fundamental theorem of linear programming
+Floyd's triangle
+Algebraic Logic Functional programming language
+The Journal of Supercomputing
+Filter (higher-order function)
+Microsoft Award
+Generalized star height problem
+Computer Science Tripos
+Internet services technology
+Ontology Definition MetaModel
+Import and export of data
+Bachelor in Information Management
+Symposium on Trends in Functional Programming
+Intermittent fault
+Keel (software)
+Eugene Lawler
+Conference on Computer Vision and Pattern Recognition
+Critical Security Parameter
+Software Engineering 2004
+Class stub
+Association of Synchronous Data Formats
+ACM Computing Classification System
+Brazilian Computer Society
+Australian Computer Society
+Additive increase/multiplicative decrease
+Activation function
+Milind Tambe
+Automatic layout
+Convergence (logic)
+William "Bill" M. Tomlinson
+Master of Science in Information Technology
+List of important publications in cryptography
+COMAL
+MERODE
+Institute of Computing Technology of the Chinese Academy of Sciences
+Opening (morphology)
+Belief–desire–intention model
+GLOH
+Negative cache
+Malcolm Atkinson
+Nested loop join
+International Symposium on Memory Management
+SIGKDD
+Cooperative distributed problem solving
+Bachelor of Science in Information Technology
+Computational neurogenetic modeling
+High Performance Knowledge Bases
+Bit-oriented protocol
+Degree of parallelism
+General-purpose modeling
+Formula game
+Detail-oriented programming
+Academic genealogy of computer scientists
+First-order reduction
+Content Security Policy
+Deterministic parsing
+Canadian Information Processing Society
+IBM CASCON
+Moral graph
+Lernmatrix
+CRA-W: Committee on the Status of Women in Computing Research
+CEPIS
+BinaryObject (metadata)
+Existence detection
+Log probability
+List of computer science conferences
+Eric Horvitz
+Escuela Superior Latinoamericana de Informática
+Methuselah (cellular automaton)
+AMPATH
+Human-centered computing
+Kleene award
+International Conference on Web Services
+Automated exception handling
+Electric Jungle
+Ahmed K. Elmagarmid
+Flat list
+International Conference on Intelligent Text Processing and Computational Linguistics
+Algorithmica
+Enlaces
+Coset leader
+Partha Niyogi
+B-trie
+Malaysian National Computer Confederation
+Driver wrapper
+Gang scheduling
+Conor McBride
+Concurrency semantics
+Advanced Placement Computer Science
+Aanderaa–Karp–Rosenberg conjecture
+List ranking
+Informatics (academic field)
+Complex data type
+International Solid-State Circuits Conference
+Charging argument
+Hennessy–Milner logic
+Fat tree
+Delimiterless input
+Nullary constructor
+Format rot
+Encrypted function
+Inverse parser
+International Symposium on Wearable Computers
+Guarded suspension
+American Federation of Information Processing Societies
+Configurable modularity
+Deutsch limit
+LZRW
+Non-speech audio input
+Graph-structured stack
+ClearTalk
+Compile farm
+White Camel award
+Gesellschaft für Informatik
+Information exchange
+Flat Neighborhood Network
+Leslie Blackett Wilson
+Deep learning
+JExamples
+Ueli Maurer (cryptographer)
+Australian Partnership for Advanced Computing
+Information Harvesting
+International Conference on Bioinformatics
+Differential Dynamic Programming
+Informatics Europe
+Adjustment handles
+NC (complexity)
+List of important publications in computer science
+Code Club
+KDL
+Atropos scheduler
+John Hughes (computer scientist)
+Instruction step
+Conference on Embedded Networked Sensor Systems
+Context-adaptive binary arithmetic coding
+Captology
+Tony Kent Strix award
+Divergence (computer science)
+Chatterbot
+Dichotomic search
+Philosophy of computer science
+Deterministic garbage collector
+Partnership for Advanced Computing in Europe
+Cambridge Diploma in Computer Science
+Granulometry (morphology)
+International Symposium on Logic-based Program Synthesis and Transformation
+Archive file
+Symposium on Principles of Database Systems
+Discrete logarithm
+List of computer science conference acronyms
+Modified condition/decision coverage
+European Conference on Computer Vision
+Available expression
+European Conference on Information Retrieval
+Dolev-Yao model
+Forest of stars
+Disambiguation (metadata)
+IBM WebFountain
+John Mathieson (computer scientist)
+Tanel Tammet
+ALGOL W
+Cross Industry Standard Process for Data Mining
+Hardware compatibility list
+Herbrand Award
+Medoid
+Bounded-error probabilistic polynomial
+Journal of Software Maintenance and Evolution: Research and Practice
+Diploma in Computer Science
+Collision avoidance (networking)
+International Symposium on Computer Architecture
+Madcap (project)
+Factory (software concept)
+List of grid computing middleware distribution
+Hard space
+MIT Media Lab Object-Based Media
+Computing Research Association
+ARACNE
+ACM Transactions on Programming Languages and Systems
+Flag day (software)
+Bremermann's limit
+Outline of computer science
+Decoupled architecture
+Factor oracle
+Victor Vianu
+Scottish Informatics and Computer Science Alliance
+Morphological skeleton
+Input/output completion port
+Computational Science and Engineering
+Implicit parallelism
+Fixed-priority pre-emptive scheduling
+Language technology
+Interaction protocol
+David Karger
+CADE ATP System Competition
+Industrial data processing
+IEEE Systems, Man, and Cybernetics Society
+Library sort
+Gateway Setup Assistant
+Trevor Bench-Capon
+Free Information Infrastructure
+InterPlaNet
+European Symposium on Algorithms
+Gerhard Fischer (professor)
+Pacific Symposium on Biocomputing
+Interval-valued computation
+Ahmed Kaboudan
+Hand coding
+Algebraic semantics (computer science)
+On-line Debugging Tool
+List of North American Grid computing infrastructures
+Electronic quantum holography
+RoboMind
+Indian Association for Research in Computing Science
+Microelectronics and Computer Technology Corporation
+Branch target predictor
+Boolean hierarchy
+James McDonald (writer)
+Concurrent MetateM
+Filer.js
+Jon Postel
+JBOB
+Alolita Sharma
+International Conference on Services Computing
+Human–machine system
+Computer science
+Computational scientist
+Jump threading
+Ravi Gomatam
+VIBOT
+P versus NP problem
+Philippine Society of Information Technology Educators
+Event Processing Technical Society
+History of Programming Languages
+Robert Kozma
+Brian's Brain
+Channel (programming)
+International Supercomputing Conference
+Archival Resource Key
+Multiple asynchronous periodic polling
+LogP machine
+Binary code compatibility
+Integer factorization
+Exclusive relationship
+OrientDB
+Distributed object
+Collision (computer science)
+LEGO (proof assistant)
+Computer science in sport
+List of unsolved problems in computer science
+List of important publications in theoretical computer science
+Metrical task system
+ITRON Project
+Journal of Logic and Computation
+Block contention
+API-Calculus
+Ontology language
+The Hillside Group
+Special Interest Group on Information Retrieval
+Research Institute for Symbolic Computation
+Coalescing (computer science)
+Miswart
+Computing Community Consortium
+Compiler
+Datatjej
+Onward!
+Grooveshark University
+FINS
+Mount (Unix)
+Alias method
+Edge loop
+LZJB
+Data drilling
+HackNY
+Inversion (discrete mathematics)
+SIGPLAN
+Ceylon (programming language)
+Fuzzy transportation
+Durability (database systems)
+Machtey Award
+Elastic matching
+Mogensen–Scott encoding
+J. H. Wilkinson Prize for Numerical Software
+Moodbar
+FOSSIL
+Special Interest Group on Accessible Computing
+Engine (computer science)
+BT Research
+Admissible heuristic
+EXperimental Computing Facility
+NovoGen
+Cω
+Misbug
+GridWorld
+Apple Worm
+Minivac 601
+Inductive bias
+Nearline storage
+Black Data Processing Associates
+The Journal of Logic and Algebraic Programming
+Lovelace Medal
+Locality preserving hashing
+Data-stream management system
+Open Knowledge Base Connectivity
+Morphological gradient
+Message Understanding Conference
+WikiSym
+Curry–Howard correspondence
+Line segment intersection
+Graphics Turing Test
+Fragmented distribution attack
+Association for Computing Machinery
+International Conference on Interactive Computer Aided Learning
+Echo state network
+IEEE Transactions on Control Systems and Technology
+Least frequently used
+Federated Computing Research Conference
+International Computer Music Conference
+Leaf subroutine
+Left-leaning red-black tree
+Iliffe vector
+IEEE Communications Society
+Matrix clocks
+Attribute-oriented programming
+Javolution
+Mesh generation
+CHI Academy
+International World Wide Web Conference
+Attentive user interface
+Maximum common edge subgraph problem
+Leiden Classical
+Context tree weighting
+Doo–Sabin subdivision surface
+Lossless data compression
+Code rate
+Gordon Bell Prize
+Intruder detection
+.csnet
+Leabra
+Levenshtein transducer
+Flexible rake receiver
+List of important publications in concurrent, parallel, and distributed computing
+Wim Sweldens
+Google–O'Reilly Open Source Award
+Large-scale Complex IT Systems
+Ontology Inference Layer
+Cristina Lopes
+JMusic
+Failure-oblivious computing
+BOOPSI
+ISCB Africa ASBCB Bioinformatics Conference
+Cost efficiency
+Conditional compilation
+Eight Ones
+Fast path
+Knuth Prize
+HOOD method
+Degree of isochronous distortion
+JCSP re
+Observational equivalence
+Co-NP
+MobileHCI
+Society for the Study of Artificial Intelligence and the Simulation of Behaviour
+Orphan process
+Modified due-date scheduling heuristic
+Application discovery and understanding
+Negative-acknowledge character
+Expectation propagation
+Event (synchronization primitive)
+Functional compiler
+Lamport's Distributed Mutual Exclusion Algorithm
+BURS
+Bit-reversal permutation
+Nonpositive data
+British Computer Society
+International Journal of Computational Cognition
+Loebner Prize
+Maria (reachability analyzer)
+Interactive computing
+Madaline
+Matrix multiplication
+Sloan Fellowship
+Behavioral modeling in computer-aided design
+International Conference on Computer Vision
+Computer scientist
+Divergence-from-randomness model
+International Conference on Information Processing in Sensor Networks
+Fileset
+Internal field separator
+Geometry processing
+Hunt–McIlroy algorithm
+Breeder (cellular automaton)
+IEEE Computer Society
+Conference on Information and Knowledge Management
+One-way function
+HOOPLA!
+Mortality (computability theory)
+Moloch (computing)
+SIGMOD
+Eager evaluation
+Pure type system
+Lazy deletion
+Concurrency pattern
+Clause (logic)
+Link-time optimization
+K-server problem
+FBCS
+Locally decodable code
+List of European grid computing infrastructures
+Abox
+Junction table
+Consultation (object-oriented programming)
+Dynamic priority scheduling
+Burstsort
+Konrad Zuse Medal
+Global Neighborhood Watch
+Arc routing
+AppML
+Automatic distillation of structure
+Nested stack automaton
+International Conference on Distributed Computing Systems
+International Conference on Developments in Language Theory
+Archetype (information science)
+Francine Berman
+International Conference on Availability, Reliability and Security
+Molecular computational identification
+Monkey test

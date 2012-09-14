@@ -1,0 +1,3734 @@
+ID: 1183912 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory 
+
+ID: 1183913 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory 
+
+ID: 1162350 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Geometrical problems and computations
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.3 Applications
+J. Computer Applications
+J.3 LIFE AND MEDICAL SCIENCES 
+
+ID: 1162351 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes 
+
+ID: 1162352 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES
+Subjects:
+Distributed data structures
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sorting and searching
+H. Information Systems
+H.3 INFORMATION STORAGE AND RETRIEVAL
+H.3.2 Information Storage
+Subjects:
+File organization 
+
+ID: 1162353 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES
+Subjects:
+Lists, stacks, and queues 
+
+ID: 1147955 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.1 Numerical Algorithms and Problems 
+
+ID: 1147956 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS
+Subjects:
+Probabilistic algorithms (including Monte Carlo) 
+
+ID: 1147957 
+ Primary Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Combinatorial algorithms
+Additional Classification:
+I. Computing Methodologies
+I.3 COMPUTER GRAPHICS
+I.3.5 Computational Geometry and Object Modeling
+Subjects:
+Geometric algorithms, languages, and systems
+I.5 PATTERN RECOGNITION
+I.5.1 Models
+Subjects:
+Geometric
+J. Computer Applications
+J.2 PHYSICAL SCIENCES AND ENGINEERING
+Subjects:
+Chemistry
+Physics
+J.3 LIFE AND MEDICAL SCIENCES
+Subjects:
+Biology and genetics 
+
+ID: 1147958 
+ Primary Classification:
+D. Software
+D.1 PROGRAMMING TECHNIQUES
+D.1.3 Concurrent Programming
+Subjects:
+Parallel programming
+Additional Classification:
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.1 Process Management
+Subjects:
+Synchronization
+Concurrency
+Multiprocessing/multiprogramming/multitasking
+E. Data
+E.2 DATA STORAGE REPRESENTATIONS
+Subjects:
+Hash-table representations 
+
+ID: 1147959 
+ Primary Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.2 Grammars and Other Rewriting Systems
+Subjects:
+Parsing
+Additional Classification:
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS
+Subjects:
+Statistical computing
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.7 Natural Language Processing
+Subjects:
+Language models 
+
+ID: 1147960 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures 
+
+ID: 1147961 
+ Primary Classification:
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.1 Formal Definitions and Theory
+Subjects:
+Syntax
+Additional Classification:
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.2 Semantics of Programming Languages
+Subjects:
+Operational semantics
+Algebraic approaches to semantics
+Denotational semantics
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Mechanical theorem proving 
+
+ID: 1147962 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES 
+
+ID: 1131344 
+ Primary Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Model theory
+Additional Classification:
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.3 Languages
+Subjects:
+Query languages 
+
+ID: 1131345 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES
+Subjects:
+Trees
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+Subjects:
+Reducibility and completeness
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.3 Languages
+Subjects:
+Query languages
+H.2.4 Systems
+Subjects:
+Query processing
+I. Computing Methodologies
+I.7 DOCUMENT AND TEXT PROCESSING
+I.7.2 Document Preparation
+Subjects:
+Markup languages 
+
+ID: 1131346 
+ Primary Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Additional Classification:
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.3 Languages
+I. Computing Methodologies
+I.3 COMPUTER GRAPHICS
+I.3.5 Computational Geometry and Object Modeling 
+
+ID: 1131343 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL 
+
+ID: 1120583 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sequencing and scheduling 
+
+ID: 1120584 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+Subjects:
+Reducibility and completeness
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Logic and constraint programming
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Combinatorial algorithms 
+
+ID: 1120585 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems 
+
+ID: 1120586 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Counting problems
+Generating functions 
+
+ID: 1120587 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 
+
+ID: 1101822 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+F.2.3 Tradeoffs among Complexity Measures 
+
+ID: 1101823 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms
+Network problems 
+
+ID: 1101824 
+ Primary Classification:
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.3 Language Constructs and Features
+Additional Classification:
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.1 Specifying and Verifying and Reasoning about Programs 
+
+ID: 1101825 
+ Primary Classification:
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.2 Semantics of Programming Languages
+Subjects:
+Operational semantics
+Additional Classification:
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.2 Semantics of Programming Languages
+Subjects:
+Process models 
+
+ID: 1089024 
+ Primary Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.8 Problem Solving, Control Methods, and Search
+Subjects:
+Graph and tree search strategies 
+
+ID: 1089025 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 
+
+ID: 1089026 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Geometrical problems and computations
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms 
+
+ID: 1089027 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 
+
+ID: 1089028 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.1 Network Architecture and Design
+Subjects:
+Wireless communication
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.m Miscellaneous 
+
+ID: 1082037 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sorting and searching 
+
+ID: 1082038 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics 
+
+ID: 1082039 
+ Primary Classification:
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.2 Storage Management
+Additional Classification:
+E. Data
+E.1 DATA STRUCTURES
+E.4 CODING AND INFORMATION THEORY
+Subjects:
+Data compaction and compression
+E.5 FILES
+Subjects:
+Sorting/searching
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Pattern matching
+H. Information Systems
+H.3 INFORMATION STORAGE AND RETRIEVAL
+H.3.1 Content Analysis and Indexing
+H.3.2 Information Storage
+H.3.3 Information Search and Retrieval 
+
+ID: 1082040 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.1 Network Architecture and Design
+Subjects:
+Packet-switching networks
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.1 Network Architecture and Design
+Subjects:
+Store and forward networks
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sequencing and scheduling 
+
+ID: 1082041 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.0 General 
+
+ID: 1082042 
+ Primary Classification:
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.3 Language Constructs and Features 
+
+ID: 1082043 
+ Primary Classification:
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.2 Storage Management
+Additional Classification:
+E. Data
+E.4 CODING AND INFORMATION THEORY
+Subjects:
+Data compaction and compression
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Combinatorial algorithms
+H. Information Systems
+H.1 MODELS AND PRINCIPLES
+H.1.1 Systems and Information Theory
+H.2 DATABASE MANAGEMENT
+H.2.7 Database Administration
+Subjects:
+Data warehouse and repository
+H.3 INFORMATION STORAGE AND RETRIEVAL
+H.3.2 Information Storage 
+
+ID: 1066101 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems 
+
+ID: 1066102 
+ Primary Classification:
+D. Software
+D.2 SOFTWARE ENGINEERING
+D.2.4 Software/Program Verification
+Additional Classification:
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.1 Specifying and Verifying and Reasoning about Programs
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic 
+
+ID: 1066103 
+ Primary Classification:
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.6 Security and Protection
+Subjects:
+Access controls
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Complexity of proof procedures
+K. Computing Milieux
+K.6 MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS
+K.6.5 Security and Protection (D.4.6, K.4.2) 
+
+ID: 1059514 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES
+Subjects:
+Graphs and networks
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms 
+
+ID: 1059515 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.0 General 
+
+ID: 1059516 
+ Primary Classification:
+F. Theory of Computation
+F.0 GENERAL
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+Subjects:
+Relations among complexity measures
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS
+Subjects:
+Random number generation 
+
+ID: 1059517 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.2 Network Protocols
+Additional Classification:
+E. Data
+E.4 CODING AND INFORMATION THEORY
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.3 Tradeoffs among Complexity Measures
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS 
+
+ID: 1059519 
+ Primary Classification:
+H. Information Systems
+H.1 MODELS AND PRINCIPLES
+H.1.1 Systems and Information Theory
+Subjects:
+Information theory
+Additional Classification:
+H. Information Systems
+H.1 MODELS AND PRINCIPLES
+H.1.1 Systems and Information Theory
+Subjects:
+Value of information
+H.2 DATABASE MANAGEMENT
+H.2.1 Logical Design
+Subjects:
+Data models
+Normal forms 
+
+ID: 1059520 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Subjects:
+Automata (e.g., finite, push-down, resource-bounded)
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Computational logic
+F.4.3 Formal Languages
+Subjects:
+Classes defined by grammars or automata (e.g., context-free languages, regular sets, recursive sets)
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.3 Languages
+Subjects:
+Query languages
+I. Computing Methodologies
+I.7 DOCUMENT AND TEXT PROCESSING
+I.7.2 Document Preparation
+Subjects:
+Markup languages 
+
+ID: 1059518 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL
+Subjects:
+Conference proceedings 
+
+ID: 1044732 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES
+Subjects:
+Graphs and networks
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms 
+
+ID: 1044733 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Geometrical problems and computations 
+
+ID: 1044734 
+ Primary Classification:
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.4 Systems 
+
+ID: 1044735 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.0 General
+Subjects:
+Security and protection (e.g., firewalls)
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.2 Network Protocols
+Subjects:
+Protocol verification
+D. Software
+D.2 SOFTWARE ENGINEERING
+D.2.4 Software/Program Verification
+Subjects:
+Formal methods
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.1 Specifying and Verifying and Reasoning about Programs
+Subjects:
+Mechanical verification
+F.3.2 Semantics of Programming Languages
+Subjects:
+Process models 
+
+ID: 1039489 
+ Primary Classification:
+E. Data
+E.3 DATA ENCRYPTION
+Subjects:
+Public key cryptosystems
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+Subjects:
+Parallelism and concurrency
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.0 General 
+
+ID: 1039490 
+ Primary Classification:
+E. Data
+E.3 DATA ENCRYPTION
+Subjects:
+Public key cryptosystems 
+
+ID: 1039491 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.2 Network Protocols
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.4 Distributed Systems
+C.4 PERFORMANCE OF SYSTEMS
+Subjects:
+Measurement techniques
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems 
+
+ID: 1039492 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES
+Subjects:
+Graphs and networks
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms 
+
+ID: 1039493 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES
+Subjects:
+Graphs and networks
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Routing and layout
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms
+Graph labeling
+Path and circuit problems 
+
+ID: 1039494 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+Additional Classification:
+G. Mathematics of Computing
+G.1 NUMERICAL ANALYSIS
+G.1.3 Numerical Linear Algebra
+H. Information Systems
+H.3 INFORMATION STORAGE AND RETRIEVAL 
+
+ID: 1017461 
+ Primary Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Combinatorial algorithms
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Counting problems
+I. Computing Methodologies
+I.3 COMPUTER GRAPHICS
+I.3.5 Computational Geometry and Object Modeling
+Subjects:
+Geometric algorithms, languages, and systems 
+
+ID: 1017462 
+ Primary Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.3 Formal Languages
+Subjects:
+Classes defined by grammars or automata (e.g., context-free languages, regular sets, recursive sets)
+Additional Classification:
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.4 Systems
+Subjects:
+Relational databases 
+
+ID: 1017463 
+ Primary Classification:
+C. Computer Systems Organization
+C.4 PERFORMANCE OF SYSTEMS
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.2 Network Protocols
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.5 Reliability
+D.4.7 Organization and Design 
+
+ID: 1017464 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+Subjects:
+Parallelism and concurrency 
+
+ID: 1008732 
+ Primary Classification:
+C. Computer Systems Organization
+C.4 PERFORMANCE OF SYSTEMS
+Subjects:
+Performance attributes
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sequencing and scheduling
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS 
+
+ID: 1008733 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+Additional Classification:
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS
+Subjects:
+Stochastic processes 
+
+ID: 1008734 
+ Primary Classification:
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.6 Security and Protection
+Subjects:
+Authentication
+Additional Classification:
+E. Data
+E.3 DATA ENCRYPTION
+Subjects:
+Public key cryptosystems
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Subjects:
+Relations between models 
+
+ID: 1008735 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.0 General 
+
+ID: 1008736 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Geometrical problems and computations
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+I. Computing Methodologies
+I.3 COMPUTER GRAPHICS
+I.3.5 Computational Geometry and Object Modeling 
+
+ID: 1008737 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Routing and layout
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory 
+
+ID: 1008738 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS
+Subjects:
+Markov processes
+Probabilistic algorithms (including Monte Carlo) 
+
+ID: 990309 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+G.2.2 Graph Theory 
+
+ID: 990310 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.1 Numerical Algorithms and Problems
+Additional Classification:
+G. Mathematics of Computing
+G.1 NUMERICAL ANALYSIS
+G.1.6 Optimization
+Subjects:
+Linear programming 
+
+ID: 990311 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.1 Numerical Algorithms and Problems
+I. Computing Methodologies
+I.1 SYMBOLIC AND ALGEBRAIC MANIPULATION
+I.1.2 Algorithms 
+
+ID: 990312 
+ Primary Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.3 Formal Languages
+Subjects:
+Decision problems 
+
+ID: 990313 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.0 General
+Additional Classification:
+H. Information Systems
+H.3 INFORMATION STORAGE AND RETRIEVAL
+H.3.0 General 
+
+ID: 972640 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Complexity of proof procedures
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Proof theory 
+
+ID: 972641 
+ Primary Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Counting problems
+Additional Classification:
+I. Computing Methodologies
+I.3 COMPUTER GRAPHICS
+I.3.5 Computational Geometry and Object Modeling
+Subjects:
+Geometric algorithms, languages, and systems 
+
+ID: 972642 
+ Primary Classification:
+E. Data
+E.3 DATA ENCRYPTION
+Subjects:
+Public key cryptosystems
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.1 Numerical Algorithms and Problems
+Subjects:
+Number-theoretic computations (e.g., factoring, primality testing) 
+
+ID: 972643 
+ Primary Classification:
+E. Data
+E.3 DATA ENCRYPTION
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS
+G.4 MATHEMATICAL SOFTWARE 
+
+ID: 972644 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.8 Database applications
+Subjects:
+Data mining 
+
+ID: 972645 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Complexity of proof procedures
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Logic and constraint programming 
+
+ID: 972646 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.3 Tradeoffs among Complexity Measures
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic 
+
+ID: 962448 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.3 Languages
+I. Computing Methodologies
+I.7 DOCUMENT AND TEXT PROCESSING
+I.7.2 Document Preparation
+Subjects:
+Markup languages 
+
+ID: 962449 
+ Primary Classification:
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.4 Systems
+Subjects:
+Parallel databases 
+
+ID: 962450 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Subjects:
+Automata (e.g., finite, push-down, resource-bounded)
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Computational logic
+F.4.3 Formal Languages
+Subjects:
+Classes defined by grammars or automata (e.g., context-free languages, regular sets, recursive sets)
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.3 Languages
+Subjects:
+Query languages
+I. Computing Methodologies
+I.7 DOCUMENT AND TEXT PROCESSING
+I.7.2 Document Preparation
+Subjects:
+Markup languages 
+
+ID: 962447 
+  
+
+ID: 950621 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Combinatorial algorithms
+G.2.2 Graph Theory
+Subjects:
+Network problems 
+
+ID: 950622 
+ Primary Classification:
+E. Data
+E.4 CODING AND INFORMATION THEORY
+Subjects:
+Data compaction and compression
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+Subjects:
+Reducibility and completeness
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Combinatorial algorithms
+H. Information Systems
+H.1 MODELS AND PRINCIPLES
+H.1.1 Systems and Information Theory
+Subjects:
+Information theory
+H.2 DATABASE MANAGEMENT
+H.2.7 Database Administration
+Subjects:
+Data warehouse and repository 
+
+ID: 950623 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.4 Distributed Systems
+Additional Classification:
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.6 Security and Protection
+Subjects:
+Authentication
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+Subjects:
+Interactive and reactive computation
+F.1.3 Complexity Measures and Classes
+Subjects:
+Relations among complexity classes
+K. Computing Milieux
+K.6 MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS
+K.6.5 Security and Protection (D.4.6, K.4.2)
+Subjects:
+Authentication 
+
+ID: 950624 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.4 Distributed Systems
+Subjects:
+Distributed applications
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.4 Distributed Systems
+Subjects:
+Network operating systems
+C.4 PERFORMANCE OF SYSTEMS
+Subjects:
+Fault tolerance
+Reliability, availability, and serviceability
+D. Software
+D.1 PROGRAMMING TECHNIQUES
+D.1.3 Concurrent Programming
+Subjects:
+Distributed programming
+D.4 OPERATING SYSTEMS
+D.4.5 Reliability
+Subjects:
+Fault-tolerance
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Subjects:
+Computability theory
+Relations between models
+F.1.2 Modes of Computation
+Subjects:
+Alternation and nondeterminism
+Parallelism and concurrency
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.m Miscellaneous 
+
+ID: 950625 
+ Primary Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.3 Formal Languages
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Generating functions
+Counting problems 
+
+ID: 876639 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sequencing and scheduling
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Combinatorial algorithms
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.4 Knowledge Representation Formalisms and Methods
+Subjects:
+Relation systems 
+
+ID: 876640 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sequencing and scheduling
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics 
+
+ID: 876642 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+F.4.3 Formal Languages
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.3 Languages
+H.2.8 Database applications 
+
+ID: 876643 
+ Primary Classification:
+B. Hardware
+B.5 REGISTER-TRANSFER-LEVEL IMPLEMENTATION
+B.5.2 Design Aids
+Subjects:
+Verification
+Additional Classification:
+D. Software
+D.2 SOFTWARE ENGINEERING
+D.2.4 Software/Program Verification
+Subjects:
+Model checking
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Temporal logic 
+
+ID: 876641 
+ Primary Classification:
+E. Data
+E.4 CODING AND INFORMATION THEORY
+Subjects:
+Data compaction and compression
+Additional Classification:
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS
+Subjects:
+Distribution functions
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.4 Systems
+Subjects:
+Relational databases 
+
+ID: 792540 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.1 Numerical Algorithms and Problems 
+
+ID: 792541 
+ Primary Classification:
+C. Computer Systems Organization
+C.1 PROCESSOR ARCHITECTURES
+C.1.4 Parallel Architectures
+Subjects:
+Distributed architectures
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.4 Distributed Systems
+C.4 PERFORMANCE OF SYSTEMS
+Subjects:
+Fault tolerance
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.1 Process Management
+Subjects:
+Synchronization
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+Subjects:
+Parallelism and concurrency 
+
+ID: 792542 
+ Primary Classification:
+F. Theory of Computation
+F.m MISCELLANEOUS
+Additional Classification:
+G. Mathematics of Computing
+G.1 NUMERICAL ANALYSIS
+G.1.m Miscellaneous 
+
+ID: 792543 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.0 General
+Additional Classification:
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS
+I. Computing Methodologies
+I.5 PATTERN RECOGNITION
+I.5.0 General 
+
+ID: 792544 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.1 Network Architecture and Design
+Additional Classification:
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS
+Subjects:
+Queueing theory 
+
+ID: 792545 
+ Primary Classification:
+C. Computer Systems Organization
+C.4 PERFORMANCE OF SYSTEMS
+Subjects:
+Performance attributes
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sequencing and scheduling 
+
+ID: 792546 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS
+Subjects:
+Probabilistic algorithms (including Monte Carlo) 
+
+ID: 765570 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.3 PROBABILITY AND STATISTICS
+I. Computing Methodologies
+I.1 SYMBOLIC AND ALGEBRAIC MANIPULATION 
+
+ID: 765571 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES
+Subjects:
+Trees
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.3 PROBABILITY AND STATISTICS 
+
+ID: 765572 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES 
+
+ID: 765573 
+ Primary Classification:
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.4 Processors
+Additional Classification:
+I. Computing Methodologies
+I.1 SYMBOLIC AND ALGEBRAIC MANIPULATION
+I.1.2 Algorithms
+Subjects:
+Analysis of algorithms 
+
+ID: 636866 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.3 Tradeoffs among Complexity Measures
+Additional Classification:
+G. Mathematics of Computing
+G.1 NUMERICAL ANALYSIS
+G.1.6 Optimization
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE 
+
+ID: 636867 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+Subjects:
+Probabilistic computation
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+Subjects:
+Relations among complexity measures
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+F.2.3 Tradeoffs among Complexity Measures 
+
+ID: 636868 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+Subjects:
+Interactive and reactive computation
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes 
+
+ID: 636869 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+Subjects:
+Interactive and reactive computation
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes 
+
+ID: 602383 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL
+Additional Classification:
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING 
+
+ID: 602386 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL
+Additional Classification:
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING 
+
+ID: 602387 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL
+Additional Classification:
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING 
+
+ID: 602388 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL
+Additional Classification:
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING 
+
+ID: 602389 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL
+Additional Classification:
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING 
+
+ID: 602390 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL
+Additional Classification:
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING 
+
+ID: 602391 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL
+Additional Classification:
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING 
+
+ID: 602392 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL
+Additional Classification:
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING 
+
+ID: 602393 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL
+Additional Classification:
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING 
+
+ID: 602395 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL
+Additional Classification:
+I. Computing Methodologies
+I.7 DOCUMENT AND TEXT PROCESSING
+I.7.4 Electronic Publishing
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING 
+
+ID: 602397 
+ Primary Classification:
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING
+Additional Classification:
+D. Software
+D.2 SOFTWARE ENGINEERING
+D.2.9 Management
+H. Information Systems
+H.5 INFORMATION INTERFACES AND PRESENTATION (I.7)
+H.5.2 User Interfaces (D.2.2, H.1.2, I.3.6) 
+
+ID: 602398 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic 
+
+ID: 602399 
+ Primary Classification:
+K. Computing Milieux
+K.0 GENERAL
+Additional Classification:
+H. Information Systems
+H.1 MODELS AND PRINCIPLES
+H.1.1 Systems and Information Theory
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING 
+
+ID: 602400 
+ Primary Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.0 General
+Additional Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.1 Applications and Expert Systems 
+
+ID: 602401 
+ Primary Classification:
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING
+Additional Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.0 General
+K. Computing Milieux
+K.0 GENERAL 
+
+ID: 602402 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes 
+
+ID: 602403 
+ Primary Classification:
+D. Software
+D.2 SOFTWARE ENGINEERING
+D.2.4 Software/Program Verification
+Subjects:
+Correctness proofs
+Additional Classification:
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.4 Processors
+Subjects:
+Compilers
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING 
+
+ID: 602404 
+ Primary Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.0 General
+Additional Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.1 Applications and Expert Systems
+I.2.2 Automatic Programming 
+
+ID: 602405 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL
+Additional Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.0 General
+K. Computing Milieux
+K.2 HISTORY OF COMPUTING
+Subjects:
+Software
+Systems
+Theory
+K.4 COMPUTERS AND SOCIETY
+K.4.0 General 
+
+ID: 602406 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Proof theory 
+
+ID: 602407 
+ Primary Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.0 General
+Additional Classification:
+H. Information Systems
+H.3 INFORMATION STORAGE AND RETRIEVAL
+H.3.3 Information Search and Retrieval
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.7 Natural Language Processing
+Subjects:
+Text analysis
+I.2.9 Robotics 
+
+ID: 602408 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.0 General
+Additional Classification:
+J. Computer Applications
+J.2 PHYSICAL SCIENCES AND ENGINEERING
+Subjects:
+Physics 
+
+ID: 602409 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes 
+
+ID: 602410 
+ Primary Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.0 General
+Subjects:
+Cognitive simulation
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.0 General 
+
+ID: 602411 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Subjects:
+Computability theory
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes 
+
+ID: 602222 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Model theory
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Trees
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.3 Languages
+Subjects:
+Query languages 
+
+ID: 602223 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Subjects:
+Unbounded-action devices (e.g., cellular automata, circuits, networks of machines)
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Mechanical theorem proving 
+
+ID: 602224 
+ Primary Classification:
+D. Software
+D.2 SOFTWARE ENGINEERING
+D.2.4 Software/Program Verification
+Subjects:
+Correctness proofs
+Additional Classification:
+D. Software
+D.2 SOFTWARE ENGINEERING
+D.2.4 Software/Program Verification
+D.3 PROGRAMMING LANGUAGES
+D.3.2 Language Classifications
+Subjects:
+Concurrent, distributed, and parallel languages
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.2 Semantics of Programming Languages
+Subjects:
+Program analysis 
+
+ID: 602225 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Additional Classification:
+B. Hardware
+B.3 MEMORY STRUCTURES
+B.3.0 General
+B.8 Performance and Reliability
+B.8.2 Performance Analysis and Design Aids
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY 
+
+ID: 585266 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.m Miscellaneous
+J. Computer Applications
+J.4 SOCIAL AND BEHAVIORAL SCIENCES
+Subjects:
+Economics 
+
+ID: 585267 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+J. Computer Applications
+J.3 LIFE AND MEDICAL SCIENCES
+Subjects:
+Biology and genetics 
+
+ID: 585268 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems 
+
+ID: 585269 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Combinatorial algorithms 
+
+ID: 585270 
+ Primary Classification:
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.1 Specifying and Verifying and Reasoning about Programs 
+
+ID: 581772 
+ Primary Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.3 Deduction and Theorem Proving
+Subjects:
+Nonmonotonic reasoning and belief revision
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.3 Deduction and Theorem Proving
+Subjects:
+Uncertainty, "fuzzy," and probabilistic reasoning 
+
+ID: 581773 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Subjects:
+Automata (e.g., finite, push-down, resource-bounded)
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.0 General 
+
+ID: 581774 
+ Primary Classification:
+D. Software
+D.1 PROGRAMMING TECHNIQUES
+D.1.6 Logic Programming
+Additional Classification:
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.0 General
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.0 General
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.2 Semantics of Programming Languages
+Subjects:
+Program analysis
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+I. Computing Methodologies
+I.1 SYMBOLIC AND ALGEBRAIC MANIPULATION
+I.1.2 Algorithms 
+
+ID: 581775 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.2 Network Protocols
+Subjects:
+Protocol verification
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.2 Network Protocols
+Subjects:
+Routing protocols
+C.2.6 Internetworking
+Subjects:
+Standards (e.g., TCP/IP)
+Routers
+D. Software
+D.2 SOFTWARE ENGINEERING
+D.2.4 Software/Program Verification
+Subjects:
+Model checking
+Formal methods
+Correctness proofs
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.1 Specifying and Verifying and Reasoning about Programs
+Subjects:
+Mechanical verification
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Mechanical theorem proving 
+
+ID: 567114 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Path and circuit problems
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms 
+
+ID: 567116 
+ Primary Classification:
+E. Data
+E.4 CODING AND INFORMATION THEORY
+Subjects:
+Data compaction and compression
+Additional Classification:
+D. Software
+D.2 SOFTWARE ENGINEERING
+D.2.7 Distribution, Maintenance, and Enhancement
+Subjects:
+Version control
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.7 Database Administration
+Subjects:
+Data warehouse and repository
+H.3 INFORMATION STORAGE AND RETRIEVAL
+H.3.5 On-line Information Services
+Subjects:
+Web-based services 
+
+ID: 567117 
+ Primary Classification:
+I. Computing Methodologies
+I.7 DOCUMENT AND TEXT PROCESSING
+I.7.2 Document Preparation
+Nouns:
+XML
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.3 Formal Languages
+Subjects:
+Decision problems
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.1 Logical Design
+Subjects:
+Data models 
+
+ID: 567113 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.4 Distributed Systems
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.6 Internetworking
+C.4 PERFORMANCE OF SYSTEMS
+Subjects:
+Modeling techniques
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.1 Process Management
+Subjects:
+Scheduling
+D.4.8 Performance
+Subjects:
+Modeling and prediction
+Queueing theory
+K. Computing Milieux
+K.6 MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS
+K.6.4 System Management
+Subjects:
+Quality assurance
+Centralization/decentralization 
+
+ID: 567115 
+ Primary Classification:
+B. Hardware
+B.8 Performance and Reliability
+B.8.2 Performance Analysis and Design Aids
+Additional Classification:
+C. Computer Systems Organization
+C.4 PERFORMANCE OF SYSTEMS
+Subjects:
+Performance attributes 
+
+ID: 506148 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Routing and layout
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms 
+
+ID: 506149 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems 
+
+ID: 506150 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+J. Computer Applications
+J.3 LIFE AND MEDICAL SCIENCES 
+
+ID: 506151 
+ Primary Classification:
+C. Computer Systems Organization
+C.3 SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS
+Subjects:
+Real-time and embedded systems
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.3 Formal Languages
+Subjects:
+Classes defined by grammars or automata (e.g., context-free languages, regular sets, recursive sets)
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.3 Formal Languages
+Subjects:
+Classes defined by grammars or automata (e.g., context-free languages, regular sets, recursive sets)
+Algebraic language theory 
+
+ID: 506152 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.5 Local and Wide-Area Networks
+Additional Classification:
+C. Computer Systems Organization
+C.4 PERFORMANCE OF SYSTEMS 
+
+ID: 506153 
+ Primary Classification:
+F. Theory of Computation
+F.0 GENERAL 
+
+ID: 506154 
+ Primary Classification:
+C. Computer Systems Organization
+C.1 PROCESSOR ARCHITECTURES
+C.1.4 Parallel Architectures
+Subjects:
+Distributed architectures
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.4 Distributed Systems
+C.4 PERFORMANCE OF SYSTEMS
+Subjects:
+Design studies
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.8 Performance
+Subjects:
+Modeling and prediction
+Queueing theory 
+
+ID: 505242 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.7 Natural Language Processing
+Subjects:
+Language parsing and understanding 
+
+ID: 505243 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.0 General
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms
+G.3 PROBABILITY AND STATISTICS 
+
+ID: 505244 
+ Primary Classification:
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.2 Physical Design
+Subjects:
+Access methods 
+
+ID: 505245 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Subjects:
+Automata (e.g., finite, push-down, resource-bounded)
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Subjects:
+Relations between models
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Model theory
+F.4.3 Formal Languages
+Subjects:
+Classes defined by grammars or automata (e.g., context-free languages, regular sets, recursive sets)
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.3 Languages
+Subjects:
+Query languages
+Data manipulation languages (DML) 
+
+ID: 505246 
+ Primary Classification:
+B. Hardware
+B.3 MEMORY STRUCTURES
+B.3.2 Design Styles
+Subjects:
+Shared memory
+Additional Classification:
+B. Hardware
+B.4 INPUT/OUTPUT AND DATA COMMUNICATIONS
+B.4.3 Interconnections (subsystems)
+Subjects:
+Asynchronous/synchronous operation
+D. Software
+D.1 PROGRAMMING TECHNIQUES
+D.1.3 Concurrent Programming
+D.4 OPERATING SYSTEMS
+D.4.1 Process Management
+Subjects:
+Concurrency
+Multiprocessing/multiprogramming/multitasking
+D.4.4 Communications Management
+Subjects:
+Buffering 
+
+ID: 504795 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.8 Problem Solving, Control Methods, and Search 
+
+ID: 504796 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.1 Numerical Algorithms and Problems
+Subjects:
+Computation of transforms (e.g., fast Fourier transform)
+Additional Classification:
+G. Mathematics of Computing
+G.1 NUMERICAL ANALYSIS
+G.1.0 General
+Subjects:
+Numerical algorithms 
+
+ID: 504797 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.4 Distributed Systems
+Subjects:
+Distributed databases
+Additional Classification:
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.8 Performance
+Subjects:
+Modeling and prediction
+Stochastic analysis 
+
+ID: 504798 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Model theory 
+
+ID: 504799 
+ Primary Classification:
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.1 Formal Definitions and Theory
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+F.1.2 Modes of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.1 Specifying and Verifying and Reasoning about Programs
+Subjects:
+Specification techniques
+F.3.2 Semantics of Programming Languages
+Subjects:
+Algebraic approaches to semantics
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.3 Formal Languages
+Subjects:
+Decision problems 
+
+ID: 502103 
+ Primary Classification:
+H. Information Systems
+H.3 INFORMATION STORAGE AND RETRIEVAL
+H.3.3 Information Search and Retrieval
+Subjects:
+Query formulation
+Additional Classification:
+H. Information Systems
+H.3 INFORMATION STORAGE AND RETRIEVAL
+H.3.3 Information Search and Retrieval
+Subjects:
+Relevance feedback
+Retrieval models
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.4 Knowledge Representation Formalisms and Methods
+Subjects:
+Representation languages
+I.4 IMAGE PROCESSING AND COMPUTER VISION
+I.4.10 Image Representation
+Subjects:
+Multidimensional 
+
+ID: 502104 
+ Primary Classification:
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.1 Specifying and Verifying and Reasoning about Programs
+Additional Classification:
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.3 Languages 
+
+ID: 502105 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.4 Distributed Systems
+Additional Classification:
+C. Computer Systems Organization
+C.4 PERFORMANCE OF SYSTEMS
+D. Software
+D.1 PROGRAMMING TECHNIQUES
+D.1.3 Concurrent Programming
+D.2 SOFTWARE ENGINEERING
+D.2.12 Interoperability
+Subjects:
+Distributed objects
+D.4 OPERATING SYSTEMS
+D.4.1 Process Management
+Subjects:
+Synchronization
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+Subjects:
+Parallelism and concurrency 
+
+ID: 502106 
+ Primary Classification:
+D. Software
+D.2 SOFTWARE ENGINEERING
+D.2.4 Software/Program Verification
+Subjects:
+Correctness proofs
+Additional Classification:
+D. Software
+D.2 SOFTWARE ENGINEERING
+D.2.4 Software/Program Verification
+Subjects:
+Validation
+G. Mathematics of Computing
+G.0 GENERAL
+G.1 NUMERICAL ANALYSIS
+G.1.0 General
+Subjects:
+Interval arithmetic
+Conditioning (and ill-conditioning)
+Computer arithmetic
+Error analysis
+G.1.5 Roots of Nonlinear Equations
+Subjects:
+Iterative methods 
+
+ID: 502107 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sequencing and scheduling 
+
+ID: 502091 
+ Primary Classification:
+I. Computing Methodologies
+I.1 SYMBOLIC AND ALGEBRAIC MANIPULATION
+I.1.0 General
+Additional Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.1 Applications and Expert Systems
+I.2.3 Deduction and Theorem Proving
+I.2.4 Knowledge Representation Formalisms and Methods 
+
+ID: 502092 
+ Primary Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Additional Classification:
+I. Computing Methodologies
+I.1 SYMBOLIC AND ALGEBRAIC MANIPULATION
+I.1.3 Languages and Systems
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.3 Deduction and Theorem Proving
+Subjects:
+Nonmonotonic reasoning and belief revision
+I.2.4 Knowledge Representation Formalisms and Methods
+Subjects:
+Representation languages 
+
+ID: 502093 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+Additional Classification:
+G. Mathematics of Computing
+G.1 NUMERICAL ANALYSIS
+G.1.6 Optimization
+Subjects:
+Convex programming
+Integer programming
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+G.2.3 Applications
+I. Computing Methodologies
+I.4 IMAGE PROCESSING AND COMPUTER VISION
+I.4.6 Segmentation 
+
+ID: 502094 
+ Primary Classification:
+E. Data
+E.3 DATA ENCRYPTION
+Subjects:
+Public key cryptosystems 
+
+ID: 502095 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms 
+
+ID: 502096 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Combinatorial algorithms 
+
+ID: 502097 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.0 General 
+
+ID: 502098 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems 
+
+ID: 502099 
+ Primary Classification:
+E. Data
+E.4 CODING AND INFORMATION THEORY
+Additional Classification:
+F. Theory of Computation
+F.0 GENERAL 
+
+ID: 502100 
+ Primary Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Additional Classification:
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.3 Languages 
+
+ID: 382781 
+ Primary Classification:
+E. Data
+E.3 DATA ENCRYPTION
+Subjects:
+Public key cryptosystems 
+
+ID: 382782 
+ Primary Classification:
+E. Data
+E.4 CODING AND INFORMATION THEORY
+Subjects:
+Data compaction and compression
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems 
+
+ID: 382783 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Complexity of proof procedures
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.4 Systems
+Subjects:
+Query processing
+Rule-based databases
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.3 Deduction and Theorem Proving
+Subjects:
+Inference engines
+Resolution
+I.2.8 Problem Solving, Control Methods, and Search
+Subjects:
+Plan execution, formation, and generation 
+
+ID: 382784 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.4 Distributed Systems
+Subjects:
+Distributed applications
+Additional Classification:
+D. Software
+D.1 PROGRAMMING TECHNIQUES
+D.1.3 Concurrent Programming
+Subjects:
+Distributed programming
+D.4 OPERATING SYSTEMS
+D.4.5 Reliability
+Subjects:
+Fault-tolerance 
+
+ID: 382785 
+ Primary Classification:
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.3 Language Constructs and Features
+Additional Classification:
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.2 Semantics of Programming Languages
+Subjects:
+Partial evaluation
+F.3.3 Studies of Program Constructs
+Subjects:
+Type structure
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Lambda calculus and related systems
+Model theory
+Proof theory 
+
+ID: 375835 
+ Primary Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Proof theory
+Additional Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.3 Deduction and Theorem Proving 
+
+ID: 375837 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Recurrences and difference equations 
+
+ID: 375840 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sequencing and scheduling
+Additional Classification:
+G. Mathematics of Computing
+G.1 NUMERICAL ANALYSIS
+G.1.6 Optimization
+Subjects:
+Convex programming
+G.2 DISCRETE MATHEMATICS
+G.2.0 General
+G.3 PROBABILITY AND STATISTICS
+Subjects:
+Probabilistic algorithms (including Monte Carlo)
+I. Computing Methodologies
+I.1 SYMBOLIC AND ALGEBRAIC MANIPULATION
+I.1.2 Algorithms
+Subjects:
+Analysis of algorithms 
+
+ID: 375843 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+Subjects:
+Online computation
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.2 Network Protocols
+Subjects:
+Applications (SMTP, FTP, etc.)
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sequencing and scheduling 
+
+ID: 375845 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems 
+
+ID: 375847 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+Subjects:
+Parallelism and concurrency
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms 
+
+ID: 375849 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.1 Network Architecture and Design
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.2 Network Protocols
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Routing and layout 
+
+ID: 363652 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Geometrical problems and computations 
+
+ID: 363659 
+ Primary Classification:
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS
+Subjects:
+Queueing theory
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.1 Network Architecture and Design
+Subjects:
+Store and forward networks 
+
+ID: 363677 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.1 Network Architecture and Design
+Subjects:
+Packet-switching networks
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.1 Network Architecture and Design
+Subjects:
+Store and forward networks
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sequencing and scheduling 
+
+ID: 363681 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.3 Deduction and Theorem Proving 
+
+ID: 363688 
+ Primary Classification:
+B. Hardware
+B.4 INPUT/OUTPUT AND DATA COMMUNICATIONS
+B.4.3 Interconnections (subsystems)
+Subjects:
+Topology (e.g., bus, point-to-point)
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Subjects:
+Unbounded-action devices (e.g., cellular automata, circuits, networks of machines)
+F.1.2 Modes of Computation
+Subjects:
+Parallelism and concurrency
+G. Mathematics of Computing
+G.1 NUMERICAL ANALYSIS
+G.1.0 General
+Subjects:
+Parallel algorithms
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.10 Vision and Scene Understanding
+Subjects:
+Motion 
+
+ID: 363697 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+Subjects:
+Machine-independent complexity**
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Complexity of proof procedures
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Mechanical theorem proving
+Proof theory
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.3 Deduction and Theorem Proving
+Subjects:
+Resolution
+Deduction (e.g., natural, rule-based) 
+
+ID: 355542 
+ Primary Classification:
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.2 Storage Management
+Subjects:
+Storage hierarchies
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sequencing and scheduling
+G. Mathematics of Computing
+G.1 NUMERICAL ANALYSIS
+G.1.6 Optimization
+Subjects:
+Linear programming 
+
+ID: 355547 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES
+Subjects:
+Trees
+Additional Classification:
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.2 Storage Management
+Subjects:
+Main memory
+Secondary storage
+E. Data
+E.5 FILES
+Subjects:
+Sorting/searching
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Pattern matching
+Sorting and searching
+H. Information Systems
+H.3 INFORMATION STORAGE AND RETRIEVAL
+H.3.1 Content Analysis and Indexing
+Subjects:
+Indexing methods 
+
+ID: 355554 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES 
+
+ID: 355562 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory 
+
+ID: 355567 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+Additional Classification:
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS 
+
+ID: 355485 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Combinatorial algorithms
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.4 Knowledge Representation Formalisms and Methods
+Subjects:
+Relation systems 
+
+ID: 355486 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Additional Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.0 General
+Subjects:
+Cognitive simulation
+I.2.4 Knowledge Representation Formalisms and Methods
+I.2.6 Learning 
+
+ID: 355487 
+ Primary Classification:
+G. Mathematics of Computing
+G.4 MATHEMATICAL SOFTWARE
+Additional Classification:
+I. Computing Methodologies
+I.3 COMPUTER GRAPHICS
+I.3.5 Computational Geometry and Object Modeling 
+
+ID: 355488 
+ Primary Classification:
+E. Data
+E.4 CODING AND INFORMATION THEORY
+Subjects:
+Data compaction and compression
+Additional Classification:
+E. Data
+E.5 FILES
+Subjects:
+Sorting/searching
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+Subjects:
+Complexity hierarchies
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sorting and searching
+I. Computing Methodologies
+I.1 SYMBOLIC AND ALGEBRAIC MANIPULATION
+I.1.2 Algorithms
+Subjects:
+Analysis of algorithms 
+
+ID: 355489 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.4 Distributed Systems
+Subjects:
+Distributed applications
+Additional Classification:
+C. Computer Systems Organization
+C.4 PERFORMANCE OF SYSTEMS
+Subjects:
+Reliability, availability, and serviceability
+Fault tolerance
+D. Software
+D.1 PROGRAMMING TECHNIQUES
+D.1.3 Concurrent Programming
+Subjects:
+Distributed programming
+D.2 SOFTWARE ENGINEERING
+D.2.11 Software Architectures
+D.2.12 Interoperability
+Subjects:
+Distributed objects
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics 
+
+ID: 355484 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL 
+
+ID: 355490 
+ Primary Classification:
+C. Computer Systems Organization
+C.5 COMPUTER SYSTEM IMPLEMENTATION
+C.5.4 VLSI Systems
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sorting and searching 
+
+ID: 347478 
+ Primary Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Network problems 
+
+ID: 347479 
+ Primary Classification:
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.1 Process Management
+Subjects:
+Scheduling
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sequencing and scheduling 
+
+ID: 347477 
+ Primary Classification:
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.3 Languages
+Subjects:
+Query languages
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Logic and constraint programming
+Model theory 
+
+ID: 347480 
+ Primary Classification:
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS
+Subjects:
+Markov processes
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+Subjects:
+Reducibility and completeness
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.8 Problem Solving, Control Methods, and Search
+Subjects:
+Plan execution, formation, and generation 
+
+ID: 347481 
+ Primary Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Modal logic
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Model theory 
+
+ID: 347482 
+ Primary Classification:
+B. Hardware
+B.4 INPUT/OUTPUT AND DATA COMMUNICATIONS
+B.4.4 Performance Analysis and Design Aids**
+Additional Classification:
+B. Hardware
+B.8 Performance and Reliability
+B.8.2 Performance Analysis and Design Aids 
+
+ID: 347484 
+ Primary Classification:
+D. Software
+D.1 PROGRAMMING TECHNIQUES
+D.1.1 Applicative (Functional) Programming
+Additional Classification:
+D. Software
+D.1 PROGRAMMING TECHNIQUES
+D.1.6 Logic Programming
+D.3 PROGRAMMING LANGUAGES
+D.3.3 Language Constructs and Features
+Subjects:
+Control structures
+D.3.4 Processors
+Subjects:
+Optimization
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.2 Grammars and Other Rewriting Systems
+Subjects:
+Grammar types (e.g., context-free, context-sensitive)
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Trees
+I. Computing Methodologies
+I.1 SYMBOLIC AND ALGEBRAIC MANIPULATION
+I.1.1 Expressions and Their Representation
+Subjects:
+Simplification of expressions 
+
+ID: 337247 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.1 Numerical Algorithms and Problems
+Subjects:
+Computations on matrices
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.1 Numerical Algorithms and Problems
+Subjects:
+Computations on polynomials
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Geometrical problems and computations
+I. Computing Methodologies
+I.1 SYMBOLIC AND ALGEBRAIC MANIPULATION
+I.1.2 Algorithms
+Subjects:
+Analysis of algorithms
+Algebraic algorithms 
+
+ID: 337251 
+ Primary Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE 
+
+ID: 337255 
+ Primary Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.m Miscellaneous 
+
+ID: 337257 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.6 Learning 
+
+ID: 337261 
+ Primary Classification:
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.3 Language Constructs and Features
+Subjects:
+Concurrent programming structures
+Additional Classification:
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.3 Language Constructs and Features
+Subjects:
+Polymorphism
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+Subjects:
+Parallelism and concurrency
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.2 Semantics of Programming Languages
+Subjects:
+Operational semantics
+F.3.3 Studies of Program Constructs
+Subjects:
+Type structure 
+
+ID: 333980 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms 
+
+ID: 333982 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.5 Local and Wide-Area Networks
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.6 Internetworking
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.4 Communications Management
+D.4.5 Reliability
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation 
+
+ID: 333984 
+ Primary Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS 
+
+ID: 333987 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Subjects:
+Automata (e.g., finite, push-down, resource-bounded)
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Temporal logic 
+
+ID: 333989 
+ Primary Classification:
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.1 Formal Definitions and Theory
+Subjects:
+Semantics
+Additional Classification:
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.2 Semantics of Programming Languages
+Subjects:
+Program analysis 
+
+ID: 331606 
+ Primary Classification:
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.2 Storage Management
+Additional Classification:
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS
+Subjects:
+Probabilistic algorithms (including Monte Carlo) 
+
+ID: 331607 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.3 Complexity Measures and Classes
+Subjects:
+Relations among complexity classes
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Subjects:
+Automata (e.g., finite, push-down, resource-bounded)
+Unbounded-action devices (e.g., cellular automata, circuits, networks of machines)
+F.1.2 Modes of Computation
+Subjects:
+Parallelism and concurrency
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.2 Grammars and Other Rewriting Systems
+Subjects:
+Parsing 
+
+ID: 331608 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+G.2.2 Graph Theory
+G.3 PROBABILITY AND STATISTICS 
+
+ID: 331609 
+ Primary Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Model theory
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Subjects:
+Automata (e.g., finite, push-down, resource-bounded)
+Relations between models
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+Subjects:
+Computational logic
+F.4.3 Formal Languages
+Subjects:
+Classes defined by grammars or automata (e.g., context-free languages, regular sets, recursive sets) 
+
+ID: 331610 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory 
+
+ID: 331611 
+ Primary Classification:
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.1 Formal Definitions and Theory
+Subjects:
+Semantics
+Additional Classification:
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.2 Semantics of Programming Languages
+Subjects:
+Denotational semantics 
+
+ID: 331526 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems 
+
+ID: 331528 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+I. Computing Methodologies
+I.3 COMPUTER GRAPHICS
+I.3.5 Computational Geometry and Object Modeling 
+
+ID: 331529 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.1 Models of Computation
+Subjects:
+Computability theory
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+Subjects:
+Parallelism and concurrency 
+
+ID: 331530 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sequencing and scheduling
+Additional Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+Subjects:
+Online computation
+G. Mathematics of Computing
+G.1 NUMERICAL ANALYSIS
+G.1.6 Optimization
+Subjects:
+Linear programming
+G.2 DISCRETE MATHEMATICS
+G.2.1 Combinatorics
+Subjects:
+Combinatorial algorithms 
+
+ID: 324139 
+ Primary Classification:
+D. Software
+D.1 PROGRAMMING TECHNIQUES
+D.1.1 Applicative (Functional) Programming
+Additional Classification:
+E. Data
+E.1 DATA STRUCTURES 
+
+ID: 324140 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Additional Classification:
+H. Information Systems
+H.3 INFORMATION STORAGE AND RETRIEVAL
+H.3.3 Information Search and Retrieval
+Subjects:
+Information filtering
+H.5 INFORMATION INTERFACES AND PRESENTATION (I.7)
+H.5.4 Hypertext/Hypermedia 
+
+ID: 324161 
+ Primary Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.0 General 
+
+ID: 324179 
+ Primary Classification:
+E. Data
+E.2 DATA STORAGE REPRESENTATIONS
+Subjects:
+Hash-table representations
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sorting and searching 
+
+ID: 324221 
+ Primary Classification:
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.6 Learning
+Subjects:
+Concept learning 
+
+ID: 324234 
+ Primary Classification:
+D. Software
+D.4 OPERATING SYSTEMS
+D.4.1 Process Management
+Subjects:
+Threads
+Additional Classification:
+D. Software
+D.1 PROGRAMMING TECHNIQUES
+D.1.3 Concurrent Programming
+Subjects:
+Parallel programming
+D.4 OPERATING SYSTEMS
+D.4.1 Process Management
+Subjects:
+Scheduling 
+
+ID: 324266 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.0 General
+Subjects:
+Security and protection (e.g., firewalls)
+Additional Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.2 Network Protocols
+Subjects:
+Protocol verification
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.1 Formal Definitions and Theory
+D.4 OPERATING SYSTEMS
+D.4.6 Security and Protection
+E. Data
+E.3 DATA ENCRYPTION
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.0 General 
+
+ID: 320212 
+ Primary Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Trees
+Additional Classification:
+G. Mathematics of Computing
+G.3 PROBABILITY AND STATISTICS
+Subjects:
+Stochastic processes
+G.4 MATHEMATICAL SOFTWARE
+Subjects:
+Algorithm design and analysis 
+
+ID: 320213 
+ Primary Classification:
+F. Theory of Computation
+F.1 COMPUTATION BY ABSTRACT DEVICES
+F.1.2 Modes of Computation
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.1 Numerical Algorithms and Problems 
+
+ID: 320214 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES
+Subjects:
+Lists, stacks, and queues
+Additional Classification:
+E. Data
+E.2 DATA STORAGE REPRESENTATIONS
+Subjects:
+Linked representations
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Sequencing and scheduling
+Sorting and searching 
+
+ID: 320215 
+ Primary Classification:
+E. Data
+E.1 DATA STRUCTURES
+Subjects:
+Graphs and networks
+Additional Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms 
+
+ID: 320232 
+ Primary Classification:
+C. Computer Systems Organization
+C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2.4 Distributed Systems
+Additional Classification:
+E. Data
+E.1 DATA STRUCTURES
+E.5 FILES
+Subjects:
+Sorting/searching
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+G.3 PROBABILITY AND STATISTICS
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.4 Systems
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.8 Problem Solving, Control Methods, and Search 
+
+ID: 320240 
+ Primary Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.3 Formal Languages
+Subjects:
+Decision problems
+Additional Classification:
+H. Information Systems
+H.2 DATABASE MANAGEMENT
+H.2.3 Languages
+Subjects:
+Query languages
+I. Computing Methodologies
+I.1 SYMBOLIC AND ALGEBRAIC MANIPULATION
+I.1.2 Algorithms
+Subjects:
+Algebraic algorithms 
+
+ID: 320243 
+ Primary Classification:
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.4 Processors
+Subjects:
+Compilers
+Additional Classification:
+D. Software
+D.3 PROGRAMMING LANGUAGES
+D.3.4 Processors
+Subjects:
+Run-time environments
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.2 Grammars and Other Rewriting Systems 
+
+ID: 325358 
+ Primary Classification:
+A. General Literature
+A.0 GENERAL 
+
+ID: 316545 
+ Primary Classification:
+F. Theory of Computation
+F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3.0 General
+Additional Classification:
+F. Theory of Computation
+F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4.1 Mathematical Logic
+I. Computing Methodologies
+I.2 ARTIFICIAL INTELLIGENCE
+I.2.4 Knowledge Representation Formalisms and Methods 
+
+ID: 316548 
+ Primary Classification:
+G. Mathematics of Computing
+G.2 DISCRETE MATHEMATICS
+G.2.2 Graph Theory
+Subjects:
+Graph algorithms
+Additional Classification:
+F. Theory of Computation
+F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY
+F.2.2 Nonnumerical Algorithms and Problems
+Subjects:
+Computations on discrete structures
+Sorting and searching 
+

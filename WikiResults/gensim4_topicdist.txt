@@ -1,0 +1,2831 @@
+ID: 256308 
+topic: Computational complexity theory  --  value: 13.624285 
+topic: Mathematical logic  --  value: 5.991324 
+topic: Programming language  --  value: 1.439947 
+ID: 1206039 
+topic: Computational complexity theory  --  value: 38.290520 
+topic: Numerical analysis  --  value: 6.262897 
+topic: Database  --  value: 3.502138 
+ID: 1206038 
+topic: Database  --  value: 41.059989 
+topic: Computational complexity theory  --  value: 27.105464 
+topic: Analysis of algorithms  --  value: 18.453750 
+topic: Mathematical logic  --  value: 12.680010 
+topic: Central processing unit  --  value: 9.209844 
+topic: Legal aspects of computing  --  value: 4.602054 
+ID: 256301 
+topic: Central processing unit  --  value: 54.488685 
+topic: Reliability engineering  --  value: 25.744067 
+topic: Analysis of algorithms  --  value: 16.780112 
+topic: Performance tuning  --  value: 7.061210 
+ID: 1206037 
+topic: Database  --  value: 35.894993 
+topic: Mathematical logic  --  value: 31.539346 
+topic: Artificial intelligence  --  value: 8.615123 
+topic: Operating system  --  value: 5.171833 
+topic: Pattern recognition  --  value: 2.871297 
+ID: 1206036 
+topic: Computational complexity theory  --  value: 32.505320 
+topic: Database  --  value: 13.640998 
+topic: Data structure  --  value: 6.909237 
+ID: 256306 
+topic: Mathematical logic  --  value: 28.627970 
+topic: Database  --  value: 21.409067 
+ID: 263869 
+topic: Numerical analysis  --  value: 22.616919 
+topic: Computational complexity theory  --  value: 16.200191 
+topic: Coding theory  --  value: 4.238446 
+ID: 363697 
+topic: Mathematical logic  --  value: 10.771345 
+topic: Computational complexity theory  --  value: 2.308250 
+topic: Analysis of algorithms  --  value: 2.151638 
+ID: 1044734 
+topic: Database  --  value: 26.618016 
+topic: Mathematical logic  --  value: 10.348273 
+topic: Analysis of algorithms  --  value: 9.460223 
+topic: Computational complexity theory  --  value: 6.647562 
+ID: 1044735 
+topic: Mathematical logic  --  value: 10.600420 
+topic: Programming language  --  value: 8.436617 
+ID: 1236462 
+topic: Mathematical logic  --  value: 20.216274 
+topic: Artificial intelligence  --  value: 8.982913 
+topic: Central processing unit  --  value: 6.212698 
+topic: Probability and statistics  --  value: 5.662189 
+ID: 1236461 
+topic: Database  --  value: 36.437047 
+topic: Computational complexity theory  --  value: 26.443896 
+topic: Mathematical logic  --  value: 18.808957 
+topic: Central processing unit  --  value: 12.384175 
+ID: 1236460 
+topic: Computational complexity theory  --  value: 48.570743 
+topic: Database  --  value: 33.466294 
+ID: 1379760 
+topic: Database  --  value: 36.107106 
+topic: Mathematical logic  --  value: 16.424042 
+topic: Reliability engineering  --  value: 13.892105 
+topic: Legal aspects of computing  --  value: 10.693926 
+topic: Formal methods  --  value: 4.287557 
+topic: Computational complexity theory  --  value: 3.706376 
+ID: 174646 
+topic: Database  --  value: 25.466791 
+topic: Numerical analysis  --  value: 22.015998 
+topic: Discrete mathematics  --  value: 16.447550 
+topic: Computational complexity theory  --  value: 11.791156 
+topic: Symbolic computation  --  value: 5.371097 
+ID: 950623 
+topic: Computational complexity theory  --  value: 21.789495 
+topic: Mathematical logic  --  value: 21.492727 
+topic: Operating system  --  value: 21.039542 
+topic: Database  --  value: 11.593828 
+topic: Programming language  --  value: 9.177000 
+ID: 285060 
+topic: Computational complexity theory  --  value: 39.348776 
+topic: Database  --  value: 18.636375 
+topic: Reliability engineering  --  value: 11.070405 
+ID: 147530 
+topic: Reliability engineering  --  value: 26.755451 
+topic: Computational complexity theory  --  value: 15.535925 
+topic: Computer simulation  --  value: 12.021306 
+topic: Computer network  --  value: 5.761392 
+ID: 324140 
+topic: Computer network  --  value: 19.597444 
+topic: Database  --  value: 18.143907 
+topic: Information retrieval  --  value: 7.905708 
+topic: Mathematical logic  --  value: 5.402879 
+topic: Reliability engineering  --  value: 5.042655 
+ID: 147537 
+topic: Information theory  --  value: 11.080244 
+topic: Digital art  --  value: 1.956793 
+ID: 185776 
+topic: Mathematical logic  --  value: 25.956567 
+topic: Reliability engineering  --  value: 12.839650 
+topic: Database  --  value: 12.813191 
+topic: Computer network  --  value: 8.464666 
+ID: 174661 
+topic: Computational complexity theory  --  value: 13.505373 
+topic: Programming language  --  value: 2.695642 
+topic: Probability and statistics  --  value: 1.854540 
+ID: 1008738 
+topic: Numerical analysis  --  value: 17.018519 
+ID: 375849 
+topic: Computational complexity theory  --  value: 25.501164 
+topic: Reliability engineering  --  value: 23.716708 
+topic: Computer network  --  value: 17.837683 
+ID: 1008734 
+topic: Database  --  value: 20.322527 
+topic: Information theory  --  value: 15.965286 
+topic: Encryption  --  value: 1.767743 
+ID: 1008735 
+topic: Computational complexity theory  --  value: 27.470045 
+topic: Database  --  value: 9.976015 
+topic: Mathematical logic  --  value: 9.609495 
+ID: 1008736 
+topic: Computational complexity theory  --  value: 22.995509 
+topic: Database  --  value: 13.920025 
+topic: Analysis of algorithms  --  value: 6.140021 
+ID: 1008737 
+topic: Computational complexity theory  --  value: 27.952624 
+topic: Mathematical logic  --  value: 4.084413 
+ID: 1870105 
+topic: Database  --  value: 23.153416 
+topic: Artificial intelligence  --  value: 18.978040 
+topic: Legal aspects of computing  --  value: 18.958760 
+topic: Mathematical logic  --  value: 13.365742 
+topic: Computational complexity theory  --  value: 11.586599 
+topic: Reliability engineering  --  value: 11.068555 
+ID: 1870106 
+topic: Computational complexity theory  --  value: 51.064159 
+topic: Database  --  value: 35.661568 
+topic: Artificial intelligence  --  value: 15.818594 
+topic: Computer simulation  --  value: 7.519283 
+topic: Mathematical logic  --  value: 7.028989 
+ID: 1870107 
+topic: Database  --  value: 28.627894 
+topic: Computational complexity theory  --  value: 21.124400 
+topic: Information retrieval  --  value: 12.992637 
+topic: Mathematical logic  --  value: 5.329143 
+ID: 337261 
+topic: Database  --  value: 35.325663 
+topic: Mathematical logic  --  value: 6.842907 
+topic: Abstract machine  --  value: 2.886986 
+ID: 1255446 
+topic: Computational complexity theory  --  value: 22.640147 
+topic: Central processing unit  --  value: 17.668726 
+topic: Numerical analysis  --  value: 12.746683 
+ID: 1255447 
+topic: Database  --  value: 21.913446 
+topic: Computational complexity theory  --  value: 13.331835 
+topic: Programming language  --  value: 6.810275 
+ID: 1255444 
+topic: Programming language  --  value: 33.867012 
+topic: Mathematical logic  --  value: 33.775160 
+topic: Computer network  --  value: 31.269113 
+topic: Computational complexity theory  --  value: 25.162788 
+ID: 1255448 
+topic: Mathematical logic  --  value: 20.346832 
+topic: Coding theory  --  value: 18.690205 
+ID: 1255449 
+topic: Numerical analysis  --  value: 21.498172 
+topic: Mathematical logic  --  value: 9.517517 
+topic: Information theory  --  value: 9.143335 
+topic: Computational complexity theory  --  value: 8.339770 
+topic: Legal aspects of computing  --  value: 1.593799 
+ID: 1017461 
+topic: Computational complexity theory  --  value: 24.615934 
+topic: Artificial intelligence  --  value: 9.898044 
+topic: Computer graphics  --  value: 6.541578 
+ID: 1017462 
+topic: Artificial intelligence  --  value: 54.014339 
+topic: Database  --  value: 22.311068 
+topic: Information theory  --  value: 9.730149 
+ID: 1017463 
+topic: Central processing unit  --  value: 22.772937 
+topic: Reliability engineering  --  value: 13.043121 
+topic: Computer network  --  value: 9.363209 
+topic: Computational complexity theory  --  value: 7.894808 
+ID: 1017464 
+topic: Database  --  value: 55.642949 
+topic: Mathematical logic  --  value: 47.382799 
+topic: Computer data storage  --  value: 19.029808 
+ID: 1516518 
+topic: Formal language  --  value: 55.520580 
+topic: Computational complexity theory  --  value: 23.952899 
+topic: Database  --  value: 14.902276 
+topic: Programming language  --  value: 14.789599 
+topic: Mathematical logic  --  value: 9.927238 
+ID: 1516519 
+topic: Computational complexity theory  --  value: 47.827395 
+topic: Numerical analysis  --  value: 5.209642 
+ID: 1516514 
+topic: Database  --  value: 52.199917 
+topic: Computational complexity theory  --  value: 30.001133 
+topic: Computer data storage  --  value: 22.854505 
+ID: 1516515 
+topic: Database  --  value: 19.981476 
+topic: Mathematical logic  --  value: 9.775487 
+topic: Computational complexity theory  --  value: 9.298592 
+ID: 1516516 
+topic: Computational complexity theory  --  value: 32.767970 
+topic: Mathematical logic  --  value: 15.269067 
+ID: 1516517 
+topic: Computational complexity theory  --  value: 18.308814 
+topic: Numerical analysis  --  value: 5.728224 
+ID: 273933 
+topic: Computational complexity theory  --  value: 34.511500 
+topic: Numerical analysis  --  value: 12.921595 
+topic: Mathematical logic  --  value: 10.622460 
+ID: 2160159 
+topic: Operating system  --  value: 33.659832 
+topic: Computational complexity theory  --  value: 16.054036 
+topic: Mathematical logic  --  value: 13.062098 
+topic: Database  --  value: 11.821358 
+topic: Encryption  --  value: 4.495269 
+ID: 331528 
+topic: Reliability engineering  --  value: 20.564199 
+topic: Computational complexity theory  --  value: 11.573291 
+topic: Performance tuning  --  value: 10.592036 
+topic: Database  --  value: 9.348156 
+topic: Computer graphics  --  value: 6.712281 
+topic: Central processing unit  --  value: 4.321149 
+ID: 331529 
+topic: Computational complexity theory  --  value: 45.012751 
+topic: Database  --  value: 27.530508 
+topic: Discrete mathematics  --  value: 6.512296 
+ID: 258201 
+topic: Computational complexity theory  --  value: 26.546958 
+topic: Database  --  value: 17.902373 
+topic: Computer network  --  value: 16.968405 
+topic: Artificial intelligence  --  value: 14.636606 
+topic: Integrated circuit  --  value: 11.038251 
+ID: 1059520 
+topic: Computational complexity theory  --  value: 26.164521 
+topic: Database  --  value: 17.393834 
+topic: Central processing unit  --  value: 7.169935 
+topic: Mathematical logic  --  value: 5.089015 
+topic: Document processing  --  value: 1.275286 
+ID: 337247 
+topic: Computational complexity theory  --  value: 24.699117 
+topic: Analysis of algorithms  --  value: 22.723753 
+topic: Database  --  value: 12.124321 
+topic: Mathematical logic  --  value: 11.526883 
+ID: 331526 
+topic: Computational complexity theory  --  value: 22.535150 
+topic: Numerical analysis  --  value: 17.861528 
+topic: Reliability engineering  --  value: 6.437859 
+topic: Computer network  --  value: 6.239537 
+ID: 146624 
+topic: Database  --  value: 15.672234 
+topic: Mathematical logic  --  value: 14.043422 
+topic: Programming language  --  value: 10.576143 
+topic: Analysis of algorithms  --  value: 10.087725 
+topic: Reliability engineering  --  value: 8.713068 
+ID: 581774 
+topic: Operating system  --  value: 13.861653 
+topic: Analysis of algorithms  --  value: 11.759955 
+topic: Mathematical logic  --  value: 10.433948 
+ID: 581775 
+topic: Computer network  --  value: 12.156347 
+topic: Mathematical logic  --  value: 9.203711 
+topic: Formal methods  --  value: 7.875224 
+topic: Database  --  value: 6.908422 
+topic: Information retrieval  --  value: 2.948889 
+ID: 581772 
+topic: Artificial intelligence  --  value: 52.465544 
+topic: Mathematical logic  --  value: 23.370134 
+topic: Numerical analysis  --  value: 3.219878 
+ID: 581773 
+topic: Mathematical logic  --  value: 26.094268 
+topic: Computational complexity theory  --  value: 20.941051 
+topic: Information theory  --  value: 10.597673 
+topic: Database  --  value: 10.558814 
+topic: Programming language  --  value: 2.900787 
+ID: 331530 
+topic: Computational complexity theory  --  value: 44.688696 
+topic: Central processing unit  --  value: 16.177208 
+topic: Reliability engineering  --  value: 15.005499 
+topic: Performance tuning  --  value: 10.202671 
+ID: 263888 
+topic: Database  --  value: 47.389220 
+topic: Mathematical logic  --  value: 9.587063 
+topic: Programming language  --  value: 9.079273 
+ID: 153770 
+topic: Artificial intelligence  --  value: 20.860284 
+topic: Database  --  value: 17.842286 
+topic: Probability and statistics  --  value: 12.546695 
+topic: Computational complexity theory  --  value: 6.824810 
+ID: 1101824 
+topic: Programming language  --  value: 16.631078 
+topic: Artificial intelligence  --  value: 16.492616 
+topic: Database  --  value: 12.345803 
+topic: Computational complexity theory  --  value: 10.053015 
+topic: Operating system  --  value: 7.570080 
+ID: 1101825 
+topic: Mathematical logic  --  value: 27.028149 
+topic: Formal methods  --  value: 6.903695 
+topic: Database  --  value: 6.123712 
+ID: 1101822 
+topic: Computational complexity theory  --  value: 40.544018 
+topic: Programming language  --  value: 4.123229 
+topic: Analysis of algorithms  --  value: 3.359258 
+topic: Programming paradigm  --  value: 3.047570 
+ID: 1101823 
+topic: Computational complexity theory  --  value: 56.982449 
+topic: Mathematical logic  --  value: 27.272290 
+topic: Analysis of algorithms  --  value: 9.800816 
+ID: 1039489 
+topic: Database  --  value: 31.642335 
+topic: Computational complexity theory  --  value: 14.218052 
+topic: Computer network  --  value: 4.195168 
+ID: 128753 
+topic: Computational complexity theory  --  value: 17.369011 
+topic: Computer network  --  value: 5.738322 
+topic: Analysis of algorithms  --  value: 4.262473 
+topic: Probability and statistics  --  value: 1.704268 
+ID: 128752 
+topic: Pattern recognition  --  value: 19.579539 
+topic: Computational complexity theory  --  value: 17.949884 
+topic: Programming language  --  value: 5.336500 
+topic: Symbolic computation  --  value: 3.208151 
+ID: 128751 
+topic: Database  --  value: 26.071879 
+topic: Coding theory  --  value: 6.965158 
+ID: 128750 
+topic: Database  --  value: 26.076572 
+topic: Computational complexity theory  --  value: 25.932184 
+topic: Computer graphics  --  value: 15.169129 
+topic: Image processing  --  value: 11.603534 
+topic: Pattern recognition  --  value: 7.311174 
+ID: 128754 
+topic: Mathematical logic  --  value: 22.316595 
+topic: Computational complexity theory  --  value: 15.044726 
+topic: Numerical analysis  --  value: 14.101101 
+topic: Programming language  --  value: 6.611653 
+ID: 146656 
+topic: Computational complexity theory  --  value: 19.645737 
+topic: Bioinformatics  --  value: 11.490654 
+topic: Analysis of algorithms  --  value: 7.877144 
+topic: Computer data storage  --  value: 2.480688 
+topic: Programming language  --  value: 1.598370 
+ID: 146650 
+topic: Computational complexity theory  --  value: 26.091887 
+topic: Bioinformatics  --  value: 4.108171 
+topic: Reliability engineering  --  value: 3.501633 
+topic: Programming language  --  value: 2.372383 
+ID: 765572 
+topic: Numerical analysis  --  value: 12.184692 
+topic: Information retrieval  --  value: 10.854940 
+topic: Analysis of algorithms  --  value: 8.300318 
+topic: Register-transfer level  --  value: 1.734123 
+ID: 765573 
+topic: Database  --  value: 27.548777 
+topic: Analysis of algorithms  --  value: 12.453985 
+topic: Programming language  --  value: 10.325822 
+topic: Artificial intelligence  --  value: 9.745490 
+ID: 765570 
+topic: Artificial intelligence  --  value: 25.510286 
+topic: Computational complexity theory  --  value: 14.009211 
+topic: Integrated circuit  --  value: 4.033492 
+topic: Arithmetic logic unit  --  value: 1.521084 
+ID: 765571 
+topic: Computational complexity theory  --  value: 7.023756 
+topic: Artificial intelligence  --  value: 2.013281 
+ID: 1734219 
+topic: Computer network  --  value: 54.724080 
+topic: Database  --  value: 31.436253 
+topic: Computational complexity theory  --  value: 19.427649 
+topic: Bioinformatics  --  value: 12.345943 
+topic: Analysis of algorithms  --  value: 10.158668 
+ID: 1734218 
+topic: Information theory  --  value: 9.956238 
+topic: Computational complexity theory  --  value: 5.080799 
+ID: 1326558 
+topic: Programming language  --  value: 13.799381 
+topic: Database  --  value: 11.197244 
+topic: Mathematical logic  --  value: 10.971038 
+topic: Computational complexity theory  --  value: 9.471075 
+topic: Computer industry  --  value: 1.653855 
+ID: 1162351 
+topic: Coding theory  --  value: 48.093902 
+topic: Mathematical logic  --  value: 22.215574 
+topic: Reliability engineering  --  value: 17.625725 
+topic: Information theory  --  value: 4.138873 
+ID: 1162350 
+topic: Computational complexity theory  --  value: 26.815476 
+topic: Bioinformatics  --  value: 23.707850 
+topic: Reliability engineering  --  value: 12.984272 
+topic: Database  --  value: 6.566475 
+ID: 1162353 
+topic: Database  --  value: 23.168319 
+topic: Computational complexity theory  --  value: 18.179250 
+topic: Artificial intelligence  --  value: 6.707986 
+ID: 1162352 
+topic: Database  --  value: 25.265176 
+topic: Personal computer  --  value: 17.144332 
+topic: Computational complexity theory  --  value: 14.543590 
+topic: Analysis of algorithms  --  value: 8.118456 
+topic: Computer data storage  --  value: 8.021039 
+ID: 1734215 
+topic: Computational complexity theory  --  value: 41.376131 
+topic: Mathematical logic  --  value: 19.609753 
+topic: Central processing unit  --  value: 9.069671 
+ID: 1734214 
+topic: Reliability engineering  --  value: 19.039406 
+topic: Information theory  --  value: 18.030880 
+topic: Mathematical logic  --  value: 16.962664 
+topic: Computational complexity theory  --  value: 11.520213 
+topic: Database  --  value: 8.539429 
+ID: 1568324 
+topic: Computational complexity theory  --  value: 34.591010 
+topic: Database  --  value: 17.470872 
+topic: Artificial intelligence  --  value: 11.993673 
+ID: 1734216 
+topic: Reliability engineering  --  value: 12.745240 
+topic: Database  --  value: 10.291797 
+ID: 792545 
+topic: Computational complexity theory  --  value: 29.317635 
+topic: Operating system  --  value: 12.196076 
+topic: Central processing unit  --  value: 5.541844 
+ID: 792544 
+topic: Computational complexity theory  --  value: 18.955013 
+topic: Central processing unit  --  value: 17.969589 
+topic: Computer simulation  --  value: 8.075977 
+topic: Artificial intelligence  --  value: 7.928090 
+topic: Operating system  --  value: 4.163924 
+ID: 792546 
+topic: Database  --  value: 30.224130 
+topic: Computational complexity theory  --  value: 28.348507 
+topic: Performance tuning  --  value: 17.384596 
+topic: Mathematical logic  --  value: 14.714314 
+topic: Analysis of algorithms  --  value: 7.421046 
+ID: 792541 
+topic: Database  --  value: 10.994831 
+topic: Central processing unit  --  value: 7.260941 
+topic: Computer data storage  --  value: 6.623727 
+topic: Analysis of algorithms  --  value: 4.194574 
+ID: 792540 
+topic: Computational complexity theory  --  value: 15.374813 
+topic: Reliability engineering  --  value: 12.855807 
+topic: Analysis of algorithms  --  value: 8.934389 
+topic: Information theory  --  value: 5.663864 
+topic: Arithmetic logic unit  --  value: 1.263720 
+ID: 792543 
+topic: Computational complexity theory  --  value: 35.050135 
+topic: Database  --  value: 24.369477 
+topic: Information theory  --  value: 23.634992 
+topic: Mathematical logic  --  value: 6.019470 
+ID: 792542 
+topic: Mathematical logic  --  value: 18.492857 
+topic: Numerical analysis  --  value: 14.673918 
+topic: Computational complexity theory  --  value: 13.612550 
+topic: Reliability engineering  --  value: 3.071833 
+topic: Digital humanities  --  value: 1.241434 
+ID: 138042 
+topic: Computational complexity theory  --  value: 24.318941 
+topic: Database  --  value: 21.681281 
+topic: Formal language  --  value: 7.311596 
+topic: Analysis of algorithms  --  value: 5.762256 
+ID: 138040 
+topic: Numerical analysis  --  value: 15.475661 
+topic: Operating system  --  value: 12.554901 
+topic: Computer simulation  --  value: 11.724895 
+topic: Artificial intelligence  --  value: 9.013595 
+topic: Computational complexity theory  --  value: 8.343063 
+topic: Information theory  --  value: 7.998996 
+ID: 355554 
+topic: Data structure  --  value: 34.592933 
+topic: Database  --  value: 19.342346 
+topic: Computational complexity theory  --  value: 9.832407 
+topic: Information theory  --  value: 8.306388 
+ID: 382782 
+topic: Analysis of algorithms  --  value: 23.638704 
+topic: Information theory  --  value: 12.577518 
+topic: Database  --  value: 5.873766 
+topic: Computational complexity theory  --  value: 4.984087 
+ID: 382783 
+topic: Computational complexity theory  --  value: 38.808932 
+topic: Database  --  value: 14.422431 
+topic: Information retrieval  --  value: 13.824192 
+ID: 382781 
+topic: Information theory  --  value: 19.879285 
+topic: Reliability engineering  --  value: 9.477884 
+topic: Computer network  --  value: 5.265840 
+topic: Mathematical logic  --  value: 4.451066 
+ID: 382784 
+topic: Reliability engineering  --  value: 48.813585 
+topic: Computational complexity theory  --  value: 26.226919 
+topic: Operating system  --  value: 22.534658 
+topic: Central processing unit  --  value: 6.960464 
+topic: Analysis of algorithms  --  value: 5.556967 
+ID: 382785 
+topic: Programming language  --  value: 27.910036 
+topic: Mathematical logic  --  value: 12.127001 
+ID: 151263 
+topic: Artificial intelligence  --  value: 11.333133 
+topic: Discrete mathematics  --  value: 10.691822 
+topic: Computational complexity theory  --  value: 8.111484 
+topic: Reliability engineering  --  value: 5.937635 
+ID: 151262 
+topic: Computational complexity theory  --  value: 20.503934 
+topic: Mathematical logic  --  value: 14.932126 
+topic: Computer data storage  --  value: 6.619495 
+ID: 363677 
+topic: Computer network  --  value: 61.631675 
+topic: Reliability engineering  --  value: 22.369856 
+topic: Numerical analysis  --  value: 12.045702 
+topic: Computational complexity theory  --  value: 8.865271 
+topic: Database  --  value: 7.580576 
+topic: Discrete mathematics  --  value: 1.618031 
+ID: 1131346 
+topic: Mathematical logic  --  value: 13.686931 
+topic: Database  --  value: 8.350106 
+ID: 347480 
+topic: Computational complexity theory  --  value: 44.357237 
+topic: Artificial intelligence  --  value: 17.382775 
+topic: Operating system  --  value: 14.812543 
+topic: Mathematical logic  --  value: 5.521520 
+ID: 347481 
+topic: Mathematical logic  --  value: 22.681912 
+topic: Computational complexity theory  --  value: 20.897896 
+topic: Computer network  --  value: 5.475748 
+ID: 347484 
+topic: Database  --  value: 27.072929 
+topic: Computational complexity theory  --  value: 17.982888 
+topic: Programming language  --  value: 16.163510 
+topic: Mathematical logic  --  value: 2.854747 
+ID: 316551 
+topic: Computational complexity theory  --  value: 25.747292 
+topic: Numerical analysis  --  value: 17.857613 
+topic: Central processing unit  --  value: 15.129431 
+topic: Mathematical logic  --  value: 11.986482 
+topic: Reliability engineering  --  value: 9.371775 
+ID: 2108247 
+topic: Computational complexity theory  --  value: 17.091259 
+topic: Discrete mathematics  --  value: 16.076308 
+topic: Mathematical logic  --  value: 8.887988 
+ID: 200848 
+topic: Mathematical logic  --  value: 10.480185 
+topic: Computational complexity theory  --  value: 7.974727 
+topic: Artificial intelligence  --  value: 2.600644 
+ID: 1326557 
+topic: Computational complexity theory  --  value: 41.495219 
+topic: Central processing unit  --  value: 15.094180 
+topic: Mathematical logic  --  value: 9.214143 
+topic: Information theory  --  value: 8.768178 
+topic: Computer network  --  value: 5.931344 
+topic: Database  --  value: 5.608048 
+ID: 300517 
+topic: Computational complexity theory  --  value: 38.799286 
+topic: Database  --  value: 14.342824 
+topic: Reliability engineering  --  value: 2.913446 
+ID: 300516 
+topic: Bioinformatics  --  value: 26.723563 
+topic: Numerical analysis  --  value: 19.089395 
+topic: Computational complexity theory  --  value: 18.426809 
+topic: Mathematical logic  --  value: 4.144240 
+topic: Performance tuning  --  value: 1.708586 
+ID: 300519 
+topic: Computational complexity theory  --  value: 7.007760 
+topic: Numerical analysis  --  value: 2.862562 
+topic: Mathematical logic  --  value: 1.802904 
+topic: Operating system  --  value: 1.400848 
+ID: 300518 
+topic: Artificial intelligence  --  value: 23.487423 
+topic: Personal computer  --  value: 20.525749 
+topic: Computer data storage  --  value: 19.465172 
+topic: Computational complexity theory  --  value: 14.782291 
+topic: Mathematical logic  --  value: 6.831958 
+ID: 1326556 
+topic: Database  --  value: 58.689660 
+topic: Computational complexity theory  --  value: 20.347377 
+ID: 138032 
+topic: Computational complexity theory  --  value: 25.018519 
+ID: 347477 
+topic: Mathematical logic  --  value: 54.462601 
+topic: Database  --  value: 33.230905 
+topic: Computational complexity theory  --  value: 13.362050 
+ID: 256298 
+topic: Database  --  value: 17.960568 
+topic: Computer network  --  value: 9.150303 
+topic: Personal computer  --  value: 8.407350 
+topic: Computational complexity theory  --  value: 6.555853 
+ID: 256299 
+topic: Mathematical logic  --  value: 17.706279 
+topic: Analysis of algorithms  --  value: 13.649988 
+topic: Computer network  --  value: 9.807608 
+topic: Computational complexity theory  --  value: 8.910199 
+ID: 151265 
+topic: Mathematical logic  --  value: 20.821763 
+topic: Artificial intelligence  --  value: 9.596854 
+topic: Computational complexity theory  --  value: 7.420680 
+topic: Pattern recognition  --  value: 7.234777 
+ID: 151264 
+topic: Artificial intelligence  --  value: 25.981510 
+topic: Computational complexity theory  --  value: 12.055817 
+topic: Operating system  --  value: 8.964783 
+topic: Mathematical logic  --  value: 7.071964 
+ID: 256296 
+topic: Database  --  value: 55.321459 
+topic: Computational complexity theory  --  value: 11.715578 
+ID: 347479 
+topic: Central processing unit  --  value: 19.957006 
+topic: Artificial intelligence  --  value: 14.764484 
+topic: Analysis of algorithms  --  value: 14.444053 
+topic: Computational complexity theory  --  value: 8.908531 
+ID: 347478 
+topic: Computational complexity theory  --  value: 50.786129 
+topic: Numerical analysis  --  value: 19.019292 
+topic: Programming paradigm  --  value: 6.250134 
+ID: 1082040 
+topic: Computer network  --  value: 53.875533 
+topic: Computational complexity theory  --  value: 27.346249 
+topic: Artificial intelligence  --  value: 8.833773 
+ID: 1082041 
+topic: Central processing unit  --  value: 37.904498 
+topic: Numerical analysis  --  value: 33.852512 
+topic: Computational complexity theory  --  value: 30.298545 
+ID: 1082042 
+topic: Programming language  --  value: 38.786572 
+topic: Mathematical logic  --  value: 12.203641 
+topic: Computer network  --  value: 8.065343 
+ID: 1082043 
+topic: Database  --  value: 40.614022 
+topic: Computational complexity theory  --  value: 33.962753 
+topic: Information theory  --  value: 25.478780 
+ID: 504795 
+topic: Computational complexity theory  --  value: 12.515465 
+topic: Mathematical logic  --  value: 7.203330 
+topic: Artificial intelligence  --  value: 6.293917 
+topic: Reliability engineering  --  value: 6.061363 
+ID: 504797 
+topic: Database  --  value: 43.144122 
+topic: Computer simulation  --  value: 16.892915 
+ID: 504796 
+topic: Computational complexity theory  --  value: 10.704596 
+topic: Database  --  value: 7.477556 
+topic: Computer-aided engineering  --  value: 3.789065 
+topic: Analysis of algorithms  --  value: 1.858909 
+topic: Formal methods  --  value: 1.262467 
+ID: 504799 
+topic: Mathematical logic  --  value: 20.855560 
+topic: Central processing unit  --  value: 14.592648 
+topic: Operating system  --  value: 7.796108 
+topic: Computational complexity theory  --  value: 2.829757 
+ID: 504798 
+topic: Computational complexity theory  --  value: 36.940045 
+topic: Database  --  value: 9.555931 
+topic: Mathematical logic  --  value: 2.559579 
+ID: 502096 
+topic: Computational complexity theory  --  value: 46.018519 
+ID: 234556 
+topic: Database  --  value: 8.875046 
+topic: Operating system  --  value: 5.349712 
+topic: Central processing unit  --  value: 4.710835 
+topic: Computer data storage  --  value: 4.115383 
+topic: Analysis of algorithms  --  value: 2.041616 
+ID: 1314696 
+topic: Reliability engineering  --  value: 50.831315 
+topic: Analysis of algorithms  --  value: 35.745012 
+topic: Database  --  value: 23.686275 
+topic: Computer network  --  value: 22.841006 
+topic: Information theory  --  value: 9.988985 
+ID: 1314695 
+topic: Database  --  value: 27.088516 
+topic: Programming language  --  value: 16.953610 
+topic: Information theory  --  value: 7.013430 
+ID: 1314694 
+topic: Database  --  value: 30.499508 
+topic: Microcode  --  value: 7.087420 
+topic: Computational complexity theory  --  value: 6.479818 
+topic: Mathematical logic  --  value: 4.007327 
+ID: 1314693 
+topic: Mathematical logic  --  value: 32.549809 
+topic: Computational complexity theory  --  value: 7.919740 
+topic: Artificial intelligence  --  value: 7.270200 
+topic: Abstract machine  --  value: 5.939545 
+topic: Image processing  --  value: 1.413298 
+ID: 1314692 
+topic: Computational complexity theory  --  value: 91.335605 
+topic: Microcode  --  value: 27.701432 
+ID: 1314691 
+topic: Computational complexity theory  --  value: 60.056215 
+topic: Mathematical logic  --  value: 12.980822 
+ID: 153741 
+topic: Computer data storage  --  value: 16.134222 
+topic: Microcode  --  value: 10.517454 
+topic: Programming language  --  value: 7.363161 
+topic: Database  --  value: 6.811109 
+topic: Implementation  --  value: 5.266646 
+ID: 265918 
+topic: Artificial intelligence  --  value: 90.403693 
+topic: Database  --  value: 15.323686 
+topic: Computational complexity theory  --  value: 5.328176 
+ID: 265914 
+topic: Computational complexity theory  --  value: 21.343858 
+topic: Database  --  value: 16.693179 
+ID: 265912 
+topic: Artificial intelligence  --  value: 40.223490 
+topic: Operating system  --  value: 14.331264 
+topic: Mathematical logic  --  value: 5.791429 
+topic: Computational complexity theory  --  value: 5.727891 
+ID: 1217860 
+topic: Computational complexity theory  --  value: 25.319137 
+topic: Database  --  value: 19.401099 
+topic: Numerical analysis  --  value: 13.858787 
+topic: Computer simulation  --  value: 13.495051 
+ID: 226652 
+topic: Computational complexity theory  --  value: 19.350144 
+topic: Mathematical logic  --  value: 7.584044 
+topic: Information theory  --  value: 3.121368 
+ID: 174143 
+topic: Operating system  --  value: 35.118962 
+topic: Computational complexity theory  --  value: 18.918075 
+ID: 226658 
+topic: Computational complexity theory  --  value: 50.901012 
+topic: Database  --  value: 34.747108 
+topic: Computer network  --  value: 27.051041 
+topic: Personal computer  --  value: 10.374913 
+ID: 602224 
+topic: Database  --  value: 19.477772 
+topic: Programming language  --  value: 9.559265 
+ID: 602225 
+topic: Computational complexity theory  --  value: 25.273470 
+topic: Computer data storage  --  value: 14.932442 
+topic: Database  --  value: 11.044178 
+topic: Educational technology  --  value: 5.823984 
+ID: 602222 
+topic: Database  --  value: 14.622532 
+topic: Mathematical logic  --  value: 14.379036 
+topic: Computational complexity theory  --  value: 13.442983 
+topic: Numerical analysis  --  value: 8.629523 
+ID: 602223 
+topic: Mathematical logic  --  value: 14.057174 
+topic: Computational complexity theory  --  value: 12.946744 
+topic: Integrated circuit  --  value: 12.051638 
+ID: 174145 
+topic: Central processing unit  --  value: 13.637279 
+topic: Computational complexity theory  --  value: 12.615494 
+topic: Database  --  value: 6.613074 
+topic: Formal methods  --  value: 6.208227 
+ID: 174144 
+topic: Database  --  value: 28.688352 
+topic: Central processing unit  --  value: 20.623800 
+topic: Computer network  --  value: 13.822167 
+topic: Computational complexity theory  --  value: 8.209104 
+topic: Analysis of algorithms  --  value: 7.850774 
+topic: Symbolic computation  --  value: 5.390167 
+topic: Artificial intelligence  --  value: 3.545267 
+ID: 147524 
+topic: Mathematical logic  --  value: 53.735020 
+topic: Database  --  value: 35.254994 
+topic: Programming language  --  value: 15.563756 
+topic: Artificial intelligence  --  value: 3.520305 
+ID: 316550 
+topic: Analysis of algorithms  --  value: 30.837608 
+topic: Database  --  value: 23.474755 
+topic: Computational complexity theory  --  value: 21.571640 
+topic: Programming language  --  value: 17.320351 
+topic: Pattern recognition  --  value: 2.888239 
+ID: 153733 
+topic: Database  --  value: 41.367876 
+topic: Operating system  --  value: 9.751094 
+topic: Numerical analysis  --  value: 7.366620 
+topic: Performance tuning  --  value: 5.588484 
+ID: 1857918 
+topic: Computational complexity theory  --  value: 50.679940 
+topic: Information theory  --  value: 12.167498 
+topic: Legal aspects of computing  --  value: 7.208117 
+ID: 174149 
+topic: Information theory  --  value: 15.334628 
+topic: Computational complexity theory  --  value: 13.531513 
+topic: Database  --  value: 8.024646 
+topic: Personal computer  --  value: 7.436049 
+topic: Mathematical logic  --  value: 6.765758 
+ID: 146613 
+topic: Mathematical logic  --  value: 9.075661 
+topic: Operating system  --  value: 3.961376 
+ID: 174148 
+topic: Operating system  --  value: 18.001463 
+topic: Computational complexity theory  --  value: 10.040187 
+topic: Mathematical logic  --  value: 9.013905 
+ID: 146616 
+topic: Database  --  value: 24.112179 
+topic: Analysis of algorithms  --  value: 15.384087 
+topic: Mathematical logic  --  value: 14.829277 
+topic: Computer network  --  value: 2.748531 
+ID: 2160163 
+topic: Database  --  value: 34.042486 
+topic: Computer network  --  value: 17.137959 
+topic: Computational complexity theory  --  value: 8.875111 
+ID: 274791 
+topic: Computational complexity theory  --  value: 24.284689 
+topic: Numerical analysis  --  value: 20.593749 
+topic: Mathematical logic  --  value: 12.591154 
+topic: Reliability engineering  --  value: 6.604481 
+ID: 2160161 
+topic: Database  --  value: 30.917710 
+topic: Artificial intelligence  --  value: 24.297960 
+topic: Computer network  --  value: 23.089223 
+topic: Mathematical logic  --  value: 15.433892 
+topic: Operating system  --  value: 9.353807 
+ID: 2160160 
+topic: Computational complexity theory  --  value: 32.797854 
+topic: Operating system  --  value: 10.400566 
+topic: Database  --  value: 4.857135 
+ID: 174660 
+topic: Central processing unit  --  value: 16.865091 
+topic: Computational complexity theory  --  value: 16.258208 
+topic: Analysis of algorithms  --  value: 5.932257 
+ID: 1706597 
+topic: Computational complexity theory  --  value: 37.211444 
+topic: Analysis of algorithms  --  value: 12.721803 
+topic: Mathematical logic  --  value: 8.409389 
+topic: Bioinformatics  --  value: 5.731438 
+ID: 1706596 
+topic: Database  --  value: 17.047515 
+topic: Mathematical logic  --  value: 15.145703 
+topic: Computer simulation  --  value: 11.862338 
+ID: 1706595 
+topic: Data structure  --  value: 28.187970 
+topic: Database  --  value: 19.696751 
+topic: Computational complexity theory  --  value: 15.529252 
+topic: Artificial intelligence  --  value: 13.213441 
+topic: Bioinformatics  --  value: 10.230681 
+topic: Analysis of algorithms  --  value: 6.253015 
+ID: 1706594 
+topic: Computational complexity theory  --  value: 52.487251 
+topic: Integrated circuit  --  value: 21.549786 
+ID: 1706593 
+topic: Computational complexity theory  --  value: 57.611460 
+topic: Mathematical logic  --  value: 16.425577 
+ID: 174138 
+topic: Numerical analysis  --  value: 19.360384 
+topic: Mathematical logic  --  value: 14.954390 
+topic: Computational complexity theory  --  value: 9.740781 
+ID: 174139 
+topic: Artificial intelligence  --  value: 11.059059 
+topic: Reliability engineering  --  value: 9.414113 
+topic: Data structure  --  value: 3.339529 
+topic: Computer file  --  value: 2.261373 
+ID: 333980 
+topic: Personal computer  --  value: 9.317298 
+topic: Legal aspects of computing  --  value: 7.143268 
+topic: Educational technology  --  value: 6.789164 
+topic: Database  --  value: 2.485935 
+topic: Computational science  --  value: 2.356927 
+ID: 174137 
+topic: Mathematical logic  --  value: 35.326877 
+topic: Artificial intelligence  --  value: 21.188646 
+topic: Database  --  value: 12.540033 
+ID: 273870 
+topic: Mathematical logic  --  value: 35.342673 
+topic: Database  --  value: 28.598124 
+topic: Computational complexity theory  --  value: 18.114759 
+ID: 174132 
+topic: Information theory  --  value: 24.796979 
+topic: Mathematical logic  --  value: 8.537604 
+topic: Analysis of algorithms  --  value: 5.720973 
+ID: 174133 
+topic: Computational complexity theory  --  value: 33.860840 
+topic: Database  --  value: 7.176197 
+ID: 1706599 
+topic: Database  --  value: 61.723958 
+topic: Artificial intelligence  --  value: 41.756281 
+topic: Computational complexity theory  --  value: 17.442954 
+topic: Pattern recognition  --  value: 17.218955 
+topic: Mathematical logic  --  value: 9.950444 
+ID: 1706598 
+topic: Mathematical logic  --  value: 17.832032 
+topic: Database  --  value: 15.488707 
+topic: Computational complexity theory  --  value: 14.383693 
+topic: Document processing  --  value: 1.369642 
+ID: 174140 
+topic: Data structure  --  value: 18.261367 
+topic: Database  --  value: 11.060949 
+topic: Artificial intelligence  --  value: 10.733240 
+ID: 235814 
+topic: Mathematical logic  --  value: 44.100154 
+topic: Artificial intelligence  --  value: 12.569928 
+topic: Operating system  --  value: 11.872197 
+topic: Central processing unit  --  value: 6.645705 
+topic: Information retrieval  --  value: 5.904610 
+ID: 235813 
+topic: Computational complexity theory  --  value: 20.470782 
+topic: Mathematical logic  --  value: 18.834642 
+topic: Analysis of algorithms  --  value: 6.750132 
+ID: 235812 
+topic: Computer network  --  value: 30.144814 
+topic: Computer data storage  --  value: 6.907800 
+topic: Database  --  value: 2.168672 
+topic: Computational complexity theory  --  value: 1.852788 
+ID: 235811 
+topic: Computational complexity theory  --  value: 23.735931 
+topic: Artificial intelligence  --  value: 23.324403 
+topic: Database  --  value: 10.077945 
+topic: Computer network  --  value: 8.935794 
+ID: 235810 
+topic: Analysis of algorithms  --  value: 12.924414 
+topic: Database  --  value: 11.112623 
+ID: 331610 
+topic: Analysis of algorithms  --  value: 31.036360 
+topic: Mathematical logic  --  value: 23.418391 
+topic: Computer network  --  value: 13.898955 
+topic: Database  --  value: 13.720368 
+ID: 1667060 
+topic: Database  --  value: 21.419720 
+topic: Mathematical logic  --  value: 10.617318 
+ID: 150945 
+topic: Mathematical logic  --  value: 22.473126 
+topic: Artificial intelligence  --  value: 15.463321 
+topic: Database  --  value: 9.556769 
+topic: Computational complexity theory  --  value: 8.580858 
+ID: 1219098 
+topic: Formal language  --  value: 8.739766 
+topic: Information theory  --  value: 7.883129 
+topic: Analysis of algorithms  --  value: 2.432661 
+ID: 1219095 
+topic: Mathematical logic  --  value: 23.870463 
+topic: Database  --  value: 14.170194 
+topic: Formal methods  --  value: 12.014898 
+ID: 1219094 
+topic: Formal language  --  value: 9.055089 
+topic: Computational complexity theory  --  value: 7.981948 
+ID: 1219097 
+topic: Numerical analysis  --  value: 26.521731 
+topic: Information theory  --  value: 14.748911 
+topic: Reliability engineering  --  value: 10.340562 
+topic: Computational complexity theory  --  value: 4.883777 
+topic: Symbolic computation  --  value: 4.597612 
+ID: 1219096 
+topic: Mathematical logic  --  value: 26.019608 
+topic: Computational complexity theory  --  value: 22.315319 
+topic: Database  --  value: 14.285593 
+topic: Symbolic computation  --  value: 7.383563 
+topic: Computer simulation  --  value: 7.268501 
+topic: Artificial intelligence  --  value: 4.838527 
+ID: 146684 
+topic: Mathematical logic  --  value: 7.321512 
+topic: Legal aspects of computing  --  value: 3.822892 
+topic: Integrated circuit  --  value: 2.911152 
+ID: 1284325 
+topic: Mathematical logic  --  value: 17.889212 
+topic: Database  --  value: 8.147825 
+ID: 1284324 
+topic: Computational complexity theory  --  value: 24.685644 
+topic: Central processing unit  --  value: 20.465359 
+topic: Personal computer  --  value: 15.317544 
+topic: Discrete mathematics  --  value: 9.196606 
+topic: Information theory  --  value: 7.427440 
+ID: 256314 
+topic: Database  --  value: 21.194229 
+topic: Computational complexity theory  --  value: 13.137273 
+topic: Information theory  --  value: 9.074709 
+topic: Central processing unit  --  value: 4.667863 
+ID: 1284321 
+topic: Analysis of algorithms  --  value: 12.120883 
+topic: Database  --  value: 7.916154 
+ID: 1284323 
+topic: Computational complexity theory  --  value: 38.188255 
+topic: Mathematical logic  --  value: 24.591235 
+topic: Artificial intelligence  --  value: 23.558001 
+topic: Database  --  value: 15.736583 
+ID: 1284322 
+topic: Computational complexity theory  --  value: 19.870635 
+topic: Implementation  --  value: 2.166402 
+ID: 1989729 
+topic: Mathematical logic  --  value: 32.866008 
+topic: Database  --  value: 24.749463 
+topic: Computational complexity theory  --  value: 18.440085 
+ID: 1989728 
+topic: Database  --  value: 23.869785 
+topic: Computational complexity theory  --  value: 12.724616 
+topic: Computer graphics  --  value: 5.461155 
+ID: 1411512 
+topic: Computational complexity theory  --  value: 22.070463 
+topic: Programming paradigm  --  value: 1.966574 
+ID: 1411513 
+topic: Computational complexity theory  --  value: 31.809870 
+topic: Database  --  value: 10.361975 
+topic: Numerical analysis  --  value: 3.883711 
+ID: 1411510 
+topic: Computational complexity theory  --  value: 26.537730 
+topic: Analysis of algorithms  --  value: 19.359153 
+topic: Database  --  value: 15.194868 
+topic: Reliability engineering  --  value: 12.808635 
+topic: Central processing unit  --  value: 5.192206 
+ID: 1411511 
+topic: Computational complexity theory  --  value: 30.510653 
+topic: Mathematical logic  --  value: 5.526384 
+ID: 333984 
+topic: Computational complexity theory  --  value: 9.018519 
+ID: 1411514 
+topic: Computer simulation  --  value: 28.369092 
+topic: Artificial intelligence  --  value: 18.231508 
+topic: Analysis of algorithms  --  value: 15.930866 
+topic: Information retrieval  --  value: 13.076783 
+topic: Numerical analysis  --  value: 10.484344 
+ID: 333987 
+topic: Computational complexity theory  --  value: 30.803981 
+topic: Artificial intelligence  --  value: 18.650413 
+topic: Mathematical logic  --  value: 8.611933 
+topic: Implementation  --  value: 2.007746 
+ID: 333989 
+topic: Mathematical logic  --  value: 26.259533 
+topic: Abstract machine  --  value: 25.546378 
+topic: Programming language  --  value: 21.097492 
+topic: Database  --  value: 15.170671 
+ID: 169803 
+topic: Computational complexity theory  --  value: 34.572143 
+topic: Database  --  value: 6.246905 
+topic: Programming language  --  value: 4.236507 
+ID: 258129 
+topic: Computational complexity theory  --  value: 13.452643 
+topic: Operating system  --  value: 10.771337 
+topic: Mathematical logic  --  value: 5.680482 
+topic: Numerical analysis  --  value: 4.169612 
+ID: 185682 
+topic: Computer network  --  value: 40.387503 
+topic: Analysis of algorithms  --  value: 11.985859 
+topic: Computer simulation  --  value: 7.460014 
+topic: Pattern recognition  --  value: 7.240698 
+ID: 1346333 
+topic: Computational complexity theory  --  value: 43.523161 
+topic: Database  --  value: 12.752546 
+topic: Mathematical logic  --  value: 7.114576 
+topic: Document processing  --  value: 1.683791 
+ID: 1346332 
+topic: Database  --  value: 54.605352 
+topic: Computational complexity theory  --  value: 11.795417 
+topic: Mathematical logic  --  value: 3.676346 
+topic: Information retrieval  --  value: 2.996959 
+ID: 1346331 
+topic: Mathematical logic  --  value: 26.192132 
+topic: Database  --  value: 23.025839 
+topic: Encryption  --  value: 7.170614 
+topic: Computational complexity theory  --  value: 4.685489 
+ID: 169807 
+topic: Computational complexity theory  --  value: 30.328579 
+topic: Mathematical logic  --  value: 17.708458 
+ID: 1346336 
+topic: Mathematical logic  --  value: 9.960132 
+topic: Computational complexity theory  --  value: 8.870059 
+topic: Computer vision  --  value: 4.723011 
+topic: Programming language  --  value: 3.520872 
+ID: 1346335 
+topic: Coding theory  --  value: 31.510387 
+topic: Computational complexity theory  --  value: 17.650516 
+topic: Digital humanities  --  value: 1.894652 
+ID: 1346334 
+topic: Database  --  value: 49.348693 
+topic: Computational complexity theory  --  value: 30.863536 
+topic: Central processing unit  --  value: 12.843327 
+ID: 355562 
+topic: Computational complexity theory  --  value: 18.117537 
+topic: Computer network  --  value: 1.919500 
+ID: 355567 
+topic: Information theory  --  value: 38.361923 
+topic: Computer network  --  value: 10.718355 
+topic: Computer simulation  --  value: 9.975278 
+ID: 636869 
+topic: Computer network  --  value: 30.962018 
+topic: Mathematical logic  --  value: 14.545648 
+topic: Analysis of algorithms  --  value: 11.269543 
+topic: Educational technology  --  value: 8.590510 
+topic: Reliability engineering  --  value: 5.724873 
+ID: 636868 
+topic: Computational complexity theory  --  value: 26.848155 
+topic: Reliability engineering  --  value: 25.083424 
+topic: Mathematical logic  --  value: 24.123977 
+ID: 636867 
+topic: Computational complexity theory  --  value: 72.301751 
+topic: Mathematical logic  --  value: 16.811720 
+topic: Central processing unit  --  value: 12.942084 
+ID: 636866 
+topic: Artificial intelligence  --  value: 30.906029 
+topic: Numerical analysis  --  value: 12.783926 
+topic: Computational complexity theory  --  value: 8.365601 
+ID: 174647 
+topic: Computational complexity theory  --  value: 28.442437 
+topic: Artificial intelligence  --  value: 22.955834 
+topic: Mathematical logic  --  value: 17.657285 
+ID: 146591 
+topic: Central processing unit  --  value: 15.945443 
+topic: Computational complexity theory  --  value: 11.275810 
+topic: Information theory  --  value: 8.108533 
+topic: Numerical analysis  --  value: 4.744287 
+ID: 263927 
+topic: Computational complexity theory  --  value: 29.389157 
+topic: Mathematical logic  --  value: 13.367972 
+topic: Legal aspects of computing  --  value: 10.331696 
+topic: Pattern recognition  --  value: 7.985249 
+ID: 278304 
+topic: Computer network  --  value: 26.072676 
+topic: Personal computer  --  value: 18.149904 
+topic: Computational complexity theory  --  value: 13.708177 
+topic: Analysis of algorithms  --  value: 12.695204 
+topic: Mathematical logic  --  value: 8.618251 
+topic: Probability and statistics  --  value: 1.866899 
+ID: 278305 
+topic: Database  --  value: 47.748721 
+topic: Reliability engineering  --  value: 18.157849 
+topic: Computational complexity theory  --  value: 8.148986 
+ID: 278306 
+topic: Computational complexity theory  --  value: 39.367871 
+topic: Information theory  --  value: 18.196682 
+topic: Mathematical logic  --  value: 10.491003 
+ID: 278303 
+topic: Reliability engineering  --  value: 16.761500 
+topic: Central processing unit  --  value: 12.682227 
+topic: Computational complexity theory  --  value: 8.350999 
+topic: Numerical analysis  --  value: 7.279347 
+ID: 1613677 
+topic: Computational complexity theory  --  value: 52.462420 
+topic: Database  --  value: 44.318905 
+topic: Numerical analysis  --  value: 6.274230 
+ID: 876641 
+topic: Database  --  value: 21.500148 
+topic: Mathematical logic  --  value: 20.775314 
+topic: Coding theory  --  value: 7.547995 
+topic: Computer simulation  --  value: 3.250617 
+ID: 876640 
+topic: Computational complexity theory  --  value: 65.354183 
+topic: Central processing unit  --  value: 20.682854 
+ID: 876643 
+topic: Database  --  value: 33.513895 
+topic: Reliability engineering  --  value: 15.108789 
+topic: Abstract machine  --  value: 8.282203 
+topic: Symbolic computation  --  value: 7.169187 
+ID: 876642 
+topic: Mathematical logic  --  value: 38.720369 
+topic: Database  --  value: 34.690043 
+topic: Formal language  --  value: 15.007814 
+topic: Computational complexity theory  --  value: 4.655848 
+ID: 1516520 
+topic: Reliability engineering  --  value: 44.833084 
+topic: Computational complexity theory  --  value: 26.635592 
+topic: Discrete mathematics  --  value: 26.603816 
+topic: Mathematical logic  --  value: 7.001582 
+ID: 1008732 
+topic: Computational complexity theory  --  value: 44.074773 
+topic: Operating system  --  value: 33.964150 
+topic: Central processing unit  --  value: 18.016633 
+ID: 1613679 
+topic: Computer network  --  value: 50.140202 
+topic: Reliability engineering  --  value: 12.599450 
+topic: Information theory  --  value: 8.350967 
+topic: Computational complexity theory  --  value: 3.983455 
+ID: 1613678 
+topic: Computational complexity theory  --  value: 20.660231 
+topic: Analysis of algorithms  --  value: 16.518949 
+topic: Reliability engineering  --  value: 10.876376 
+ID: 179818 
+topic: Computational complexity theory  --  value: 39.280481 
+topic: Formal language  --  value: 10.181827 
+topic: Database  --  value: 9.005539 
+topic: Bioinformatics  --  value: 2.606226 
+ID: 265922 
+topic: Computer network  --  value: 18.548112 
+topic: Central processing unit  --  value: 7.378031 
+topic: Computational complexity theory  --  value: 7.129412 
+ID: 265923 
+topic: Artificial intelligence  --  value: 13.518463 
+topic: Analysis of algorithms  --  value: 9.405622 
+topic: Database  --  value: 6.131470 
+ID: 179813 
+topic: Computational complexity theory  --  value: 33.049007 
+topic: Mathematical logic  --  value: 17.947761 
+topic: Programming language  --  value: 6.058787 
+ID: 502098 
+topic: Mathematical logic  --  value: 9.458705 
+topic: Numerical analysis  --  value: 6.864760 
+topic: Computational complexity theory  --  value: 6.732090 
+ID: 502099 
+topic: Information theory  --  value: 18.446350 
+topic: Database  --  value: 11.177781 
+topic: Computational complexity theory  --  value: 9.183553 
+topic: Analysis of algorithms  --  value: 6.266390 
+ID: 502094 
+topic: Computer network  --  value: 13.338338 
+topic: Computational complexity theory  --  value: 10.968993 
+topic: Encryption  --  value: 2.748224 
+ID: 502095 
+topic: Computational complexity theory  --  value: 17.018519 
+ID: 1008733 
+topic: Computational complexity theory  --  value: 16.563520 
+topic: Artificial intelligence  --  value: 2.473517 
+ID: 502097 
+topic: Computational complexity theory  --  value: 45.749821 
+topic: Mathematical logic  --  value: 11.263808 
+topic: Probability and statistics  --  value: 1.041927 
+ID: 502091 
+topic: Computational complexity theory  --  value: 52.095903 
+topic: Artificial intelligence  --  value: 41.288137 
+topic: Database  --  value: 37.671515 
+ID: 502092 
+topic: Mathematical logic  --  value: 18.975935 
+topic: Artificial intelligence  --  value: 12.703923 
+topic: Database  --  value: 9.375698 
+ID: 502093 
+topic: Computational complexity theory  --  value: 93.832774 
+topic: Numerical analysis  --  value: 25.092982 
+topic: Reliability engineering  --  value: 10.156565 
+topic: Database  --  value: 9.748913 
+topic: Image processing  --  value: 3.261359 
+ID: 147527 
+topic: Mathematical logic  --  value: 32.400515 
+topic: Programming language  --  value: 9.931196 
+topic: Database  --  value: 4.870007 
+topic: Discrete mathematics  --  value: 1.872355 
+ID: 1217859 
+topic: Mathematical logic  --  value: 21.356831 
+topic: Artificial intelligence  --  value: 13.762324 
+topic: Reliability engineering  --  value: 10.287159 
+topic: Educational technology  --  value: 7.285010 
+topic: Abstract machine  --  value: 6.401268 
+ID: 1217858 
+topic: Database  --  value: 27.168380 
+topic: Computational complexity theory  --  value: 21.014978 
+topic: Analysis of algorithms  --  value: 12.017018 
+topic: Central processing unit  --  value: 9.371432 
+topic: Implementation  --  value: 3.520785 
+ID: 256294 
+topic: Computational complexity theory  --  value: 19.778067 
+topic: Reliability engineering  --  value: 18.343982 
+topic: Mathematical logic  --  value: 12.933507 
+ID: 147520 
+topic: Mathematical logic  --  value: 19.820067 
+topic: Formal language  --  value: 14.991532 
+topic: Computational complexity theory  --  value: 14.738833 
+topic: Database  --  value: 9.523642 
+ID: 1217857 
+topic: Computer network  --  value: 57.823656 
+topic: Computational complexity theory  --  value: 28.666026 
+topic: Database  --  value: 26.139174 
+topic: Mathematical logic  --  value: 7.445219 
+ID: 179927 
+topic: Computational complexity theory  --  value: 23.659683 
+topic: Information theory  --  value: 7.730502 
+topic: Computer network  --  value: 3.665370 
+ID: 355490 
+topic: Computer network  --  value: 27.419303 
+topic: Computational complexity theory  --  value: 15.751981 
+topic: Reliability engineering  --  value: 14.098172 
+topic: Operating system  --  value: 11.707092 
+topic: Analysis of algorithms  --  value: 11.116045 
+ID: 256295 
+topic: Computational complexity theory  --  value: 34.226523 
+topic: Database  --  value: 20.730467 
+topic: Mathematical logic  --  value: 16.098566 
+ID: 324234 
+topic: Computational complexity theory  --  value: 39.490919 
+topic: Central processing unit  --  value: 23.583168 
+topic: Reliability engineering  --  value: 5.981468 
+ID: 185678 
+topic: Artificial intelligence  --  value: 33.018519 
+ID: 146646 
+topic: Database  --  value: 26.391500 
+topic: Numerical analysis  --  value: 21.529566 
+topic: Computational complexity theory  --  value: 18.134489 
+ID: 1462154 
+topic: Computational complexity theory  --  value: 71.921408 
+topic: Artificial intelligence  --  value: 20.530243 
+topic: Mathematical logic  --  value: 15.343345 
+topic: Database  --  value: 10.853936 
+topic: Numerical analysis  --  value: 7.443661 
+ID: 1462155 
+topic: Computational complexity theory  --  value: 24.674807 
+topic: Computer file  --  value: 16.674646 
+topic: Personal computer  --  value: 9.567126 
+topic: Mathematical logic  --  value: 7.711246 
+topic: Computer data storage  --  value: 7.468493 
+topic: Computer network  --  value: 7.014793 
+ID: 1462156 
+topic: Computational complexity theory  --  value: 32.196233 
+topic: Bioinformatics  --  value: 22.745587 
+topic: Database  --  value: 15.684139 
+topic: Artificial intelligence  --  value: 9.448115 
+ID: 1462157 
+topic: Computational complexity theory  --  value: 22.044752 
+topic: Artificial intelligence  --  value: 15.165261 
+topic: Database  --  value: 13.082282 
+topic: Numerical analysis  --  value: 7.170526 
+topic: Computer network  --  value: 4.629771 
+ID: 233554 
+topic: Database  --  value: 71.097507 
+topic: Mathematical logic  --  value: 20.939530 
+ID: 233555 
+topic: Computational complexity theory  --  value: 19.270272 
+topic: Formal language  --  value: 8.766765 
+ID: 233556 
+topic: Computational complexity theory  --  value: 29.414978 
+topic: Database  --  value: 23.639473 
+topic: Data structure  --  value: 6.610898 
+topic: Legal aspects of computing  --  value: 6.437150 
+topic: Mathematical logic  --  value: 5.990094 
+ID: 179911 
+topic: Computational complexity theory  --  value: 61.373692 
+topic: Artificial intelligence  --  value: 39.573513 
+topic: Reliability engineering  --  value: 11.862525 
+topic: Mathematical logic  --  value: 8.264344 
+ID: 233552 
+topic: Information theory  --  value: 21.916642 
+topic: Artificial intelligence  --  value: 17.318999 
+topic: Numerical analysis  --  value: 13.819915 
+ID: 233553 
+topic: Computational complexity theory  --  value: 35.567571 
+topic: Operating system  --  value: 21.007130 
+topic: Computer simulation  --  value: 6.480855 
+ID: 320212 
+topic: Bioinformatics  --  value: 33.125815 
+topic: Computational complexity theory  --  value: 23.479371 
+topic: Reliability engineering  --  value: 15.757559 
+topic: Computer simulation  --  value: 14.717412 
+topic: Artificial intelligence  --  value: 11.192043 
+topic: Formal methods  --  value: 2.838912 
+ID: 320213 
+topic: Computational complexity theory  --  value: 44.717714 
+topic: Reliability engineering  --  value: 20.319323 
+ID: 320214 
+topic: Database  --  value: 37.892229 
+topic: Reliability engineering  --  value: 15.836121 
+topic: Data structure  --  value: 12.494810 
+topic: Analysis of algorithms  --  value: 5.850915 
+ID: 320215 
+topic: Computational complexity theory  --  value: 25.687977 
+topic: Database  --  value: 25.078088 
+topic: Analysis of algorithms  --  value: 14.367636 
+topic: Computer simulation  --  value: 8.789095 
+topic: Bioinformatics  --  value: 6.169797 
+ID: 1455252 
+topic: Computational complexity theory  --  value: 41.669428 
+topic: Reliability engineering  --  value: 11.075489 
+topic: Central processing unit  --  value: 10.310638 
+ID: 176585 
+topic: Numerical analysis  --  value: 17.076383 
+topic: Computational complexity theory  --  value: 13.780769 
+topic: Database  --  value: 8.028198 
+topic: Central processing unit  --  value: 6.188724 
+ID: 176587 
+topic: Computational complexity theory  --  value: 22.976263 
+topic: Database  --  value: 14.033958 
+topic: Mathematical logic  --  value: 7.587012 
+topic: Operating system  --  value: 7.551624 
+topic: Computer simulation  --  value: 6.943736 
+ID: 146643 
+topic: Computational complexity theory  --  value: 25.190346 
+topic: Database  --  value: 8.553503 
+topic: Artificial intelligence  --  value: 7.405549 
+topic: Analysis of algorithms  --  value: 5.924676 
+ID: 316548 
+topic: Computational complexity theory  --  value: 37.536829 
+topic: Coding theory  --  value: 12.342547 
+topic: Database  --  value: 8.176180 
+ID: 316545 
+topic: Mathematical logic  --  value: 35.615084 
+topic: Artificial intelligence  --  value: 21.866280 
+topic: Computational complexity theory  --  value: 12.574192 
+ID: 174141 
+topic: Database  --  value: 21.976222 
+topic: Mathematical logic  --  value: 8.860353 
+topic: Computational complexity theory  --  value: 6.218980 
+ID: 146620 
+topic: Database  --  value: 33.582340 
+topic: Coding theory  --  value: 12.454697 
+ID: 1059514 
+topic: Computational complexity theory  --  value: 30.250723 
+topic: Database  --  value: 6.786314 
+ID: 306789 
+topic: Computational complexity theory  --  value: 17.278447 
+topic: Mathematical logic  --  value: 10.665249 
+topic: Reliability engineering  --  value: 4.111859 
+ID: 2049699 
+topic: Computational complexity theory  --  value: 32.689897 
+topic: Numerical analysis  --  value: 25.277973 
+topic: Reliability engineering  --  value: 13.087685 
+ID: 2049698 
+topic: Mathematical logic  --  value: 25.913891 
+topic: Database  --  value: 18.310175 
+topic: Computational complexity theory  --  value: 16.861273 
+topic: Computer network  --  value: 5.988734 
+ID: 258179 
+topic: Reliability engineering  --  value: 28.293817 
+topic: Analysis of algorithms  --  value: 11.650541 
+topic: Computational complexity theory  --  value: 11.185672 
+topic: Bioinformatics  --  value: 4.751255 
+topic: Pattern recognition  --  value: 2.863002 
+topic: Performance tuning  --  value: 2.366824 
+ID: 293349 
+topic: Numerical analysis  --  value: 33.495986 
+topic: Computational complexity theory  --  value: 11.169891 
+topic: Reliability engineering  --  value: 10.389678 
+ID: 293348 
+topic: Computational complexity theory  --  value: 15.723456 
+topic: Database  --  value: 14.143463 
+topic: Numerical analysis  --  value: 9.132478 
+topic: Mathematical logic  --  value: 6.074677 
+ID: 324161 
+topic: Central processing unit  --  value: 17.972074 
+topic: Analysis of algorithms  --  value: 16.998121 
+topic: Database  --  value: 16.284036 
+topic: Operating system  --  value: 13.819843 
+ID: 1538908 
+topic: Database  --  value: 14.127087 
+topic: Computational complexity theory  --  value: 12.539527 
+topic: Mathematical logic  --  value: 5.947172 
+topic: Analysis of algorithms  --  value: 2.460288 
+ID: 1538906 
+topic: Computational complexity theory  --  value: 34.330613 
+topic: Artificial intelligence  --  value: 19.586697 
+topic: Reliability engineering  --  value: 15.138246 
+ID: 1538905 
+topic: Database  --  value: 22.143649 
+topic: Computer network  --  value: 18.781530 
+topic: Discrete mathematics  --  value: 14.835817 
+topic: Legal aspects of computing  --  value: 8.561508 
+topic: Analysis of algorithms  --  value: 5.408696 
+topic: Information theory  --  value: 5.379910 
+ID: 1538904 
+topic: Information theory  --  value: 48.403699 
+topic: Reliability engineering  --  value: 5.633338 
+ID: 1538903 
+topic: Computational complexity theory  --  value: 26.143150 
+topic: Personal computer  --  value: 2.893887 
+ID: 227597 
+topic: Database  --  value: 44.554827 
+topic: Programming language  --  value: 22.934237 
+topic: Mathematical logic  --  value: 21.707355 
+topic: Computer graphics  --  value: 21.033736 
+topic: Computational complexity theory  --  value: 18.824729 
+topic: Artificial intelligence  --  value: 14.056227 
+ID: 227596 
+topic: Database  --  value: 25.369560 
+topic: Computer network  --  value: 20.342628 
+topic: Central processing unit  --  value: 16.876089 
+topic: Computational complexity theory  --  value: 16.036127 
+topic: Operating system  --  value: 11.038747 
+topic: Digital art  --  value: 1.447961 
+ID: 227693 
+topic: Computational complexity theory  --  value: 42.543324 
+topic: Computer network  --  value: 4.493713 
+ID: 1183909 
+topic: Numerical analysis  --  value: 26.984899 
+topic: Computational complexity theory  --  value: 24.048188 
+topic: Mathematical logic  --  value: 23.767070 
+topic: Artificial intelligence  --  value: 13.795968 
+topic: Database  --  value: 10.496468 
+ID: 1183908 
+topic: Computational complexity theory  --  value: 35.808865 
+topic: Artificial intelligence  --  value: 13.228172 
+ID: 506148 
+topic: Computer network  --  value: 11.749963 
+topic: Computational complexity theory  --  value: 7.287074 
+ID: 506149 
+topic: Computational complexity theory  --  value: 23.790472 
+topic: Numerical analysis  --  value: 19.889021 
+topic: Mathematical logic  --  value: 18.286328 
+topic: Computer data storage  --  value: 12.981352 
+topic: Coding theory  --  value: 8.145420 
+ID: 146670 
+topic: Database  --  value: 10.785924 
+topic: Educational technology  --  value: 9.336044 
+topic: Mathematical logic  --  value: 7.617188 
+topic: Programming language  --  value: 6.031247 
+topic: Numerical analysis  --  value: 3.322190 
+ID: 1970393 
+topic: Computational complexity theory  --  value: 49.800283 
+topic: Reliability engineering  --  value: 31.819510 
+topic: Database  --  value: 15.199943 
+topic: Mathematical logic  --  value: 13.084716 
+topic: Central processing unit  --  value: 6.736852 
+topic: Analysis of algorithms  --  value: 6.469808 
+ID: 174131 
+topic: Mathematical logic  --  value: 6.933003 
+topic: Logic synthesis  --  value: 6.544634 
+topic: Computational complexity theory  --  value: 3.754471 
+topic: Analysis of algorithms  --  value: 2.841967 
+ID: 1970397 
+topic: Reliability engineering  --  value: 17.531996 
+topic: Computational complexity theory  --  value: 16.221061 
+topic: Numerical analysis  --  value: 15.265548 
+topic: Database  --  value: 11.055470 
+ID: 1970394 
+topic: Mathematical logic  --  value: 18.353954 
+topic: Personal computer  --  value: 12.502891 
+topic: Computational complexity theory  --  value: 6.198711 
+ID: 1970395 
+topic: Pattern recognition  --  value: 16.920832 
+topic: Reliability engineering  --  value: 13.061705 
+topic: Numerical analysis  --  value: 12.072481 
+topic: Personal computer  --  value: 10.550318 
+topic: Computer vision  --  value: 10.487257 
+ID: 375847 
+topic: Computational complexity theory  --  value: 28.207400 
+topic: Database  --  value: 11.721557 
+topic: Computer data storage  --  value: 5.126598 
+ID: 375845 
+topic: Analysis of algorithms  --  value: 14.753029 
+topic: Computational complexity theory  --  value: 12.525909 
+topic: Numerical analysis  --  value: 5.776618 
+ID: 375843 
+topic: Reliability engineering  --  value: 35.989794 
+topic: Computational complexity theory  --  value: 32.723692 
+topic: Computer network  --  value: 11.577880 
+topic: Mathematical logic  --  value: 10.529068 
+topic: Numerical analysis  --  value: 7.894140 
+topic: Programming language  --  value: 2.396537 
+ID: 375840 
+topic: Computational complexity theory  --  value: 22.155706 
+topic: Artificial intelligence  --  value: 22.119360 
+topic: Reliability engineering  --  value: 14.091104 
+topic: Programming language  --  value: 8.707904 
+ID: 1379762 
+topic: Mathematical logic  --  value: 19.548694 
+topic: Computational complexity theory  --  value: 12.875769 
+topic: Analysis of algorithms  --  value: 12.050347 
+topic: Database  --  value: 8.615070 
+topic: Legal aspects of computing  --  value: 3.002713 
+ID: 1379763 
+topic: Mathematical logic  --  value: 36.217245 
+topic: Database  --  value: 4.819792 
+ID: 950622 
+topic: Educational technology  --  value: 23.812768 
+topic: Computational complexity theory  --  value: 14.368184 
+topic: Reliability engineering  --  value: 8.602606 
+topic: Information theory  --  value: 8.216645 
+topic: Operating system  --  value: 3.092389 
+ID: 1379761 
+topic: Computational complexity theory  --  value: 28.996960 
+topic: Mathematical logic  --  value: 18.824247 
+topic: Numerical analysis  --  value: 17.434849 
+topic: Discrete mathematics  --  value: 5.818018 
+ID: 950624 
+topic: Reliability engineering  --  value: 28.267798 
+topic: Computational complexity theory  --  value: 17.287316 
+topic: Computer network  --  value: 15.500441 
+ID: 950625 
+topic: Formal language  --  value: 18.256182 
+topic: Bioinformatics  --  value: 8.609211 
+topic: Computational complexity theory  --  value: 5.190163 
+ID: 1044732 
+topic: Database  --  value: 29.179113 
+topic: Computational complexity theory  --  value: 16.980691 
+topic: Analysis of algorithms  --  value: 12.920959 
+topic: Coding theory  --  value: 7.993311 
+ID: 1044733 
+topic: Computational complexity theory  --  value: 19.773736 
+topic: Reliability engineering  --  value: 14.679373 
+topic: Database  --  value: 9.854051 
+topic: Computer graphics  --  value: 5.766914 
+ID: 1120586 
+topic: Pattern recognition  --  value: 16.656842 
+topic: Bioinformatics  --  value: 13.652450 
+topic: Formal language  --  value: 9.790670 
+topic: Reliability engineering  --  value: 8.146819 
+topic: Central processing unit  --  value: 5.845812 
+ID: 1120587 
+topic: Information theory  --  value: 19.759359 
+topic: Computational complexity theory  --  value: 8.745249 
+topic: Reliability engineering  --  value: 6.868312 
+topic: Mathematical logic  --  value: 3.701153 
+ID: 1120584 
+topic: Computational complexity theory  --  value: 28.714030 
+topic: Mathematical logic  --  value: 21.374988 
+topic: Database  --  value: 10.966537 
+ID: 1120585 
+topic: Reliability engineering  --  value: 22.146000 
+topic: Computational complexity theory  --  value: 9.021192 
+topic: Artificial intelligence  --  value: 8.101845 
+topic: Information retrieval  --  value: 5.805038 
+ID: 146605 
+topic: Mathematical logic  --  value: 13.186496 
+topic: Computer network  --  value: 4.397620 
+topic: Programming language  --  value: 1.471440 
+ID: 1120583 
+topic: Computational complexity theory  --  value: 21.017895 
+topic: Reliability engineering  --  value: 18.850744 
+topic: Discrete mathematics  --  value: 11.203624 
+topic: Personal computer  --  value: 11.001811 
+ID: 567114 
+topic: Computational complexity theory  --  value: 46.528855 
+topic: Analysis of algorithms  --  value: 20.739279 
+topic: Numerical analysis  --  value: 7.787421 
+ID: 567115 
+topic: Central processing unit  --  value: 29.928583 
+topic: Computational complexity theory  --  value: 26.288686 
+topic: Database  --  value: 1.838286 
+ID: 567116 
+topic: Analysis of algorithms  --  value: 23.310357 
+topic: Computational complexity theory  --  value: 23.294578 
+topic: Database  --  value: 18.315420 
+topic: Central processing unit  --  value: 7.912673 
+topic: Information theory  --  value: 7.259566 
+ID: 567117 
+topic: Computational complexity theory  --  value: 27.970518 
+topic: Mathematical logic  --  value: 14.204765 
+topic: Document processing  --  value: 5.096529 
+topic: Coding theory  --  value: 2.802263 
+ID: 179848 
+topic: Reliability engineering  --  value: 33.964569 
+topic: Database  --  value: 27.276158 
+topic: Computational complexity theory  --  value: 13.814828 
+ID: 567113 
+topic: Performance tuning  --  value: 23.600776 
+topic: Operating system  --  value: 15.394544 
+topic: Database  --  value: 9.670832 
+topic: Artificial intelligence  --  value: 8.324515 
+topic: Computer network  --  value: 7.902108 
+topic: Information theory  --  value: 5.218337 
+ID: 234543 
+topic: Computational complexity theory  --  value: 20.871041 
+topic: Mathematical logic  --  value: 4.165996 
+ID: 227601 
+topic: Bioinformatics  --  value: 11.905313 
+topic: Computational complexity theory  --  value: 9.138024 
+topic: Programming language  --  value: 7.763505 
+topic: Central processing unit  --  value: 7.261130 
+topic: Artificial intelligence  --  value: 6.024621 
+ID: 227603 
+topic: Operating system  --  value: 15.622998 
+topic: Mathematical logic  --  value: 12.393727 
+topic: Artificial intelligence  --  value: 9.352093 
+topic: Database  --  value: 7.705257 
+ID: 227602 
+topic: Mathematical logic  --  value: 11.691025 
+topic: Computer simulation  --  value: 8.492354 
+topic: Computational complexity theory  --  value: 4.256613 
+topic: Programming language  --  value: 2.634081 
+ID: 234564 
+topic: Computational complexity theory  --  value: 41.992091 
+topic: Numerical analysis  --  value: 18.283168 
+topic: Reliability engineering  --  value: 13.197694 
+topic: Artificial intelligence  --  value: 10.601121 
+ID: 990310 
+topic: Computational complexity theory  --  value: 20.251420 
+topic: Reliability engineering  --  value: 7.348306 
+topic: Performance tuning  --  value: 3.455830 
+ID: 990311 
+topic: Computational complexity theory  --  value: 36.031622 
+topic: Numerical analysis  --  value: 17.243351 
+topic: Integrated circuit  --  value: 3.950393 
+topic: Arithmetic logic unit  --  value: 1.848708 
+ID: 990312 
+topic: Computational complexity theory  --  value: 5.018519 
+ID: 990313 
+topic: Reliability engineering  --  value: 10.794021 
+topic: Database  --  value: 8.558754 
+topic: Mathematical logic  --  value: 6.702780 
+ID: 234539 
+topic: Database  --  value: 30.195163 
+topic: Computer network  --  value: 16.299548 
+topic: Reliability engineering  --  value: 7.080058 
+topic: Operating system  --  value: 5.499305 
+ID: 331607 
+topic: Computational complexity theory  --  value: 36.229274 
+topic: Computer data storage  --  value: 17.691998 
+topic: Database  --  value: 11.767766 
+topic: Programming language  --  value: 6.883144 
+topic: Mathematical logic  --  value: 6.522977 
+topic: Central processing unit  --  value: 5.433449 
+topic: Pattern recognition  --  value: 1.601022 
+ID: 331606 
+topic: Computational complexity theory  --  value: 19.287634 
+topic: Mathematical logic  --  value: 8.749403 
+ID: 138036 
+topic: Computer network  --  value: 16.973598 
+topic: Computational complexity theory  --  value: 13.996238 
+topic: Analysis of algorithms  --  value: 5.085720 
+ID: 331609 
+topic: Mathematical logic  --  value: 23.328542 
+topic: Computational complexity theory  --  value: 18.591380 
+topic: Formal language  --  value: 8.551191 
+topic: Database  --  value: 7.602961 
+ID: 331608 
+topic: Computational complexity theory  --  value: 24.958267 
+topic: Reliability engineering  --  value: 19.200521 
+topic: Database  --  value: 9.896768 
+ID: 174142 
+topic: Programming language  --  value: 11.150572 
+topic: Mathematical logic  --  value: 6.361148 
+topic: Computational complexity theory  --  value: 4.295332 
+topic: Database  --  value: 3.267023 
+ID: 274816 
+topic: Database  --  value: 24.094944 
+topic: Computational complexity theory  --  value: 20.765315 
+topic: Artificial intelligence  --  value: 14.195297 
+ID: 324266 
+topic: Database  --  value: 21.162393 
+topic: Artificial intelligence  --  value: 5.312433 
+topic: Computer network  --  value: 1.580730 
+ID: 274810 
+topic: Bioinformatics  --  value: 29.902356 
+topic: Artificial intelligence  --  value: 12.550992 
+topic: Discrete mathematics  --  value: 2.602208 
+ID: 274812 
+topic: Database  --  value: 19.921439 
+topic: Information theory  --  value: 14.755798 
+topic: Analysis of algorithms  --  value: 13.956261 
+topic: Reliability engineering  --  value: 8.440576 
+ID: 227685 
+topic: Computational complexity theory  --  value: 8.884995 
+topic: Mathematical logic  --  value: 8.617667 
+topic: Information theory  --  value: 6.661444 
+topic: Computer data storage  --  value: 5.873865 
+topic: Artificial intelligence  --  value: 5.641633 
+topic: Database  --  value: 4.431507 
+ID: 227684 
+topic: Numerical analysis  --  value: 22.697419 
+topic: Analysis of algorithms  --  value: 18.074732 
+topic: Programming language  --  value: 7.865847 
+topic: Computational complexity theory  --  value: 6.429343 
+topic: Performance tuning  --  value: 5.025251 
+ID: 1989731 
+topic: Microcode  --  value: 15.982476 
+topic: Computational complexity theory  --  value: 9.843629 
+topic: Database  --  value: 9.521087 
+topic: Document processing  --  value: 4.347693 
+topic: Analysis of algorithms  --  value: 3.397708 
+ID: 1989732 
+topic: Computational complexity theory  --  value: 26.640698 
+topic: Microcode  --  value: 8.921500 
+topic: Central processing unit  --  value: 8.834144 
+topic: Probability and statistics  --  value: 1.677733 
+ID: 331611 
+topic: Programming language  --  value: 22.916102 
+topic: Numerical analysis  --  value: 7.094923 
+topic: Database  --  value: 5.044531 
+ID: 227689 
+topic: Programming language  --  value: 10.586639 
+topic: Mathematical logic  --  value: 7.450398 
+ID: 227688 
+topic: Database  --  value: 36.072182 
+topic: Reliability engineering  --  value: 14.838530 
+topic: Microcode  --  value: 7.097437 
+topic: Computational complexity theory  --  value: 7.065925 
+ID: 169676 
+topic: Computer network  --  value: 17.852531 
+topic: Reliability engineering  --  value: 5.684695 
+topic: Formal language  --  value: 1.518329 
+ID: 274788 
+topic: Computational complexity theory  --  value: 30.718278 
+topic: Artificial intelligence  --  value: 25.009429 
+topic: Database  --  value: 7.327848 
+ID: 363652 
+topic: Computational complexity theory  --  value: 15.828911 
+topic: Database  --  value: 13.675820 
+topic: Central processing unit  --  value: 4.550824 
+ID: 147546 
+topic: Computational complexity theory  --  value: 23.149965 
+topic: Mathematical logic  --  value: 18.887072 
+ID: 363659 
+topic: Reliability engineering  --  value: 16.675382 
+topic: Computer network  --  value: 10.717111 
+topic: Information theory  --  value: 6.003972 
+topic: Mathematical logic  --  value: 3.677609 
+ID: 174648 
+topic: Computational complexity theory  --  value: 61.095473 
+topic: Mathematical logic  --  value: 18.941564 
+ID: 174649 
+topic: Computational complexity theory  --  value: 49.884898 
+topic: Reliability engineering  --  value: 14.006878 
+topic: Analysis of algorithms  --  value: 11.816639 
+topic: Central processing unit  --  value: 5.137970 
+topic: Information theory  --  value: 4.435990 
+topic: Computer network  --  value: 1.828737 
+ID: 1502799 
+topic: Database  --  value: 40.950785 
+topic: Numerical analysis  --  value: 12.330252 
+topic: Reliability engineering  --  value: 9.226519 
+topic: Computational complexity theory  --  value: 8.264555 
+topic: Mathematical logic  --  value: 3.320481 
+ID: 1502798 
+topic: Database  --  value: 9.059449 
+topic: Analysis of algorithms  --  value: 5.977588 
+ID: 1502797 
+topic: Computational complexity theory  --  value: 8.096809 
+topic: Mathematical logic  --  value: 4.977975 
+topic: Arithmetic logic unit  --  value: 2.980771 
+ID: 1502796 
+topic: Bioinformatics  --  value: 59.237182 
+topic: Reliability engineering  --  value: 12.533743 
+topic: Probability and statistics  --  value: 9.284631 
+ID: 1502795 
+topic: Programming language  --  value: 33.746589 
+topic: Reliability engineering  --  value: 26.622353 
+topic: Computational complexity theory  --  value: 25.697466 
+topic: Numerical analysis  --  value: 21.007666 
+ID: 1502794 
+topic: Computational complexity theory  --  value: 9.562483 
+topic: Mathematical logic  --  value: 8.910998 
+topic: Numerical analysis  --  value: 4.447380 
+topic: Central processing unit  --  value: 4.153213 
+ID: 505244 
+topic: Database  --  value: 25.683390 
+topic: Mathematical logic  --  value: 14.669723 
+topic: Computer data storage  --  value: 11.468623 
+topic: Information retrieval  --  value: 9.252338 
+ID: 505245 
+topic: Mathematical logic  --  value: 25.770065 
+topic: Database  --  value: 17.882869 
+topic: Computational complexity theory  --  value: 13.766461 
+topic: Information retrieval  --  value: 7.826624 
+topic: Document processing  --  value: 2.846574 
+ID: 505246 
+topic: Database  --  value: 23.456884 
+topic: Computational complexity theory  --  value: 7.868615 
+topic: Operating system  --  value: 6.903259 
+topic: Programming language  --  value: 5.935009 
+topic: Computer network  --  value: 5.857058 
+topic: Discrete mathematics  --  value: 2.090286 
+ID: 185791 
+topic: Computational complexity theory  --  value: 15.381680 
+topic: Database  --  value: 10.351800 
+topic: Programming language  --  value: 3.322075 
+ID: 1613680 
+topic: Database  --  value: 49.293510 
+topic: Reliability engineering  --  value: 10.244797 
+topic: Computational complexity theory  --  value: 9.517249 
+ID: 226670 
+topic: Database  --  value: 17.447111 
+topic: Computational complexity theory  --  value: 12.096582 
+topic: Artificial intelligence  --  value: 4.511862 
+ID: 273914 
+topic: Computational complexity theory  --  value: 35.988549 
+topic: Formal language  --  value: 31.152375 
+topic: Artificial intelligence  --  value: 24.421635 
+topic: Programming language  --  value: 5.972102 
+topic: Discrete mathematics  --  value: 1.557931 
+ID: 273915 
+topic: Computational complexity theory  --  value: 20.681713 
+topic: Information theory  --  value: 11.772583 
+topic: Analysis of algorithms  --  value: 8.373271 
+topic: Computer simulation  --  value: 6.497794 
+topic: Mathematical logic  --  value: 4.767231 
+ID: 324139 
+topic: Programming language  --  value: 12.804715 
+topic: Computational complexity theory  --  value: 12.604840 
+topic: Database  --  value: 8.670822 
+topic: Implementation  --  value: 2.317551 
+topic: Digital art  --  value: 1.694664 
+ID: 174645 
+topic: Database  --  value: 17.743440 
+topic: Analysis of algorithms  --  value: 8.293597 
+ID: 505242 
+topic: Computational complexity theory  --  value: 39.018519 
+ID: 505243 
+topic: Computational complexity theory  --  value: 39.784603 
+topic: Reliability engineering  --  value: 8.262218 
+topic: Numerical analysis  --  value: 4.008734 
+ID: 263499 
+topic: Computer network  --  value: 25.459946 
+topic: Mathematical logic  --  value: 17.671841 
+topic: Database  --  value: 13.616984 
+topic: Artificial intelligence  --  value: 9.596004 
+topic: Register-transfer level  --  value: 7.747818 
+ID: 169745 
+topic: Computational complexity theory  --  value: 46.416266 
+topic: Database  --  value: 36.630028 
+topic: Operating system  --  value: 34.009261 
+ID: 179892 
+topic: Numerical analysis  --  value: 24.291273 
+topic: Programming language  --  value: 23.744584 
+topic: Database  --  value: 12.981535 
+topic: Artificial intelligence  --  value: 10.780552 
+topic: Coding theory  --  value: 7.772755 
+topic: Information theory  --  value: 5.867670 
+topic: Formal methods  --  value: 5.691261 
+ID: 502103 
+topic: Database  --  value: 46.234522 
+topic: Information retrieval  --  value: 36.826139 
+topic: Formal methods  --  value: 12.289504 
+topic: Image processing  --  value: 9.439932 
+topic: Mathematical logic  --  value: 7.302495 
+ID: 502100 
+topic: Database  --  value: 37.984819 
+topic: Mathematical logic  --  value: 21.405007 
+topic: Computational complexity theory  --  value: 14.580326 
+topic: Arithmetic logic unit  --  value: 7.103922 
+ID: 502106 
+topic: Database  --  value: 30.050195 
+topic: Mathematical logic  --  value: 16.726991 
+topic: Reliability engineering  --  value: 14.016441 
+topic: Analysis of algorithms  --  value: 1.280447 
+ID: 502107 
+topic: Database  --  value: 13.444583 
+topic: Artificial intelligence  --  value: 10.149677 
+topic: Computer data storage  --  value: 7.349021 
+topic: Numerical analysis  --  value: 6.599288 
+topic: Analysis of algorithms  --  value: 6.550024 
+ID: 502104 
+topic: Computational complexity theory  --  value: 23.882463 
+topic: Programming language  --  value: 7.297307 
+topic: Database  --  value: 2.875786 
+ID: 502105 
+topic: Computational complexity theory  --  value: 14.790839 
+topic: Database  --  value: 13.825066 
+topic: Analysis of algorithms  --  value: 6.355660 
+topic: Central processing unit  --  value: 6.102509 
+ID: 146681 
+topic: Database  --  value: 33.219498 
+topic: Computational complexity theory  --  value: 20.488193 
+topic: Operating system  --  value: 18.809603 
+topic: Formal methods  --  value: 3.535452 
+topic: Mathematical logic  --  value: 2.039847 
+ID: 355485 
+topic: Computational complexity theory  --  value: 25.762184 
+topic: Artificial intelligence  --  value: 9.274854 
+ID: 355487 
+topic: Numerical analysis  --  value: 22.018519 
+ID: 355486 
+topic: Artificial intelligence  --  value: 60.847414 
+topic: Database  --  value: 22.189623 
+ID: 355489 
+topic: Computational complexity theory  --  value: 27.674930 
+topic: Mathematical logic  --  value: 12.201580 
+topic: Pattern recognition  --  value: 6.919533 
+topic: Central processing unit  --  value: 6.215327 
+topic: Computer network  --  value: 2.081223 
+ID: 355488 
+topic: Computational complexity theory  --  value: 8.018519 
+ID: 324221 
+topic: Computational complexity theory  --  value: 39.368813 
+topic: Reliability engineering  --  value: 17.142359 
+topic: Analysis of algorithms  --  value: 16.423729 
+topic: Mathematical logic  --  value: 14.952293 
+topic: Educational technology  --  value: 12.205398 
+ID: 301971 
+topic: Computational complexity theory  --  value: 41.018519 
+ID: 301972 
+topic: Database  --  value: 31.744442 
+topic: Coding theory  --  value: 23.108958 
+topic: Computer simulation  --  value: 14.403567 
+topic: Analysis of algorithms  --  value: 9.829922 
+topic: Information theory  --  value: 6.005704 
+ID: 301973 
+topic: Database  --  value: 43.032200 
+topic: Formal language  --  value: 5.004837 
+ID: 301974 
+topic: Central processing unit  --  value: 56.919026 
+topic: Computational complexity theory  --  value: 29.646971 
+topic: Programming language  --  value: 14.489558 
+ID: 602403 
+topic: Artificial intelligence  --  value: 11.354763 
+topic: Operating system  --  value: 8.249035 
+topic: Software engineering  --  value: 2.451758 
+ID: 1568322 
+topic: Computational complexity theory  --  value: 56.369260 
+topic: Analysis of algorithms  --  value: 42.512269 
+topic: Computer network  --  value: 38.817926 
+topic: Database  --  value: 12.374620 
+ID: 1326559 
+topic: Mathematical logic  --  value: 36.351645 
+topic: Computational complexity theory  --  value: 22.685392 
+ID: 1082039 
+topic: Database  --  value: 36.273825 
+topic: Data structure  --  value: 15.959396 
+topic: Computational complexity theory  --  value: 7.535706 
+topic: Information theory  --  value: 3.546794 
+topic: Pattern recognition  --  value: 1.776872 
+ID: 1082038 
+topic: Computational complexity theory  --  value: 28.880315 
+topic: Numerical analysis  --  value: 17.156722 
+ID: 1326555 
+topic: Coding theory  --  value: 24.080754 
+topic: Database  --  value: 20.265818 
+topic: Information theory  --  value: 20.224245 
+topic: Computational complexity theory  --  value: 14.885308 
+topic: Information retrieval  --  value: 5.636467 
+ID: 1131344 
+topic: Mathematical logic  --  value: 34.066855 
+topic: Computational complexity theory  --  value: 14.547992 
+topic: Database  --  value: 10.440709 
+ID: 1131345 
+topic: Mathematical logic  --  value: 23.134455 
+topic: Database  --  value: 23.128680 
+topic: Computational complexity theory  --  value: 7.792421 
+ID: 585266 
+topic: Computational complexity theory  --  value: 22.263085 
+topic: Numerical analysis  --  value: 17.788410 
+topic: Mathematical logic  --  value: 13.709772 
+topic: Database  --  value: 10.312807 
+ID: 585267 
+topic: Bioinformatics  --  value: 20.882433 
+topic: Artificial intelligence  --  value: 19.154604 
+ID: 256313 
+topic: Mathematical logic  --  value: 41.456569 
+topic: Computational complexity theory  --  value: 18.677372 
+topic: Information retrieval  --  value: 6.921615 
+ID: 962450 
+topic: Mathematical logic  --  value: 20.295896 
+topic: Programming language  --  value: 10.909636 
+topic: Operating system  --  value: 10.536285 
+topic: Database  --  value: 6.333492 
+topic: Information retrieval  --  value: 6.017284 
+ID: 585268 
+topic: Database  --  value: 36.431095 
+topic: Pattern recognition  --  value: 35.600110 
+topic: Computational complexity theory  --  value: 19.793510 
+topic: Mathematical logic  --  value: 9.249359 
+ID: 585269 
+topic: Analysis of algorithms  --  value: 18.918254 
+topic: Computational complexity theory  --  value: 8.451769 
+topic: Performance tuning  --  value: 7.919580 
+topic: Mathematical logic  --  value: 4.784470 
+ID: 256311 
+topic: Database  --  value: 20.837519 
+topic: Mathematical logic  --  value: 16.824027 
+topic: Programming language  --  value: 12.394009 
+ID: 138060 
+topic: Programming language  --  value: 31.561624 
+topic: Mathematical logic  --  value: 21.475413 
+ID: 138061 
+topic: Numerical analysis  --  value: 13.355974 
+topic: Computational complexity theory  --  value: 13.245929 
+topic: Mathematical logic  --  value: 11.580871 
+topic: Information retrieval  --  value: 5.008683 
+topic: Database  --  value: 3.901136 
+ID: 290180 
+topic: Computational complexity theory  --  value: 35.491558 
+topic: Analysis of algorithms  --  value: 19.737594 
+topic: Numerical analysis  --  value: 13.826404 
+ID: 290181 
+topic: Computational complexity theory  --  value: 10.571808 
+topic: Reliability engineering  --  value: 8.227487 
+topic: Central processing unit  --  value: 7.057724 
+topic: Programming language  --  value: 4.287085 
+topic: Computer network  --  value: 1.948489 
+ID: 290182 
+topic: Database  --  value: 42.444831 
+topic: Programming language  --  value: 4.592206 
+ID: 290183 
+topic: Computational complexity theory  --  value: 44.275371 
+topic: Database  --  value: 25.761666 
+ID: 290184 
+topic: Computational complexity theory  --  value: 36.854861 
+topic: Mathematical logic  --  value: 20.585224 
+topic: Reliability engineering  --  value: 7.668341 
+topic: Database  --  value: 5.965647 
+ID: 1082037 
+topic: Computational complexity theory  --  value: 23.018519 
+ID: 1455251 
+topic: Computational complexity theory  --  value: 25.018519 
+ID: 1455250 
+topic: Computer data storage  --  value: 38.485605 
+topic: Central processing unit  --  value: 24.242135 
+topic: Analysis of algorithms  --  value: 18.491698 
+topic: Computational complexity theory  --  value: 7.854636 
+ID: 363681 
+topic: Database  --  value: 25.063173 
+topic: Computational complexity theory  --  value: 24.355025 
+topic: Mathematical logic  --  value: 12.637358 
+ID: 176589 
+topic: Computational complexity theory  --  value: 41.003730 
+topic: Reliability engineering  --  value: 37.389464 
+topic: Database  --  value: 13.779487 
+topic: Pattern recognition  --  value: 13.285627 
+topic: Legal aspects of computing  --  value: 9.634285 
+ID: 176588 
+topic: Computational complexity theory  --  value: 29.458602 
+topic: Mathematical logic  --  value: 15.075331 
+topic: Database  --  value: 9.521622 
+ID: 263872 
+topic: Computational complexity theory  --  value: 17.038336 
+topic: Analysis of algorithms  --  value: 8.735455 
+topic: Artificial intelligence  --  value: 4.281765 
+ID: 363688 
+topic: Central processing unit  --  value: 17.306688 
+topic: Database  --  value: 15.025852 
+topic: Discrete mathematics  --  value: 14.725740 
+topic: Artificial intelligence  --  value: 14.070545 
+topic: Computer simulation  --  value: 1.963767 
+ID: 176586 
+topic: Computational complexity theory  --  value: 50.699045 
+topic: Analysis of algorithms  --  value: 3.337992 
+ID: 333982 
+topic: Computer network  --  value: 44.270749 
+topic: Mathematical logic  --  value: 11.649478 
+topic: Reliability engineering  --  value: 10.791354 
+topic: Computer data storage  --  value: 4.362493 
+ID: 195637 
+topic: Mathematical logic  --  value: 31.760587 
+topic: Programming language  --  value: 31.263223 
+topic: Numerical analysis  --  value: 7.031745 
+ID: 1552286 
+topic: Computational complexity theory  --  value: 35.183250 
+topic: Analysis of algorithms  --  value: 21.805428 
+topic: Database  --  value: 18.066877 
+ID: 1552287 
+topic: Computational complexity theory  --  value: 19.923645 
+topic: Mathematical logic  --  value: 11.943922 
+topic: Formal language  --  value: 6.187988 
+ID: 1552288 
+topic: Central processing unit  --  value: 47.104064 
+topic: Computational complexity theory  --  value: 20.145864 
+topic: Database  --  value: 11.917222 
+topic: Analysis of algorithms  --  value: 6.906925 
+ID: 1552289 
+topic: Central processing unit  --  value: 14.760864 
+topic: Artificial intelligence  --  value: 13.201681 
+topic: Computational complexity theory  --  value: 12.273119 
+topic: Analysis of algorithms  --  value: 11.387332 
+topic: Numerical analysis  --  value: 9.469596 
+ID: 2049701 
+topic: Computational complexity theory  --  value: 16.792908 
+topic: Operating system  --  value: 6.980548 
+topic: Database  --  value: 6.282099 
+ID: 2049700 
+topic: Database  --  value: 48.874089 
+topic: Numerical analysis  --  value: 35.428850 
+topic: Operating system  --  value: 16.147089 
+topic: Reliability engineering  --  value: 11.680357 
+topic: Computational complexity theory  --  value: 8.962207 
+ID: 2049702 
+topic: Database  --  value: 32.769124 
+topic: Computational complexity theory  --  value: 32.144173 
+topic: Analysis of algorithms  --  value: 17.064215 
+topic: Mathematical logic  --  value: 15.153716 
+topic: Reliability engineering  --  value: 14.960586 
+topic: Information theory  --  value: 11.516317 
+topic: Computer simulation  --  value: 10.521498 
+ID: 2049704 
+topic: Computational complexity theory  --  value: 42.132818 
+topic: Mathematical logic  --  value: 27.064027 
+topic: Operating system  --  value: 6.858711 
+ID: 324179 
+topic: Computational complexity theory  --  value: 78.552161 
+topic: Mathematical logic  --  value: 11.382397 
+topic: Numerical analysis  --  value: 11.120997 
+ID: 1183912 
+topic: Computational complexity theory  --  value: 32.249950 
+topic: Numerical analysis  --  value: 6.787087 
+ID: 1183913 
+topic: Computational complexity theory  --  value: 37.222933 
+topic: Artificial intelligence  --  value: 26.707057 
+topic: Reliability engineering  --  value: 10.097418 
+topic: Personal computer  --  value: 9.046666 
+ID: 1183910 
+topic: Computational complexity theory  --  value: 17.018519 
+ID: 1667058 
+topic: Computational complexity theory  --  value: 17.881818 
+topic: Artificial intelligence  --  value: 17.098827 
+topic: Mathematical logic  --  value: 4.621332 
+topic: Programming language  --  value: 4.472098 
+ID: 1667059 
+topic: Database  --  value: 36.664777 
+topic: Programming language  --  value: 29.372260 
+ID: 227687 
+topic: Mathematical logic  --  value: 12.358694 
+topic: Database  --  value: 6.678343 
+ID: 227686 
+topic: Database  --  value: 11.087187 
+topic: Computational complexity theory  --  value: 10.261875 
+topic: Reliability engineering  --  value: 9.303461 
+topic: Computer network  --  value: 3.428005 
+topic: Mathematical logic  --  value: 3.012064 
+ID: 1667054 
+topic: Analysis of algorithms  --  value: 15.075334 
+topic: Artificial intelligence  --  value: 10.470566 
+topic: Computational complexity theory  --  value: 8.616986 
+topic: Numerical analysis  --  value: 4.068149 
+topic: Discrete mathematics  --  value: 2.861557 
+ID: 1667055 
+topic: Computational complexity theory  --  value: 20.993944 
+topic: Database  --  value: 19.023971 
+topic: Mathematical logic  --  value: 9.037641 
+ID: 1667056 
+topic: Information theory  --  value: 22.467580 
+topic: Information retrieval  --  value: 12.884624 
+topic: Database  --  value: 11.833816 
+topic: Pattern recognition  --  value: 10.612941 
+topic: Computational complexity theory  --  value: 4.293632 
+ID: 1667057 
+topic: Central processing unit  --  value: 33.178423 
+topic: Computational complexity theory  --  value: 32.224206 
+topic: Mathematical logic  --  value: 9.361358 
+topic: Computer network  --  value: 5.310088 
+ID: 337257 
+topic: Computational complexity theory  --  value: 36.913435 
+topic: Mathematical logic  --  value: 28.206060 
+topic: Artificial intelligence  --  value: 7.936061 
+ID: 200838 
+topic: Artificial intelligence  --  value: 27.221846 
+topic: Computational complexity theory  --  value: 17.082375 
+topic: Register-transfer level  --  value: 3.751335 
+ID: 506151 
+topic: Mathematical logic  --  value: 27.171982 
+topic: Formal language  --  value: 8.909403 
+topic: Discrete mathematics  --  value: 2.974170 
+ID: 506150 
+topic: Computational complexity theory  --  value: 42.095420 
+topic: Coding theory  --  value: 19.069369 
+topic: Formal language  --  value: 12.890767 
+ID: 506152 
+topic: Database  --  value: 16.969781 
+topic: Computer simulation  --  value: 13.919641 
+topic: Computer network  --  value: 8.360078 
+topic: Control unit  --  value: 3.824574 
+ID: 506154 
+topic: Operating system  --  value: 33.528052 
+topic: Performance tuning  --  value: 12.237832 
+topic: Computational complexity theory  --  value: 7.289671 
+ID: 226675 
+topic: Programming language  --  value: 16.652810 
+topic: Mathematical logic  --  value: 8.794160 
+topic: Artificial intelligence  --  value: 6.608585 
+ID: 337251 
+topic: Artificial intelligence  --  value: 40.442404 
+topic: Mathematical logic  --  value: 14.594633 
+ID: 1391290 
+topic: Computational complexity theory  --  value: 25.038512 
+topic: Mathematical logic  --  value: 19.830608 
+topic: Database  --  value: 12.186435 
+ID: 1391291 
+topic: Computational complexity theory  --  value: 43.163533 
+topic: Mathematical logic  --  value: 5.212154 
+topic: Bioinformatics  --  value: 3.679868 
+ID: 1391292 
+topic: Computer network  --  value: 23.045045 
+topic: Computational complexity theory  --  value: 16.996502 
+topic: Information theory  --  value: 16.055240 
+topic: Analysis of algorithms  --  value: 10.343228 
+topic: Artificial intelligence  --  value: 9.475850 
+topic: Reliability engineering  --  value: 8.195247 
+ID: 1391293 
+topic: Programming language  --  value: 19.544990 
+topic: Computational complexity theory  --  value: 3.143098 
+topic: Mathematical logic  --  value: 2.367468 
+ID: 950621 
+topic: Analysis of algorithms  --  value: 10.163344 
+topic: Reliability engineering  --  value: 8.925586 
+topic: Central processing unit  --  value: 8.418020 
+topic: Numerical analysis  --  value: 3.567123 
+ID: 1568323 
+topic: Information theory  --  value: 31.733754 
+topic: Mathematical logic  --  value: 15.037775 
+topic: Computational complexity theory  --  value: 12.878063 
+topic: Legal aspects of computing  --  value: 7.424482 
+ID: 1568320 
+topic: Computational complexity theory  --  value: 34.563418 
+topic: Numerical analysis  --  value: 17.913737 
+topic: Mathematical logic  --  value: 13.578401 
+ID: 146588 
+topic: Reliability engineering  --  value: 33.858525 
+topic: Artificial intelligence  --  value: 16.325315 
+topic: Database  --  value: 15.671738 
+topic: Computational complexity theory  --  value: 13.862024 
+topic: Central processing unit  --  value: 7.032005 
+topic: Analysis of algorithms  --  value: 6.538172 
+topic: Bioinformatics  --  value: 4.841850 
+ID: 169748 
+topic: Operating system  --  value: 34.286089 
+topic: Computational complexity theory  --  value: 31.361662 
+topic: Reliability engineering  --  value: 25.407804 
+ID: 1568321 
+topic: Programming language  --  value: 22.455317 
+topic: Database  --  value: 20.201369 
+topic: Computational complexity theory  --  value: 19.398870 
+ID: 375837 
+topic: Mathematical logic  --  value: 18.018519 
+ID: 146601 
+topic: Artificial intelligence  --  value: 10.252374 
+topic: Computational complexity theory  --  value: 8.920830 
+topic: Formal language  --  value: 7.332860 
+topic: Mathematical logic  --  value: 5.568009 
+ID: 375835 
+topic: Computational complexity theory  --  value: 34.172343 
+topic: Artificial intelligence  --  value: 14.235616 
+topic: Mathematical logic  --  value: 11.777480 
+topic: Programming language  --  value: 3.888635 
+ID: 2027221 
+topic: Computational complexity theory  --  value: 55.446007 
+topic: Analysis of algorithms  --  value: 20.678089 
+topic: Central processing unit  --  value: 13.084479 
+topic: Discrete mathematics  --  value: 1.865499 
+ID: 146638 
+topic: Computer network  --  value: 15.594747 
+topic: Computational complexity theory  --  value: 5.442290 
+ID: 1734217 
+topic: Mathematical logic  --  value: 24.947142 
+topic: Computational complexity theory  --  value: 14.664011 
+topic: Operating system  --  value: 9.444402 
+ID: 972646 
+topic: Computational complexity theory  --  value: 48.457231 
+topic: Mathematical logic  --  value: 33.579806 
+ID: 337255 
+topic: Personal computer  --  value: 8.876332 
+topic: Mathematical logic  --  value: 8.649662 
+topic: Database  --  value: 8.529561 
+ID: 972644 
+topic: Database  --  value: 11.247712 
+topic: Mathematical logic  --  value: 9.004199 
+topic: Numerical analysis  --  value: 8.304020 
+topic: Computational complexity theory  --  value: 7.518142 
+ID: 972645 
+topic: Mathematical logic  --  value: 35.462800 
+topic: Computational complexity theory  --  value: 18.204596 
+topic: Information theory  --  value: 13.388160 
+ID: 972642 
+topic: Database  --  value: 23.189356 
+topic: Mathematical logic  --  value: 20.659173 
+topic: Information theory  --  value: 17.569793 
+topic: Computational complexity theory  --  value: 15.525004 
+topic: Discrete mathematics  --  value: 3.149267 
+ID: 972643 
+topic: Mathematical logic  --  value: 26.494787 
+topic: Database  --  value: 12.216624 
+topic: Computational complexity theory  --  value: 11.344144 
+ID: 972640 
+topic: Mathematical logic  --  value: 9.952380 
+topic: Computational complexity theory  --  value: 6.084657 
+ID: 972641 
+topic: Computational complexity theory  --  value: 40.280047 
+topic: Database  --  value: 15.742007 
+topic: Mathematical logic  --  value: 12.862757 
+topic: Reliability engineering  --  value: 8.189263 
+ID: 1147956 
+topic: Analysis of algorithms  --  value: 14.272513 
+topic: Computational complexity theory  --  value: 13.764524 
+ID: 1147957 
+topic: Computational complexity theory  --  value: 19.907398 
+topic: Computer graphics  --  value: 14.714178 
+topic: Discrete mathematics  --  value: 7.809985 
+topic: Personal computer  --  value: 7.207088 
+topic: Bioinformatics  --  value: 6.453944 
+ID: 1147955 
+topic: Numerical analysis  --  value: 22.654427 
+topic: Computational complexity theory  --  value: 22.198890 
+topic: Mathematical logic  --  value: 19.068209 
+topic: Database  --  value: 10.136088 
+topic: Probability and statistics  --  value: 4.034978 
+ID: 293350 
+topic: Database  --  value: 46.539917 
+topic: Legal aspects of computing  --  value: 8.092358 
+topic: Computational complexity theory  --  value: 5.825327 
+topic: Information retrieval  --  value: 4.616473 
+ID: 1147958 
+topic: Analysis of algorithms  --  value: 19.575159 
+topic: Database  --  value: 16.523359 
+topic: Central processing unit  --  value: 5.472891 
+topic: Mathematical logic  --  value: 3.960006 
+topic: Data structure  --  value: 3.561178 
+ID: 1147959 
+topic: Mathematical logic  --  value: 19.740056 
+topic: Reliability engineering  --  value: 11.296981 
+ID: 293352 
+topic: Mathematical logic  --  value: 22.353900 
+topic: Artificial intelligence  --  value: 13.339920 
+topic: Formal methods  --  value: 10.684610 
+topic: Information theory  --  value: 8.311790 
+topic: Database  --  value: 6.402372 
+ID: 293353 
+topic: Numerical analysis  --  value: 15.127969 
+topic: Central processing unit  --  value: 13.015390 
+topic: Computational complexity theory  --  value: 12.027176 
+topic: Analysis of algorithms  --  value: 8.903539 
+ID: 876639 
+topic: Computational complexity theory  --  value: 18.300582 
+topic: Mathematical logic  --  value: 13.106359 
+topic: Artificial intelligence  --  value: 10.648615 
+ID: 990309 
+topic: Computational complexity theory  --  value: 26.243761 
+topic: Mathematical logic  --  value: 4.265548 
+topic: Operating system  --  value: 3.546246 
+ID: 1089028 
+topic: Computational complexity theory  --  value: 26.315231 
+topic: Operating system  --  value: 24.113383 
+topic: Reliability engineering  --  value: 24.104355 
+topic: Computer network  --  value: 15.310666 
+topic: Analysis of algorithms  --  value: 12.952511 
+topic: Database  --  value: 9.314965 
+ID: 1089027 
+topic: Computational complexity theory  --  value: 39.187627 
+topic: Analysis of algorithms  --  value: 5.826314 
+topic: Information retrieval  --  value: 4.041614 
+ID: 1089026 
+topic: Computational complexity theory  --  value: 34.489944 
+topic: Coding theory  --  value: 10.041537 
+topic: Artificial intelligence  --  value: 5.500311 
+topic: Programming language  --  value: 3.042281 
+ID: 1089025 
+topic: Mathematical logic  --  value: 19.264203 
+topic: Computational complexity theory  --  value: 19.074758 
+topic: Central processing unit  --  value: 6.716595 
+ID: 1089024 
+topic: Artificial intelligence  --  value: 20.153213 
+topic: Computational complexity theory  --  value: 14.086140 
+topic: Bioinformatics  --  value: 6.339314 
+topic: Computer data storage  --  value: 3.495407 
+ID: 234753 
+topic: Database  --  value: 23.991180 
+topic: Artificial intelligence  --  value: 16.027198 
+topic: Reliability engineering  --  value: 15.356876 
+topic: Analysis of algorithms  --  value: 7.698820 
+ID: 234756 
+topic: Mathematical logic  --  value: 30.293375 
+topic: Operating system  --  value: 11.252843 
+topic: Reliability engineering  --  value: 10.378619 
+topic: Programming language  --  value: 5.149237 
+ID: 234755 
+topic: Computational complexity theory  --  value: 28.367002 
+topic: Database  --  value: 15.242823 
+topic: Artificial intelligence  --  value: 7.445731 
+ID: 234754 
+topic: Computational complexity theory  --  value: 22.824895 
+topic: Mathematical logic  --  value: 15.194967 
+topic: Computer network  --  value: 14.927977 
+topic: Discrete mathematics  --  value: 9.491867 
+topic: Data structure  --  value: 3.652887 
+ID: 1039491 
+topic: Computer network  --  value: 50.623631 
+topic: Information theory  --  value: 33.751405 
+topic: Database  --  value: 27.971836 
+topic: Computational complexity theory  --  value: 16.119981 
+topic: Reliability engineering  --  value: 6.625739 
+ID: 1039490 
+topic: Database  --  value: 22.378542 
+topic: Mathematical logic  --  value: 16.054451 
+topic: Reliability engineering  --  value: 11.033466 
+topic: Computational complexity theory  --  value: 8.917404 
+topic: Information retrieval  --  value: 3.708729 
+ID: 1039493 
+topic: Computational complexity theory  --  value: 20.373681 
+topic: Pattern recognition  --  value: 11.632565 
+topic: Database  --  value: 6.049309 
+ID: 1039492 
+topic: Database  --  value: 18.277071 
+topic: Computational complexity theory  --  value: 17.803651 
+topic: Artificial intelligence  --  value: 5.216612 
+topic: Central processing unit  --  value: 3.104928 
+topic: Bioinformatics  --  value: 2.690330 
+ID: 1039494 
+topic: Numerical analysis  --  value: 22.034268 
+topic: Computational complexity theory  --  value: 20.864143 
+topic: Probability and statistics  --  value: 4.157144 
+ID: 147517 
+topic: Computational complexity theory  --  value: 14.669265 
+topic: Computer network  --  value: 12.367772 
+ID: 320232 
+topic: Information retrieval  --  value: 18.138897 
+topic: Central processing unit  --  value: 12.285079 
+topic: Artificial intelligence  --  value: 11.133903 
+topic: Computational complexity theory  --  value: 11.120708 
+topic: Computer network  --  value: 6.414005 
+ID: 1734220 
+topic: Mathematical logic  --  value: 19.289717 
+topic: Operating system  --  value: 9.199753 
+topic: Information retrieval  --  value: 7.982382 
+topic: Computer network  --  value: 5.602221 
+ID: 153752 
+topic: Programming language  --  value: 11.661993 
+topic: Mathematical logic  --  value: 8.375044 
+ID: 2108244 
+topic: Database  --  value: 35.219810 
+topic: Computational complexity theory  --  value: 32.554843 
+topic: Central processing unit  --  value: 27.161052 
+topic: Computer data storage  --  value: 20.342392 
+topic: Microcode  --  value: 11.180110 
+topic: Integrated circuit  --  value: 9.652903 
+ID: 2108245 
+topic: Database  --  value: 25.353362 
+topic: Computational complexity theory  --  value: 18.646458 
+topic: Computer network  --  value: 9.716626 
+topic: Analysis of algorithms  --  value: 8.820674 
+topic: Mathematical logic  --  value: 7.555473 
+ID: 355547 
+topic: Computational complexity theory  --  value: 75.611756 
+topic: Database  --  value: 28.963018 
+topic: Pattern recognition  --  value: 2.480781 
+ID: 151267 
+topic: Artificial intelligence  --  value: 10.668058 
+topic: Computer network  --  value: 9.316780 
+topic: Computational complexity theory  --  value: 8.085895 
+topic: Central processing unit  --  value: 8.003340 
+ID: 151266 
+topic: Central processing unit  --  value: 32.722316 
+topic: Computer simulation  --  value: 17.123644 
+topic: Computational complexity theory  --  value: 16.939135 
+topic: Reliability engineering  --  value: 5.288979 
+ID: 355542 
+topic: Computational complexity theory  --  value: 29.408477 
+topic: Personal computer  --  value: 11.123264 
+topic: Numerical analysis  --  value: 8.612633 
+topic: Bioinformatics  --  value: 4.818263 
+topic: Integrated circuit  --  value: 4.129955 
+ID: 2108243 
+topic: Computational complexity theory  --  value: 26.381864 
+topic: Programming language  --  value: 16.772747 
+topic: Mathematical logic  --  value: 15.853266 
+topic: Probability and statistics  --  value: 7.066198 
+ID: 1236458 
+topic: Computer network  --  value: 8.527778 
+topic: Reliability engineering  --  value: 8.169341 
+topic: Numerical analysis  --  value: 7.260800 
+topic: Analysis of algorithms  --  value: 5.116155 
+ID: 151268 
+topic: Computational complexity theory  --  value: 50.614714 
+topic: Formal language  --  value: 6.564247 
+topic: Database  --  value: 3.876594 
+ID: 320243 
+topic: Computational complexity theory  --  value: 14.812212 
+topic: Reliability engineering  --  value: 3.224825 
+ID: 320240 
+topic: Computational complexity theory  --  value: 62.473661 
+topic: Mathematical logic  --  value: 53.089620 
+topic: Database  --  value: 11.492275 
+ID: 1754402 
+topic: Computational complexity theory  --  value: 37.980890 
+topic: Database  --  value: 22.352279 
+topic: Mathematical logic  --  value: 17.096385 
+topic: Analysis of algorithms  --  value: 15.546471 
+topic: Information theory  --  value: 6.735707 
+topic: Coding theory  --  value: 4.399380 
+ID: 1754403 
+topic: Artificial intelligence  --  value: 40.287021 
+topic: Formal language  --  value: 13.569291 
+topic: Legal aspects of computing  --  value: 7.199243 
+ID: 1754400 
+topic: Computational complexity theory  --  value: 10.718416 
+topic: Mathematical logic  --  value: 8.808572 
+topic: Artificial intelligence  --  value: 6.147689 
+topic: Analysis of algorithms  --  value: 5.399397 
+ID: 1754401 
+topic: Mathematical logic  --  value: 10.329113 
+topic: Information theory  --  value: 2.922387 
+topic: Integrated circuit  --  value: 1.804056 
+ID: 1857915 
+topic: Computational complexity theory  --  value: 34.638349 
+topic: Bioinformatics  --  value: 21.128913 
+topic: Database  --  value: 13.288294 
+ID: 1857916 
+topic: Computational complexity theory  --  value: 27.018519 
+ID: 1857917 
+topic: Numerical analysis  --  value: 22.052902 
+topic: Reliability engineering  --  value: 9.869567 
+topic: Computational complexity theory  --  value: 5.133087 
+ID: 585270 
+topic: Database  --  value: 34.353981 
+topic: Artificial intelligence  --  value: 32.583890 
+topic: Mathematical logic  --  value: 27.208076 
+topic: Computational complexity theory  --  value: 21.283444 
+topic: Programming language  --  value: 7.663202 
+ID: 174659 
+topic: Mathematical logic  --  value: 11.275842 
+topic: Computational complexity theory  --  value: 10.142045 
+topic: Numerical analysis  --  value: 6.637669 
+ID: 174658 
+topic: Artificial intelligence  --  value: 30.332908 
+topic: Database  --  value: 16.375046 
+topic: Probability and statistics  --  value: 5.347602 
+ID: 185795 
+topic: Computational complexity theory  --  value: 39.658289 
+topic: Numerical analysis  --  value: 11.908033 
+topic: Database  --  value: 11.489233 
+ID: 174653 
+topic: Reliability engineering  --  value: 6.280878 
+topic: Analysis of algorithms  --  value: 2.812900 
+topic: Pattern recognition  --  value: 1.961777 
+ID: 174651 
+topic: Programming language  --  value: 11.688117 
+topic: Artificial intelligence  --  value: 8.242213 
+topic: Computational complexity theory  --  value: 4.125226 
+ID: 174650 
+topic: Computational complexity theory  --  value: 75.022606 
+topic: Numerical analysis  --  value: 17.014431 
+ID: 174657 
+topic: Microcode  --  value: 9.733309 
+topic: Computational complexity theory  --  value: 3.303728 
+ID: 174656 
+topic: Computational complexity theory  --  value: 30.542284 
+topic: Computer simulation  --  value: 9.450601 
+topic: Database  --  value: 5.719981 
+topic: Artificial intelligence  --  value: 4.716383 
+topic: Pattern recognition  --  value: 1.663344 
+ID: 174655 
+topic: Mathematical logic  --  value: 8.712771 
+topic: Artificial intelligence  --  value: 6.871716 
+topic: Reliability engineering  --  value: 5.476004 
+topic: Database  --  value: 5.013583 
+ID: 174654 
+topic: Computational complexity theory  --  value: 32.384732 
+topic: Numerical analysis  --  value: 12.969792 
+topic: Personal computer  --  value: 8.206462 
+topic: Analysis of algorithms  --  value: 7.513088 
+ID: 258212 
+topic: Mathematical logic  --  value: 32.644073 
+topic: Numerical analysis  --  value: 23.594495 
+topic: Reliability engineering  --  value: 21.472771 
+topic: Information theory  --  value: 13.362735 
+ID: 174136 
+topic: Computational complexity theory  --  value: 2.607588 
+topic: Computer network  --  value: 2.429449 
+ID: 151269 
+topic: Operating system  --  value: 36.223327 
+topic: Central processing unit  --  value: 22.681708 
+topic: Software engineering  --  value: 9.064002 
+topic: Reliability engineering  --  value: 6.105037 
+ID: 285057 
+topic: Database  --  value: 23.233425 
+topic: Operating system  --  value: 20.990123 
+topic: Formal methods  --  value: 12.037908 
+topic: Artificial intelligence  --  value: 9.934145 
+topic: Computational complexity theory  --  value: 8.419964 
+topic: Computer network  --  value: 6.571443 
+topic: Symbolic computation  --  value: 1.942622 
+ID: 285058 
+topic: Mathematical logic  --  value: 23.400570 
+topic: Computational complexity theory  --  value: 19.207101 
+topic: Database  --  value: 17.447885 
+ID: 146609 
+topic: Computational complexity theory  --  value: 6.165565 
+topic: Mathematical logic  --  value: 2.871472 
+ID: 285059 
+topic: Computational complexity theory  --  value: 25.826883 
+topic: Mathematical logic  --  value: 12.388007 
+topic: Numerical analysis  --  value: 5.840665 
+ID: 1059516 
+topic: Computational complexity theory  --  value: 52.288382 
+topic: Information theory  --  value: 41.377881 
+topic: Integrated circuit  --  value: 12.389293 
+ID: 1059517 
+topic: Computer network  --  value: 44.629230 
+topic: Central processing unit  --  value: 17.045988 
+topic: Computational complexity theory  --  value: 10.113206 
+topic: Bioinformatics  --  value: 8.890199 
+topic: Coding theory  --  value: 3.413969 
+ID: 1944348 
+topic: Computer data storage  --  value: 25.978055 
+topic: Database  --  value: 17.605923 
+topic: Operating system  --  value: 5.002895 
+topic: Computational complexity theory  --  value: 4.487200 
+ID: 1944349 
+topic: Computational complexity theory  --  value: 13.543038 
+topic: Numerical analysis  --  value: 12.292455 
+topic: Database  --  value: 10.612491 
+topic: Artificial intelligence  --  value: 8.607252 
+topic: Reliability engineering  --  value: 6.037356 
+ID: 1944346 
+topic: Computational complexity theory  --  value: 26.258048 
+topic: Mathematical logic  --  value: 8.778989 
+ID: 1944347 
+topic: Computational complexity theory  --  value: 30.265432 
+topic: Reliability engineering  --  value: 24.149236 
+topic: Microcode  --  value: 22.578097 
+topic: Data structure  --  value: 8.081310 
+ID: 1059519 
+topic: Database  --  value: 46.033825 
+topic: Reliability engineering  --  value: 15.003212 
+ID: 179838 
+topic: Numerical analysis  --  value: 28.328836 
+topic: Computational complexity theory  --  value: 16.708202 
+ID: 263489 
+topic: Computational complexity theory  --  value: 27.180777 
+topic: Mathematical logic  --  value: 19.453526 
+topic: Artificial intelligence  --  value: 3.421253 
+ID: 226647 
+topic: Reliability engineering  --  value: 24.473356 
+topic: Mathematical logic  --  value: 13.876288 
+topic: Computational complexity theory  --  value: 8.705911 
+ID: 226644 
+topic: Artificial intelligence  --  value: 34.605960 
+topic: Database  --  value: 8.277885 
+topic: Mathematical logic  --  value: 6.437082 
+topic: Programming language  --  value: 6.244865 
+topic: Computational complexity theory  --  value: 4.526801 
+ID: 174150 
+topic: Artificial intelligence  --  value: 20.017582 
+topic: Numerical analysis  --  value: 11.338945 
+topic: Computational complexity theory  --  value: 6.134444 
+topic: Reliability engineering  --  value: 5.583104 
+ID: 174151 
+topic: Database  --  value: 41.453805 
+topic: Reliability engineering  --  value: 29.734791 
+topic: Numerical analysis  --  value: 10.345870 
+topic: Computer network  --  value: 4.539609 
+ID: 234534 
+topic: Computational complexity theory  --  value: 50.639318 
+topic: Database  --  value: 29.146278 
+topic: Central processing unit  --  value: 9.269960 
+ID: 269004 
+topic: Operating system  --  value: 24.246084 
+topic: Programming language  --  value: 14.470247 
+topic: Formal methods  --  value: 11.055128 
+topic: Information theory  --  value: 5.302615 
+ID: 169675 
+topic: Computational complexity theory  --  value: 26.945145 
+topic: Artificial intelligence  --  value: 18.897499 
+topic: Database  --  value: 9.557449 
+topic: Reliability engineering  --  value: 3.673981 
+ID: 269000 
+topic: Database  --  value: 49.816507 
+topic: Analysis of algorithms  --  value: 12.509929 
+topic: Computational complexity theory  --  value: 12.023828 
+topic: Formal methods  --  value: 10.723811 
+ID: 269003 
+topic: Microcode  --  value: 14.748058 
+topic: Computer data storage  --  value: 12.986129 
+topic: Information theory  --  value: 9.216732 
+topic: Operating system  --  value: 6.123155 
+ID: 269002 
+topic: Computational complexity theory  --  value: 15.191752 
+topic: Operating system  --  value: 4.080707 
+topic: Programming language  --  value: 2.526990 
+topic: Mathematical logic  --  value: 2.274626 
+ID: 153727 
+topic: Computational complexity theory  --  value: 50.955106 
+topic: Reliability engineering  --  value: 13.312147 
+topic: Analysis of algorithms  --  value: 11.710866 
+topic: Database  --  value: 9.095954 
+ID: 174135 
+topic: Discrete mathematics  --  value: 20.978023 
+topic: Artificial intelligence  --  value: 17.478125 
+topic: Central processing unit  --  value: 10.266462 
+topic: Mathematical logic  --  value: 6.828474 
+topic: Database  --  value: 6.541507 
+ID: 146666 
+topic: Computational complexity theory  --  value: 24.319935 
+topic: Database  --  value: 20.891090 
+topic: Mathematical logic  --  value: 18.062830 
+topic: Computer simulation  --  value: 1.800220 
+ID: 179902 
+topic: Computational complexity theory  --  value: 29.087477 
+topic: Analysis of algorithms  --  value: 5.949560 
+ID: 146661 
+topic: Computational complexity theory  --  value: 31.692148 
+topic: Mathematical logic  --  value: 14.021594 
+topic: Reliability engineering  --  value: 4.341814 
+ID: 2027219 
+topic: Computational complexity theory  --  value: 43.125766 
+topic: Programming language  --  value: 15.911271 
+ID: 2027218 
+topic: Computational complexity theory  --  value: 35.414297 
+topic: Mathematical logic  --  value: 10.420923 
+topic: Numerical analysis  --  value: 8.641808 
+topic: Performance tuning  --  value: 2.597045 
+ID: 147511 
+topic: Computational complexity theory  --  value: 29.117862 
+topic: Computer data storage  --  value: 9.919175 
+ID: 2027217 
+topic: Computational complexity theory  --  value: 27.903545 
+topic: Database  --  value: 13.179232 
+topic: Numerical analysis  --  value: 7.972778 
+ID: 347482 
+topic: Discrete mathematics  --  value: 11.636244 
+topic: Computer network  --  value: 7.585506 
+topic: Computer simulation  --  value: 6.041339 
+topic: Computational complexity theory  --  value: 2.810986 
+ID: 273901 
+topic: Computational complexity theory  --  value: 14.385750 
+topic: Information theory  --  value: 8.213039 
+topic: Programming language  --  value: 1.456767 
+ID: 234549 
+topic: Reliability engineering  --  value: 25.265724 
+topic: Information theory  --  value: 8.011102 
+topic: Computational complexity theory  --  value: 7.778729 
+ID: 1059515 
+topic: Computational complexity theory  --  value: 23.642021 
+topic: Central processing unit  --  value: 3.754027 
+topic: Reliability engineering  --  value: 2.659508 
+ID: 602411 
+topic: Computational complexity theory  --  value: 17.730612 
+topic: Mathematical logic  --  value: 11.134784 
+topic: Artificial intelligence  --  value: 5.339849 
+topic: Legal aspects of computing  --  value: 3.868829 
+ID: 1147962 
+topic: Computational complexity theory  --  value: 16.341222 
+topic: Integrated circuit  --  value: 9.990950 
+topic: Computer simulation  --  value: 4.723384 
+ID: 1147961 
+topic: Mathematical logic  --  value: 33.828266 
+topic: Abstract machine  --  value: 10.208771 
+ID: 1147960 
+topic: Computational complexity theory  --  value: 27.258999 
+topic: Operating system  --  value: 12.107782 
+topic: Mathematical logic  --  value: 9.688775 
+ID: 962449 
+topic: Computational complexity theory  --  value: 36.804328 
+topic: Central processing unit  --  value: 31.344601 
+topic: Database  --  value: 27.827111 
+topic: Coding theory  --  value: 10.098034 
+ID: 962448 
+topic: Programming language  --  value: 20.144775 
+topic: Computational complexity theory  --  value: 18.179088 
+topic: Database  --  value: 17.932934 
+topic: Mathematical logic  --  value: 6.817277 
+ID: 273884 
+topic: Database  --  value: 34.107612 
+topic: Computer network  --  value: 23.207187 
+topic: Computational complexity theory  --  value: 8.585975 
+topic: Central processing unit  --  value: 7.173300 
+ID: 1066103 
+topic: Database  --  value: 29.679117 
+topic: Computational complexity theory  --  value: 7.762690 
+topic: Mathematical logic  --  value: 5.551222 
+topic: Control unit  --  value: 2.081044 
+ID: 1066102 
+topic: Mathematical logic  --  value: 13.330994 
+topic: Artificial intelligence  --  value: 11.961086 
+topic: Computer simulation  --  value: 10.079494 
+topic: Pattern recognition  --  value: 7.109275 
+topic: Information retrieval  --  value: 6.611744 
+ID: 1066101 
+topic: Computational complexity theory  --  value: 43.093162 
+topic: Analysis of algorithms  --  value: 12.065755 
+topic: Coding theory  --  value: 6.896638 
+ID: 146596 
+topic: Computer network  --  value: 24.718878 
+topic: Information theory  --  value: 19.408351 
+topic: Computational complexity theory  --  value: 16.928327 
+ID: 146599 
+topic: Computational complexity theory  --  value: 32.874729 
+topic: Artificial intelligence  --  value: 9.162308 
+ID: 185811 
+topic: Computational complexity theory  --  value: 16.018519 
+ID: 185815 
+topic: Computational complexity theory  --  value: 22.303862 
+topic: Computer data storage  --  value: 14.168189 
+topic: Computer network  --  value: 12.471977 
+topic: Artificial intelligence  --  value: 12.130046 
+ID: 293351 
+topic: Database  --  value: 20.515220 
+topic: Computational complexity theory  --  value: 19.427733 
+topic: Artificial intelligence  --  value: 17.681661 
+topic: Reliability engineering  --  value: 12.449460 

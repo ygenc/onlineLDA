@@ -1,0 +1,54 @@
+Control unit	133
+Microcode	265
+Arithmetic logic unit	279
+Computer data storage	1505
+Input/output	634
+Register-transfer level	67
+Logic synthesis	91
+Integrated circuit	1979
+Reliability engineering	725
+Central processing unit	5162
+Computer network	4500
+Performance tuning	30
+Implementation	201
+Programming paradigm	918
+Software engineering	1614
+Programming language	6355
+Operating system	13793
+Data structure	692
+Encryption	1221
+Coding theory	204
+Information theory	865
+Computer file	552
+Abstract machine	64
+Analysis of algorithms	160
+Computational complexity theory	811
+Formal methods	357
+Formal language	669
+Mathematical logic	1138
+Numerical analysis	866
+Discrete mathematics	256
+Probability and statistics	24
+Mathematical software	36
+Database	2682
+Information retrieval	370
+Human–computer interaction	0
+Symbolic computation	174
+Artificial intelligence	4263
+Computer graphics	1434
+Computer vision	562
+Image processing	461
+Pattern recognition	324
+Computer simulation	862
+Document processing	9
+Computational science	239
+Bioinformatics	1736
+Digital art	405
+Digital humanities	72
+Computer-aided engineering	123
+Computer industry	93
+History of computer science	98
+Educational technology	614
+Legal aspects of computing	473
+System administrator	328
+Personal computer	5613

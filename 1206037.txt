@@ -1,0 +1,148 @@
+1999
+All
+Path
+Stable
+Strong
+Version
+Expressivity
+Founding
+Inclusion
+Normalization property (abstract rewriting)
+Operation
+TO
+Can
+Family
+From
+More
+On
+Property
+Rewrite rule
+Substitution
+This
+Type
+Under
+2 (number)
+Comparison
+IS
+Proof
+A
+Example
+Lambda calculus
+Now
+Order
+Proof
+Rubio
+Sense
+Typed lambda calculus
+Exemplification
+Number
+Recursion
+Replacement
+Type
+Typing
+Easily
+Framework
+Nontrivial
+Pattern matching
+Restriction
+They
+Used
+Definition
+Indeed.com
+Mathematical proof
+Power (philosophy)
+Symbol
+Type constructor
+Besides
+By
+Given
+Lambda
+Our
+Signature
+1 (number)
+Instantiation
+And
+Calculus
+Expressive power
+Monomorphic
+Rewrite
+Than
+That
+Well
+Which
+Constant
+Natural number
+Nature
+Orientability
+Path-ordering
+Relation
+Rewrite rule
+Beta
+First
+Implementation
+Notion
+Indian Reductions
+Integration
+Precision
+Article
+Pattern
+We
+ARE
+Much More
+Polymorphism
+Technique
+Term
+Been
+Both
+Many
+Reduction
+S
+These
+AN
+Algebra
+Constructor
+Extension
+Improve
+Ownership
+Romeo Miller
+Dershowitz
+Higher
+Normalization
+Setting
+Termination
+English articles
+First-order
+IN
+Monotonic function
+Reflexive pronoun
+Use
+For
+Matching
+Power
+Some
+BE
+Example
+HAS
+Normalization property (abstract rewriting)
+Rule
+Termination analysis
+Comparison
+Function
+Into
+Made
+Much
+Of
+There
+Calculus (disambiguation)
+Extension
+Intuition
+Abstract
+Congruence
+Godel
+Rule
+Single
+Check
+Definition
+Higher-order function
+Order
+Uniform distribution
